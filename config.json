@@ -8,12 +8,5 @@
   "linkSelector": ".c-article-list-full-width__wrapper",
   "descriptionSelector": ".c-article-list__description",
   "dateSelector": ".c-article-list__date"
-},
-  {
-    "name": "site2",
-    "url": "https://example-news2.com",
-    "articleSelector": ".post",
-    "titleSelector": ".title",
-    "linkSelector": "a"
-  }
+}
 ]
