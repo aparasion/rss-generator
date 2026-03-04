@@ -43,27 +43,35 @@ const config = require("./config.json");
           let count = 0;
 
           $(site.articleSelector).each((i, el) => {
-            if (count >= 20) return; // limit items
+            if (count >= 20) return;
 
             const title = $(el).find(site.titleSelector).text().trim();
             let link = $(el).find(site.linkSelector).attr("href");
+            const description = site.descriptionSelector
+              ? $(el).find(site.descriptionSelector).text().trim()
+              : "";
+
+            const rawDate = site.dateSelector
+              ? $(el).find(site.dateSelector).text().trim()
+              : "";
 
             if (title && link) {
-              // Fix relative URLs
-              if (!link.startsWith("http")) {
-                link = new URL(link, site.url).href;
+              // Convert relative URLs to absolute
+              const fullLink = link.startsWith("http")
+                ? link
+                : new URL(link, site.url).href;
+
+              // Parse date safely
+              let parsedDate = new Date(rawDate);
+              if (isNaN(parsedDate)) {
+                parsedDate = new Date(); // fallback
               }
 
-              const rawDate = $(el).find(site.dateSelector).text().trim();
-              
-              // Example format from GALA: 03/4/2026
-              let parsedDate = new Date(rawDate);
-              
               feed.item({
                 title,
                 url: fullLink,
                 description,
-                date: isNaN(parsedDate) ? new Date() : parsedDate,
+                date: parsedDate,
               });
 
               count++;
