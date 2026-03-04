@@ -1,1 +1,16 @@
-
+[
+  {
+    "name": "Gala-Global",
+    "url": "https://www.gala-global.org/news",
+    "articleSelector": ".article",
+    "titleSelector": "h2",
+    "linkSelector": "a"
+  },
+  {
+    "name": "site2",
+    "url": "https://example-news2.com",
+    "articleSelector": ".post",
+    "titleSelector": ".title",
+    "linkSelector": "a"
+  }
+]
