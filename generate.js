@@ -54,11 +54,16 @@ const config = require("./config.json");
                 link = new URL(link, site.url).href;
               }
 
+              const rawDate = $(el).find(site.dateSelector).text().trim();
+              
+              // Example format from GALA: 03/4/2026
+              let parsedDate = new Date(rawDate);
+              
               feed.item({
                 title,
-                url: link,
-                guid: link,
-                date: new Date(),
+                url: fullLink,
+                description,
+                date: isNaN(parsedDate) ? new Date() : parsedDate,
               });
 
               count++;
