@@ -3,7 +3,7 @@
     "name": "Gala-Global",
     "url": "https://www.gala-global.org/news",
     "articleSelector": ".g-article-list__right",
-    "titleSelector": ".title",
+    "titleSelector": ".c-article-list-full-width__wrapper",
     "linkSelector": "a"
   },
   {
