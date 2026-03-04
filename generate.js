@@ -6,6 +6,40 @@ const path = require("path");
 
 const config = require("./config.json");
 
+function parseArticleDate(rawDate) {
+  if (!rawDate) return null;
+
+  const normalized = rawDate.replace(/\s+/g, " ").trim();
+  if (!normalized) return null;
+
+  // 1) Let JS parse common formats such as:
+  //    - "March 4, 2026"
+  //    - "4 March 2026"
+  //    - ISO datetime strings
+  const nativeParsed = new Date(normalized);
+  if (!Number.isNaN(nativeParsed.getTime())) {
+    return nativeParsed;
+  }
+
+  // 2) Explicit fallback for numeric dates (M/D/YYYY or D/M/YYYY)
+  const numericDateMatch = normalized.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (numericDateMatch) {
+    const first = parseInt(numericDateMatch[1], 10);
+    const second = parseInt(numericDateMatch[2], 10);
+    const year = parseInt(numericDateMatch[3], 10);
+
+    // Prefer M/D/YYYY by default; flip when first part cannot be month.
+    const month = first > 12 ? second - 1 : first - 1;
+    const day = first > 12 ? first : second;
+
+    if (!Number.isNaN(month) && !Number.isNaN(day) && !Number.isNaN(year)) {
+      return new Date(Date.UTC(year, month, day));
+    }
+  }
+
+  return null;
+}
+
 (async () => {
   try {
     console.log("Starting RSS generation...");
@@ -51,8 +85,9 @@ const config = require("./config.json");
               ? $(el).find(site.descriptionSelector).text().trim()
               : "";
 
-            const rawDate = site.dateSelector
-              ? $(el).find(site.dateSelector).text().trim()
+            const rawDateEl = site.dateSelector ? $(el).find(site.dateSelector).first() : null;
+            const rawDate = rawDateEl
+              ? rawDateEl.attr("datetime") || rawDateEl.text().trim()
               : "";
 
             if (title && link) {
@@ -61,29 +96,19 @@ const config = require("./config.json");
                 ? link
                 : new URL(link, site.url).href;
 
-              // ---- FIXED DATE PARSING (MM/DD/YYYY) ----
-              let parsedDate = new Date();
+              const parsedDate = parseArticleDate(rawDate);
 
-              if (rawDate) {
-                const parts = rawDate.split("/");
-
-                if (parts.length === 3) {
-                  const month = parseInt(parts[0], 10) - 1; // MM
-                  const day = parseInt(parts[1], 10);       // DD
-                  const year = parseInt(parts[2], 10);      // YYYY
-
-                  if (!isNaN(month) && !isNaN(day) && !isNaN(year)) {
-                    parsedDate = new Date(Date.UTC(year, month, day));
-                  }
-                }
-              }
-
-              feed.item({
+              const item = {
                 title,
                 url: fullLink,
                 description,
-                date: parsedDate,
-              });
+              };
+
+              if (parsedDate) {
+                item.date = parsedDate;
+              }
+
+              feed.item(item);
 
               count++;
             }
