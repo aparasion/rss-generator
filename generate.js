@@ -6,6 +6,110 @@ const path = require("path");
 
 const config = require("./config.json");
 
+function normalizeUrl(url, baseUrl) {
+  if (!url) return null;
+
+  try {
+    return url.startsWith("http") ? url : new URL(url, baseUrl).href;
+  } catch {
+    return null;
+  }
+}
+
+function extractArticlesFromJsonLd($, pageUrl) {
+  const articles = [];
+
+  $('script[type="application/ld+json"]').each((_, el) => {
+    const raw = $(el).contents().text().trim();
+    if (!raw) return;
+
+    try {
+      const payload = JSON.parse(raw);
+      const queue = Array.isArray(payload) ? [...payload] : [payload];
+
+      while (queue.length) {
+        const node = queue.shift();
+        if (!node) continue;
+
+        if (Array.isArray(node)) {
+          queue.push(...node);
+          continue;
+        }
+
+        if (typeof node !== "object") continue;
+
+        if (node["@graph"]) queue.push(node["@graph"]);
+        if (node.itemListElement) queue.push(node.itemListElement);
+
+        const type = node["@type"];
+        const typeList = Array.isArray(type) ? type : [type];
+        const isArticleType = typeList.some((t) =>
+          typeof t === "string" && t.toLowerCase().includes("article")
+        );
+
+        if (!isArticleType) continue;
+
+        const title = (node.headline || node.name || "").trim();
+        const link = normalizeUrl(node.url, pageUrl);
+
+        if (!title || !link) continue;
+
+        articles.push({
+          title,
+          link,
+          description: (node.description || "").trim(),
+          rawDate: node.datePublished || node.dateCreated || "",
+        });
+      }
+    } catch {
+      // Ignore malformed JSON-LD script tags and continue.
+    }
+  });
+
+  return articles;
+}
+
+function extractArticlesFromAnchors($, pageUrl) {
+  const articles = [];
+
+  $("a[href]").each((_, el) => {
+    const rawHref = ($(el).attr("href") || "").trim();
+    const title = $(el).text().replace(/\s+/g, " ").trim();
+
+    if (!rawHref || !title || title.length < 8) return;
+
+    const link = normalizeUrl(rawHref, pageUrl);
+    if (!link) return;
+
+    // Keep only links that are likely article pages.
+    if (!/\/news\//i.test(link)) return;
+
+    articles.push({
+      title,
+      link,
+      description: "",
+      rawDate: "",
+    });
+  });
+
+  return articles;
+}
+
+function getFallbackArticles($, site) {
+  const fromJsonLd = extractArticlesFromJsonLd($, site.url);
+  const fromAnchors = extractArticlesFromAnchors($, site.url);
+
+  const deduped = new Map();
+
+  [...fromJsonLd, ...fromAnchors].forEach((article) => {
+    if (!deduped.has(article.link)) {
+      deduped.set(article.link, article);
+    }
+  });
+
+  return [...deduped.values()].slice(0, 20);
+}
+
 function parseArticleDate(rawDate) {
   if (!rawDate) return null;
 
@@ -31,41 +135,7 @@ function parseArticleDate(rawDate) {
     // Prefer M/D/YYYY by default; flip when first part cannot be month.
     const month = first > 12 ? second - 1 : first - 1;
     const day = first > 12 ? first : second;
-
-    if (!Number.isNaN(month) && !Number.isNaN(day) && !Number.isNaN(year)) {
-      return new Date(Date.UTC(year, month, day));
-    }
-  }
-
-  return null;
-}
-
-(async () => {
-  try {
-    console.log("Starting RSS generation...");
-
-    // Ensure rss folder exists
-    const rssDir = path.join(__dirname, "rss");
-    if (!fs.existsSync(rssDir)) {
-      fs.mkdirSync(rssDir);
-    }
-
-    await Promise.all(
-      config.map(async (site) => {
-        try {
-          console.log(`Generating feed for ${site.name}`);
-
-          const { data } = await axios.get(site.url, {
-            headers: {
-              "User-Agent": "Mozilla/5.0"
-            },
-            timeout: 15000
-          });
-
-          const $ = cheerio.load(data);
-
-          const feed = new RSS({
-            title: `${site.name} Feed`,
+@@ -69,66 +173,88 @@ function parseArticleDate(rawDate) {
             description: `RSS feed generated for ${site.name}`,
             site_url: site.url,
             feed_url: `https://aparasion.github.io/rss-generator/rss/${site.name}.xml`,
@@ -91,10 +161,8 @@ function parseArticleDate(rawDate) {
               : "";
 
             if (title && link) {
-              // Convert relative URLs to absolute
-              const fullLink = link.startsWith("http")
-                ? link
-                : new URL(link, site.url).href;
+              const fullLink = normalizeUrl(link, site.url);
+              if (!fullLink) return;
 
               const parsedDate = parseArticleDate(rawDate);
 
@@ -113,6 +181,30 @@ function parseArticleDate(rawDate) {
               count++;
             }
           });
+
+          if (count === 0) {
+            const fallbackArticles = getFallbackArticles($, site);
+
+            fallbackArticles.forEach((article) => {
+              const parsedDate = parseArticleDate(article.rawDate);
+              const item = {
+                title: article.title,
+                url: article.link,
+                description: article.description,
+              };
+
+              if (parsedDate) {
+                item.date = parsedDate;
+              }
+
+              feed.item(item);
+            });
+
+            count = fallbackArticles.length;
+            console.warn(
+              `No articles matched configured selectors for ${site.name}; used fallback discovery (${count} items).`
+            );
+          }
 
           const outputPath = path.join(rssDir, `${site.name}.xml`);
           fs.writeFileSync(outputPath, feed.xml({ indent: true }));
