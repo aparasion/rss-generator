@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 18
 
-      - run: npm install axios cheerio rss
+      - run: npm ci
 
       - run: node generate.js
 
