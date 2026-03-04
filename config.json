@@ -1,11 +1,14 @@
 [
-  {
-    "name": "Gala-Global",
-    "url": "https://www.gala-global.org/news",
-    "articleSelector": ".g-article-list__right",
-    "titleSelector": ".c-article-list-full-width__wrapper",
-    "linkSelector": "a"
-  },
+{
+  "name": "GALA-Global",
+  "url": "https://www.gala-global.org/news/",
+  "baseUrl": "https://www.gala-global.org",
+  "articleSelector": ".articles .article",
+  "titleSelector": ".c-article-list-full-width__wrapper",
+  "linkSelector": ".c-article-list-full-width__wrapper",
+  "descriptionSelector": ".c-article-list__description",
+  "dateSelector": ".c-article-list__date"
+},
   {
     "name": "site2",
     "url": "https://example-news2.com",
