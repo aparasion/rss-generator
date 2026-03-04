@@ -16,7 +16,6 @@ const config = require("./config.json");
       fs.mkdirSync(rssDir);
     }
 
-    // Run all sites in parallel
     await Promise.all(
       config.map(async (site) => {
         try {
@@ -37,7 +36,7 @@ const config = require("./config.json");
             site_url: site.url,
             feed_url: `https://aparasion.github.io/rss-generator/rss/${site.name}.xml`,
             language: "en",
-            pubDate: new Date(),
+            pubDate: new Date(), // channel build date (correct behavior)
           });
 
           let count = 0;
@@ -47,6 +46,7 @@ const config = require("./config.json");
 
             const title = $(el).find(site.titleSelector).text().trim();
             let link = $(el).find(site.linkSelector).attr("href");
+
             const description = site.descriptionSelector
               ? $(el).find(site.descriptionSelector).text().trim()
               : "";
@@ -61,10 +61,21 @@ const config = require("./config.json");
                 ? link
                 : new URL(link, site.url).href;
 
-              // Parse date safely
-              let parsedDate = new Date(rawDate);
-              if (isNaN(parsedDate)) {
-                parsedDate = new Date(); // fallback
+              // ---- FIXED DATE PARSING (MM/DD/YYYY) ----
+              let parsedDate = new Date();
+
+              if (rawDate) {
+                const parts = rawDate.split("/");
+
+                if (parts.length === 3) {
+                  const month = parseInt(parts[0], 10) - 1; // MM
+                  const day = parseInt(parts[1], 10);       // DD
+                  const year = parseInt(parts[2], 10);      // YYYY
+
+                  if (!isNaN(month) && !isNaN(day) && !isNaN(year)) {
+                    parsedDate = new Date(Date.UTC(year, month, day));
+                  }
+                }
               }
 
               feed.item({
