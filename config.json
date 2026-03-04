@@ -2,8 +2,8 @@
   {
     "name": "Gala-Global",
     "url": "https://www.gala-global.org/news",
-    "articleSelector": ".article",
-    "titleSelector": "h2",
+    "articleSelector": ".g-article-list__right",
+    "titleSelector": ".title",
     "linkSelector": "a"
   },
   {
