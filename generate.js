@@ -5,6 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 const config = require("./config.json");
+const MAX_ITEMS = 20;
 
 function normalizeUrl(url, baseUrl) {
   if (!url) return null;
@@ -43,8 +44,8 @@ function extractArticlesFromJsonLd($, pageUrl) {
 
         const type = node["@type"];
         const typeList = Array.isArray(type) ? type : [type];
-        const isArticleType = typeList.some((t) =>
-          typeof t === "string" && t.toLowerCase().includes("article")
+        const isArticleType = typeList.some(
+          (t) => typeof t === "string" && t.toLowerCase().includes("article")
         );
 
         if (!isArticleType) continue;
@@ -107,7 +108,7 @@ function getFallbackArticles($, site) {
     }
   });
 
-  return [...deduped.values()].slice(0, 20);
+  return [...deduped.values()].slice(0, MAX_ITEMS);
 }
 
 function parseArticleDate(rawDate) {
@@ -127,65 +128,118 @@ function parseArticleDate(rawDate) {
 
   // 2) Explicit fallback for numeric dates (M/D/YYYY or D/M/YYYY)
   const numericDateMatch = normalized.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
-  if (numericDateMatch) {
-    const first = parseInt(numericDateMatch[1], 10);
-    const second = parseInt(numericDateMatch[2], 10);
-    const year = parseInt(numericDateMatch[3], 10);
+  if (!numericDateMatch) return null;
 
-    // Prefer M/D/YYYY by default; flip when first part cannot be month.
-    const month = first > 12 ? second - 1 : first - 1;
-    const day = first > 12 ? first : second;
-@@ -69,66 +173,88 @@ function parseArticleDate(rawDate) {
+  const first = parseInt(numericDateMatch[1], 10);
+  const second = parseInt(numericDateMatch[2], 10);
+  const year = parseInt(numericDateMatch[3], 10);
+
+  // Prefer M/D/YYYY by default; flip when first part cannot be month.
+  const month = first > 12 ? second - 1 : first - 1;
+  const day = first > 12 ? first : second;
+
+  if (
+    Number.isNaN(month) ||
+    Number.isNaN(day) ||
+    Number.isNaN(year) ||
+    month < 0 ||
+    month > 11 ||
+    day < 1 ||
+    day > 31
+  ) {
+    return null;
+  }
+
+  const parsed = new Date(Date.UTC(year, month, day));
+  if (
+    parsed.getUTCFullYear() !== year ||
+    parsed.getUTCMonth() !== month ||
+    parsed.getUTCDate() !== day
+  ) {
+    return null;
+  }
+
+  return parsed;
+}
+
+(async () => {
+  try {
+    console.log("Starting RSS generation...");
+
+    const rssDir = path.join(__dirname, "rss");
+    if (!fs.existsSync(rssDir)) {
+      fs.mkdirSync(rssDir);
+    }
+
+    await Promise.all(
+      config.map(async (site) => {
+        try {
+          console.log(`Generating feed for ${site.name}`);
+
+          const { data } = await axios.get(site.url, {
+            headers: {
+              "User-Agent": "Mozilla/5.0",
+            },
+            timeout: 15000,
+          });
+
+          const $ = cheerio.load(data);
+
+          const feed = new RSS({
+            title: `${site.name} Feed`,
             description: `RSS feed generated for ${site.name}`,
             site_url: site.url,
             feed_url: `https://aparasion.github.io/rss-generator/rss/${site.name}.xml`,
             language: "en",
-            pubDate: new Date(), // channel build date (correct behavior)
+            pubDate: new Date(),
           });
 
+          const addedLinks = new Set();
           let count = 0;
 
-          $(site.articleSelector).each((i, el) => {
-            if (count >= 20) return;
+          $(site.articleSelector).each((_, el) => {
+            if (count >= MAX_ITEMS) return;
 
             const title = $(el).find(site.titleSelector).text().trim();
-            let link = $(el).find(site.linkSelector).attr("href");
+            const link = ($(el).find(site.linkSelector).attr("href") || "").trim();
+            if (!title || !link) return;
+
+            const fullLink = normalizeUrl(link, site.url);
+            if (!fullLink || addedLinks.has(fullLink)) return;
 
             const description = site.descriptionSelector
               ? $(el).find(site.descriptionSelector).text().trim()
               : "";
 
-            const rawDateEl = site.dateSelector ? $(el).find(site.dateSelector).first() : null;
+            const rawDateEl = site.dateSelector
+              ? $(el).find(site.dateSelector).first()
+              : null;
             const rawDate = rawDateEl
               ? rawDateEl.attr("datetime") || rawDateEl.text().trim()
               : "";
 
-            if (title && link) {
-              const fullLink = normalizeUrl(link, site.url);
-              if (!fullLink) return;
+            const parsedDate = parseArticleDate(rawDate);
+            const item = {
+              title,
+              url: fullLink,
+              description,
+            };
 
-              const parsedDate = parseArticleDate(rawDate);
-
-              const item = {
-                title,
-                url: fullLink,
-                description,
-              };
-
-              if (parsedDate) {
-                item.date = parsedDate;
-              }
-
-              feed.item(item);
-
-              count++;
+            if (parsedDate) {
+              item.date = parsedDate;
             }
+
+            feed.item(item);
+            addedLinks.add(fullLink);
+            count++;
           });
 
           if (count === 0) {
             const fallbackArticles = getFallbackArticles($, site);
 
             fallbackArticles.forEach((article) => {
+              if (addedLinks.has(article.link)) return;
+
               const parsedDate = parseArticleDate(article.rawDate);
               const item = {
                 title: article.title,
@@ -198,9 +252,10 @@ function parseArticleDate(rawDate) {
               }
 
               feed.item(item);
+              addedLinks.add(article.link);
             });
 
-            count = fallbackArticles.length;
+            count = addedLinks.size;
             console.warn(
               `No articles matched configured selectors for ${site.name}; used fallback discovery (${count} items).`
             );
@@ -210,7 +265,6 @@ function parseArticleDate(rawDate) {
           fs.writeFileSync(outputPath, feed.xml({ indent: true }));
 
           console.log(`Finished ${site.name} (${count} items)`);
-
         } catch (err) {
           console.error(`Failed for ${site.name}: ${err.message}`);
         }
@@ -218,7 +272,6 @@ function parseArticleDate(rawDate) {
     );
 
     console.log("All feeds generated successfully.");
-
   } catch (err) {
     console.error("Fatal error:", err.message);
     process.exit(1);
