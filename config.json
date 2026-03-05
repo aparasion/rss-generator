@@ -18,5 +18,15 @@
   "linkSelector": "a.post-card-link-wrapper",
   "descriptionSelector": ".post-card-caption",
   "dateSelector": ""
+},
+{
+  "name": "RWS-Media-Centre",
+  "url": "https://www.rws.com/about/media-centre/",
+  "baseUrl": "https://www.rws.com",
+  "articleSelector": ".related_content__card_wrapper",
+  "titleSelector": "a.related_content__card",
+  "linkSelector": "a.related_content__card",
+  "descriptionSelector": "a.related_content__card",
+  "dateSelector": ""
 }
 ]
