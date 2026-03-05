@@ -9,14 +9,14 @@
   "descriptionSelector": ".c-article-list__description",
   "dateSelector": ".c-article-list__date"
 },
-    {
-    "name": "FindRFPcom",
-    "url": "https://www.findrfp.com/service/search.aspx?s=TRANSLAT&t=FE",
-    "baseUrl": "https://www.findrfp.com",
-    "articleSelector": "table.SectionContentBlack tr:has(td a[href*='detail.aspx'])",
-    "titleSelector": "td:nth-child(2) a",
-    "linkSelector": "td:nth-child(2) a",
-    "descriptionSelector": "td:nth-child(3)",
-    "dateSelector": "td:nth-child(5)"
-  }
+{
+  "name": "XTM Blog",
+  "url": "https://xtm.cloud/blog/",
+  "baseUrl": "https://xtm.cloud",
+  "articleSelector": ".post-card.cpt-listing-single",
+  "titleSelector": ".post-card-title",
+  "linkSelector": "a.post-card-link-wrapper",
+  "descriptionSelector": ".post-card-caption",
+  "dateSelector": ""
+}
 ]
