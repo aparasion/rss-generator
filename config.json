@@ -10,7 +10,7 @@
   "dateSelector": ".c-article-list__date"
 },
 {
-  "name": "XTM Blog",
+  "name": "XTM-Blog",
   "url": "https://xtm.cloud/blog/",
   "baseUrl": "https://xtm.cloud",
   "articleSelector": ".post-card.cpt-listing-single",
@@ -18,15 +18,5 @@
   "linkSelector": "a.post-card-link-wrapper",
   "descriptionSelector": ".post-card-caption",
   "dateSelector": ""
-},
-  {
-  "name": "Mutilingual",
-  "url": "https://multilingual.com/news/feed",
-  "baseUrl": "https://multilingual.com/",
-  "articleSelector": "item",
-  "titleSelector": "title",
-  "linkSelector": "link",
-  "descriptionSelector": "description",
-  "dateSelector": "pubDate"
 }
 ]
