@@ -18,5 +18,15 @@
   "linkSelector": "a.post-card-link-wrapper",
   "descriptionSelector": ".post-card-caption",
   "dateSelector": ""
+},
+  {
+  "name": "Mutilingual",
+  "url": "https://multilingual.com/news/feed",
+  "baseUrl": "https://multilingual.com/",
+  "articleSelector": "item",
+  "titleSelector": "title",
+  "linkSelector": "link",
+  "descriptionSelector": "description",
+  "dateSelector": "pubDate"
 }
 ]
