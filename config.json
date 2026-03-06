@@ -23,10 +23,10 @@
   "name": "RWS-Media-Centre",
   "url": "https://www.rws.com/about/media-centre/",
   "baseUrl": "https://www.rws.com",
-  "articleSelector": ".related_content__card_wrapper",
-  "titleSelector": "a.related_content__card",
-  "linkSelector": "a.related_content__card",
-  "descriptionSelector": "a.related_content__card",
-  "dateSelector": ""
+  "articleSelector": ".list__item__body .news_item__body",
+  "titleSelector": ".news_item__title",
+  "linkSelector": ".list__item__link .news_item__link",
+  "descriptionSelector": ".news_item__subtitle",
+  "dateSelector": ".news_item__date"
 }
 ]
