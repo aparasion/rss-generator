@@ -97,8 +97,8 @@ function extractArticlesFromAnchors($, pageUrl) {
 }
 
 function getFallbackArticles($, site) {
-  const fromJsonLd = extractArticlesFromJsonLd($, site.url);
-  const fromAnchors = extractArticlesFromAnchors($, site.url);
+  const fromJsonLd = extractArticlesFromJsonLd($, site.baseUrl || site.url);
+  const fromAnchors = extractArticlesFromAnchors($, site.baseUrl || site.url);
 
   const deduped = new Map();
 
@@ -111,6 +111,48 @@ function getFallbackArticles($, site) {
   return [...deduped.values()].slice(0, MAX_ITEMS);
 }
 
+
+
+async function fetchSiteContent(site) {
+  const candidateUrls = [site.url, ...(site.fallbackUrls || [])].filter(Boolean);
+  let lastError = null;
+
+  for (let index = 0; index < candidateUrls.length; index += 1) {
+    const candidateUrl = candidateUrls[index];
+    try {
+      const response = await axios.get(candidateUrl, {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+          Accept:
+            "text/html,application/xhtml+xml,application/xml;q=0.9,text/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-US,en;q=0.9",
+          Referer: site.baseUrl || candidateUrl,
+        },
+        timeout: 15000,
+      });
+
+      return {
+        data: response.data,
+        sourceUrl: candidateUrl,
+      };
+    } catch (err) {
+      lastError = err;
+      const hasMoreCandidates = index < candidateUrls.length - 1;
+      if (hasMoreCandidates) {
+        console.warn(
+          `Request failed for ${site.name} at ${candidateUrl} (${err.message}); trying fallback URL.`
+        );
+      }
+    }
+  }
+
+  if (lastError) {
+    lastError.message = `${lastError.message} (tried URLs: ${candidateUrls.join(", ")})`;
+  }
+
+  throw lastError || new Error("Unable to fetch any configured URL.");
+}
 function parseArticleDate(rawDate) {
   if (!rawDate) return null;
 
@@ -171,24 +213,25 @@ function parseArticleDate(rawDate) {
       fs.mkdirSync(rssDir);
     }
 
-    await Promise.all(
+    const results = await Promise.all(
       config.map(async (site) => {
         try {
           console.log(`Generating feed for ${site.name}`);
 
-          const { data } = await axios.get(site.url, {
-            headers: {
-              "User-Agent": "Mozilla/5.0",
-            },
-            timeout: 15000,
-          });
+          const { data, sourceUrl } = await fetchSiteContent(site);
+
+          if (sourceUrl !== site.url) {
+            console.warn(
+              `Using fallback URL for ${site.name}: ${sourceUrl}`
+            );
+          }
 
           const $ = cheerio.load(data);
 
           const feed = new RSS({
             title: `${site.name} Feed`,
             description: `RSS feed generated for ${site.name}`,
-            site_url: site.url,
+            site_url: sourceUrl,
             feed_url: `https://aparasion.github.io/rss-generator/rss/${site.name}.xml`,
             language: "en",
             pubDate: new Date(),
@@ -265,11 +308,25 @@ function parseArticleDate(rawDate) {
           fs.writeFileSync(outputPath, feed.xml({ indent: true }));
 
           console.log(`Finished ${site.name} (${count} items)`);
+          return { site: site.name, status: "fulfilled", count };
         } catch (err) {
           console.error(`Failed for ${site.name}: ${err.message}`);
+          return { site: site.name, status: "rejected", reason: err.message };
         }
       })
     );
+
+    const failures = results.filter((result) => result.status === "rejected");
+
+    if (failures.length > 0) {
+      console.error(
+        `RSS generation completed with ${failures.length} failure(s): ${failures
+          .map((failure) => failure.site)
+          .join(", ")}.`
+      );
+      process.exitCode = 1;
+      return;
+    }
 
     console.log("All feeds generated successfully.");
   } catch (err) {
