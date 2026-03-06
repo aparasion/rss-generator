@@ -1,36 +1,32 @@
 [
+{
+  "name": "GALA-Global",
+  "url": "https://www.gala-global.org/news/",
+  "baseUrl": "https://www.gala-global.org",
+  "articleSelector": ".articles .article",
+  "titleSelector": ".c-article-list-full-width__wrapper",
+  "linkSelector": ".c-article-list-full-width__wrapper",
+  "descriptionSelector": ".c-article-list__description",
+  "dateSelector": ".c-article-list__date"
+},
+{
+  "name": "XTM Blog",
+  "url": "https://xtm.cloud/blog/",
+  "baseUrl": "https://xtm.cloud",
+  "articleSelector": ".post-card.cpt-listing-single",
+  "titleSelector": ".post-card-title",
+  "linkSelector": "a.post-card-link-wrapper",
+  "descriptionSelector": ".post-card-caption",
+  "dateSelector": ""
+},
   {
-    "name": "GALA-Global",
-    "url": "https://www.gala-global.org/news/",
-    "baseUrl": "https://www.gala-global.org",
-    "articleSelector": ".articles .article",
-    "titleSelector": ".c-article-list-full-width__wrapper",
-    "linkSelector": ".c-article-list-full-width__wrapper",
-    "descriptionSelector": ".c-article-list__description",
-    "dateSelector": ".c-article-list__date"
-  },
-  {
-    "name": "XTM Blog",
-    "url": "https://xtm.cloud/blog/",
-    "baseUrl": "https://xtm.cloud",
-    "articleSelector": ".post-card.cpt-listing-single",
-    "titleSelector": ".post-card-title",
-    "linkSelector": "a.post-card-link-wrapper",
-    "descriptionSelector": ".post-card-caption",
-    "dateSelector": ""
-  },
-  {
-    "name": "Mutilingual",
-    "url": "https://multilingual.com/news/feed",
-    "baseUrl": "https://multilingual.com/",
-    "articleSelector": "item",
-    "titleSelector": "title",
-    "linkSelector": "link",
-    "descriptionSelector": "description",
-    "dateSelector": "pubDate",
-    "fallbackUrls": [
-      "https://multilingual.com/news/",
-      "https://multilingual.com/feed/"
-    ]
-  }
+  "name": "Mutilingual",
+  "url": "https://multilingual.com/news/feed",
+  "baseUrl": "https://multilingual.com/",
+  "articleSelector": "item",
+  "titleSelector": "title",
+  "linkSelector": "link",
+  "descriptionSelector": "description",
+  "dateSelector": "pubDate"
+}
 ]
