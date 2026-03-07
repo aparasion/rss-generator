@@ -70,8 +70,15 @@ function extractArticlesFromJsonLd($, pageUrl) {
   return articles;
 }
 
-function extractArticlesFromAnchors($, pageUrl) {
+function extractArticlesFromAnchors($, site) {
   const articles = [];
+
+  let siteOrigin = null;
+  try {
+    siteOrigin = new URL(site.url).origin;
+  } catch {
+    // ignore – will skip origin check
+  }
 
   $("a[href]").each((_, el) => {
     const rawHref = ($(el).attr("href") || "").trim();
@@ -79,11 +86,12 @@ function extractArticlesFromAnchors($, pageUrl) {
 
     if (!rawHref || !title || title.length < 8) return;
 
-    const link = normalizeUrl(rawHref, pageUrl);
+    const link = normalizeUrl(rawHref, site.url);
     if (!link) return;
 
-    // Keep only links that are likely article pages.
-    if (!/\/news\//i.test(link)) return;
+    // Keep only same-origin links that are not the listing page itself.
+    if (siteOrigin && !link.startsWith(siteOrigin)) return;
+    if (link === site.url) return;
 
     articles.push({
       title,
@@ -98,7 +106,7 @@ function extractArticlesFromAnchors($, pageUrl) {
 
 function getFallbackArticles($, site) {
   const fromJsonLd = extractArticlesFromJsonLd($, site.url);
-  const fromAnchors = extractArticlesFromAnchors($, site.url);
+  const fromAnchors = extractArticlesFromAnchors($, site);
 
   const deduped = new Map();
 
@@ -167,9 +175,7 @@ function parseArticleDate(rawDate) {
     console.log("Starting RSS generation...");
 
     const rssDir = path.join(__dirname, "rss");
-    if (!fs.existsSync(rssDir)) {
-      fs.mkdirSync(rssDir);
-    }
+    fs.mkdirSync(rssDir, { recursive: true });
 
     await Promise.all(
       config.map(async (site) => {
@@ -189,7 +195,7 @@ function parseArticleDate(rawDate) {
             title: `${site.name} Feed`,
             description: `RSS feed generated for ${site.name}`,
             site_url: site.url,
-            feed_url: `https://aparasion.github.io/rss-generator/rss/${site.name}.xml`,
+            feed_url: `${process.env.FEED_BASE_URL || "https://aparasion.github.io/rss-generator"}/rss/${site.name}.xml`,
             language: "en",
             pubDate: new Date(),
           });
