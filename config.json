@@ -2,7 +2,6 @@
 {
   "name": "GALA-Global",
   "url": "https://www.gala-global.org/news/",
-  "baseUrl": "https://www.gala-global.org",
   "articleSelector": ".articles .article",
   "titleSelector": ".c-article-list-full-width__wrapper",
   "linkSelector": ".c-article-list-full-width__wrapper",
@@ -12,7 +11,6 @@
 {
   "name": "XTM-Blog",
   "url": "https://xtm.cloud/blog/",
-  "baseUrl": "https://xtm.cloud",
   "articleSelector": ".post-card.cpt-listing-single",
   "titleSelector": ".post-card-title",
   "linkSelector": "a.post-card-link-wrapper",
