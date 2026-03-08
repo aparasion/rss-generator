@@ -2,7 +2,11 @@
   "https://www.gala-global.org/news/": {},
   "https://xtm.cloud/blog/": {},
   "https://www.prnewswire.com/news-releases/news-releases-list/": {
-    "lastModified": "Sun, 08 Mar 2026 22:41:02 GMT"
+    "lastModified": "Sun, 08 Mar 2026 23:11:16 GMT"
   },
-  "https://phrase.com/blog/": {}
+  "https://phrase.com/blog/": {},
+  "https://lokalise.com/blog/": {
+    "etag": "W/\"28664cc9c24f3900bdada66252f048e4\"",
+    "lastModified": "Fri, 06 Mar 2026 14:23:12 GMT"
+  }
 }

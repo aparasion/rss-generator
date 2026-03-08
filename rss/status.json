@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-08T22:41:58.112Z",
-  "durationMs": 10973,
+  "generatedAt": "2026-03-08T23:12:31.768Z",
+  "durationMs": 9316,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1586
+      "durationMs": 2362
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 10940
+      "durationMs": 9283
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 556
+      "durationMs": 920
+    },
+    {
+      "name": "lokalise-blog",
+      "url": "https://lokalise.com/blog/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
+      "status": "success",
+      "items": 20,
+      "durationMs": 883
     },
     {
       "name": "PRNewswire-L10N",
@@ -32,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 311
+      "durationMs": 459
     }
   ]
 }
