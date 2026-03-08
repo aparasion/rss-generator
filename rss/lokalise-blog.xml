@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lokalise-blog Feed]]></title>
+        <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
+        <link>https://lokalise.com/blog/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 08 Mar 2026 23:40:27 GMT</lastBuildDate>
+        <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 08 Mar 2026 23:40:27 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Headless CMS localization tools: Build a hands-off translation workflow]]></title>
+            <description><![CDATA[Headless CMS platforms are built for speed. You publish once, every frontend updates. But then localization shows up, and the “fast” stack suddenly depends on a rather slow routine: export strings, email a file, chase approvals, import, fix broken formatting, repeat. If you’re a developer or content manager, you’ve felt the cost. Releases slip and translators work from stale content without even knowing it. Engineers get pulled into one-off fixes. Users end up seeing mixed terminology a]]></description>
+            <link>https://lokalise.com/blog/headless-cms-localization-tools/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/headless-cms-localization-tools/</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6 best translation memory software for every use case]]></title>
+            <description><![CDATA[Every time you launch a new campaign, you have to translate everything across multiple languages — product UI, marketing pages, help docs, and more. Without translation memory, translators start from scratch every time — even for content they've already translated. You pay full rates again. Every team uses its own terminology again. And your localization process delays market entry. Translation memory (TM) software stores every translated string as a reusable segment in a d]]></description>
+            <link>https://lokalise.com/blog/best-translation-memory-tools/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/best-translation-memory-tools/</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fine-tuning trap in AI translation]]></title>
+            <description><![CDATA[Fine-tuning sounds like the clean way to improve AI translation quality. You train the model on your content with the expectation it’ll learn your style. In practice, generic fine-tuning is where enterprise translation programs get stuck. The issue is, the model absorbs everything in the training mix. This includes old releases, mixed brands, and inconsistent phrasing, which means you end up with contextual contamination. That’s when the model starts making confident ch]]></description>
+            <link>https://lokalise.com/blog/fine-tuning-trap-ai-translation-context/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/fine-tuning-trap-ai-translation-context/</guid>
+            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Term base best practices: How to build a living terminology system]]></title>
+            <description><![CDATA[Most term bases fail because they live somewhere where nobody works. A spreadsheet gets created, a few people bookmark it, and then the real work happens in the editor, in Slack, in Figma, and in whatever AI tool is generating the next draft. That gap is expensive. Terminology drifts, reviewers rewrite the same phrases, and “small” naming mistakes turn into brand inconsistency in translation, SEO issues, and support tickets that shouldn’t exist. This guide covers term base best pr]]></description>
+            <link>https://lokalise.com/blog/term-base/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/term-base/</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT vs. a localization platform: Which translation solution is right for your business?]]></title>
+            <description><![CDATA[Translation used to be a bottleneck for businesses looking to grow internationally. Thanks to AI, now it can happen in seconds, which changes how teams make decisions about localization. ChatGPT can produce quick translations for many everyday needs. But when quality requirements rise or the workload grows, teams start running into familiar problems: inconsistent terminology, formatting and placeholder issues, missing context, and a lack of review workflows. That’]]></description>
+            <link>https://lokalise.com/blog/chatgpt-vs-localization-platform/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/chatgpt-vs-localization-platform/</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to automate context management in translation]]></title>
+            <description><![CDATA[Most localization teams struggle with finding the right context. Translators jump between the TMS, Jira, Figma, Slack, and old docs just to understand a single string. Reviewers approve copy without ever seeing the screen it lives on. Developers spend hours every week explaining where text appears and what it must not break. All of this context switching in localization slows releases and drives up translation rework. On paper, it looks like “bad translation.” In reality, it]]></description>
+            <link>https://lokalise.com/blog/automate-context-management/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/automate-context-management/</guid>
+            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 5 best in-context editor (ICE) tools for localization quality]]></title>
+            <description><![CDATA[When translators work on a bunch of strings listed in spreadsheets and CSVs, they're essentially flying blind. Without seeing where these phrases appear, even experienced linguists struggle to make the right call on tone, length, and word choice. In-context editors (ICE) tools like Lokalise solve this issue by giving translators a real-time preview of the pages or apps they’re translating. So, they can see each string in the actual interface and edit it accordingly.]]></description>
+            <link>https://lokalise.com/blog/in-context-editor-tools/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/in-context-editor-tools/</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 bold predictions for the future of localization in 2026]]></title>
+            <description><![CDATA[The localization industry is currently sitting at a high-stakes betting table. The chips are AI, automation, and data, and the jackpot is global growth. But knowing exactly where to place those bets is the difference between leading the market and playing catch-up. We didn’t want safe guesses. We gathered 7 top localization experts from major tech partners like Webflow and language service providers like Acclaro and Argos to industry veterans and strategists, and asked them to place the]]></description>
+            <link>https://lokalise.com/blog/7-bold-predictions-for-the-future-of-localization-in-2026/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/7-bold-predictions-for-the-future-of-localization-in-2026/</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
