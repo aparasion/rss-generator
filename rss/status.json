@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-08T17:14:31.626Z",
-  "durationMs": 9672,
+  "generatedAt": "2026-03-08T22:31:42.872Z",
+  "durationMs": 9992,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1937
+      "durationMs": 2076
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 9639
+      "durationMs": 9959
+    },
+    {
+      "name": "phrase-blog",
+      "url": "https://phrase.com/blog/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
+      "status": "success",
+      "items": 20,
+      "durationMs": 759
     },
     {
       "name": "PRNewswire-L10N",
@@ -24,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 6259
+      "durationMs": 300
     }
   ]
 }
