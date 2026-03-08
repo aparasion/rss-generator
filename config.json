@@ -16,5 +16,37 @@
   "linkSelector": "a.post-card-link-wrapper",
   "descriptionSelector": ".post-card-caption",
   "dateSelector": ""
+},
+{
+  "name": "PRNewswire-L10N",
+  "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
+  "articleSelector": ".release-list-item",
+  "titleSelector": "h3",
+  "linkSelector": "a",
+  "descriptionSelector": ".release-date",
+  "dateSelector": ".release-date",
+  "contentFilter": {
+    "keywords": [
+      "localization", "localisation", "l10n",
+      "translation", "translator", "translated", "translating",
+      "multilingual", "multi-language",
+      "internationalization", "internationalisation", "i18n",
+      "globalization", "globalisation", "g11n",
+      "language service", "language services",
+      "language service provider", "LSP",
+      "machine translation", "MT provider",
+      "transcreation",
+      "translation management", "TMS",
+      "terminology management",
+      "language technology",
+      "subtitling", "dubbing",
+      "content localization", "website localization",
+      "software localization", "game localization",
+      "global content"
+    ],
+    "minMatches": 1,
+    "checkFullContent": false,
+    "maxScan": 50
+  }
 }
 ]
