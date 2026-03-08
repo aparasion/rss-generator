@@ -20,6 +20,7 @@ const FEED_BASE_URL =
 
 const rssDir = path.join(__dirname, "rss");
 const cacheFilePath = path.join(rssDir, "cache.json");
+const seenCacheFilePath = path.join(rssDir, "seen.json");
 const statusFilePath = path.join(rssDir, "status.json");
 const manifestFilePath = path.join(rssDir, "feeds.json");
 
@@ -106,6 +107,32 @@ function saveHttpCache(cache) {
     fs.writeFileSync(cacheFilePath, JSON.stringify(cache, null, 2));
   } catch (err) {
     console.warn("Warning: could not save HTTP cache:", err.message);
+  }
+}
+
+// ─── Seen cache (tracks article URLs already classified for content filtering) ─
+
+/**
+ * Seen cache structure:
+ * {
+ *   "SiteName": {
+ *     "https://article-url": { relevant: true/false, checkedAt: "ISO date" }
+ *   }
+ * }
+ */
+function loadSeenCache() {
+  try {
+    return JSON.parse(fs.readFileSync(seenCacheFilePath, "utf8"));
+  } catch {
+    return {};
+  }
+}
+
+function saveSeenCache(cache) {
+  try {
+    fs.writeFileSync(seenCacheFilePath, JSON.stringify(cache, null, 2));
+  } catch (err) {
+    console.warn("Warning: could not save seen cache:", err.message);
   }
 }
 
@@ -344,11 +371,90 @@ function extractItemDate($, articleEl, site) {
   return null;
 }
 
+// ─── Content-filter helpers ───────────────────────────────────────────────────
+
+/**
+ * Returns true when `text` contains at least `minMatches` of the configured
+ * keywords (case-insensitive, substring match).
+ */
+function isContentRelevant(text, contentFilter) {
+  if (!contentFilter || !Array.isArray(contentFilter.keywords)) return true;
+  if (!text) return false;
+  const lower = text.toLowerCase();
+  const minMatches = contentFilter.minMatches || 1;
+  let matches = 0;
+  for (const kw of contentFilter.keywords) {
+    if (lower.includes(kw.toLowerCase())) {
+      matches++;
+      if (matches >= minMatches) return true;
+    }
+  }
+  return false;
+}
+
+/**
+ * Decide whether an article is relevant.
+ *
+ * Fast path: check title + listing-page description against keywords.
+ * If still inconclusive and `contentFilter.checkFullContent` is true,
+ * fetch the article page and check the body text.
+ *
+ * Results are memoised in `seenForSite` so each URL is only processed once
+ * across runs. URLs that could not be fetched are NOT persisted so they
+ * will be retried next run.
+ *
+ * @param {string}  url
+ * @param {string}  title
+ * @param {string}  description  - summary already available on the listing page
+ * @param {object}  contentFilter
+ * @param {object}  httpCache
+ * @param {object}  seenForSite  - mutable reference to the per-site seen map
+ * @returns {Promise<boolean>}
+ */
+async function classifyArticle(url, title, description, contentFilter, httpCache, seenForSite) {
+  // Already decided in a previous run.
+  if (url in seenForSite) {
+    return seenForSite[url].relevant;
+  }
+
+  // Check whatever text is already available on the listing page.
+  const listingText = [title, description].filter(Boolean).join(" ");
+  if (isContentRelevant(listingText, contentFilter)) {
+    seenForSite[url] = { relevant: true, checkedAt: new Date().toISOString() };
+    return true;
+  }
+
+  // Optionally fetch the full article and check its body.
+  if (contentFilter.checkFullContent) {
+    try {
+      const result = await fetchPage(url, httpCache);
+      if (!result.notModified && result.html) {
+        const $ = cheerio.load(result.html);
+        $("script, style, nav, header, footer, aside").remove();
+        const bodyText = $("body").text();
+        const relevant = isContentRelevant(bodyText, contentFilter);
+        seenForSite[url] = { relevant, checkedAt: new Date().toISOString() };
+        return relevant;
+      }
+    } catch (err) {
+      // Network / HTTP error — skip and leave unseen so the next run retries.
+      console.warn(`  Could not fetch article for classification: ${url} (${err.message})`);
+      return false;
+    }
+  }
+
+  // Conclusively irrelevant (title + description checked, no full-fetch needed).
+  seenForSite[url] = { relevant: false, checkedAt: new Date().toISOString() };
+  return false;
+}
+
 // ─── Per-site feed generation ─────────────────────────────────────────────────
 
-async function processSite(site, httpCache) {
+async function processSite(site, httpCache, seenCache) {
   const t0 = Date.now();
   console.log(`\nProcessing: ${site.name} (${site.url})`);
+  // Per-site seen map — mutated in place and persisted by the caller.
+  if (site.contentFilter && !seenCache[site.name]) seenCache[site.name] = {};
 
   const fetchResult = await fetchPage(site.url, httpCache);
 
@@ -378,11 +484,16 @@ async function processSite(site, httpCache) {
   });
 
   const addedLinks = new Set();
+  const contentFilter = site.contentFilter || null;
+  const seenForSite = contentFilter ? seenCache[site.name] : null;
+  // How many unseen articles we are willing to classify per run (avoids
+  // excessive HTTP requests when a site has thousands of articles).
+  const maxScan = (contentFilter && contentFilter.maxScan) || 50;
+  let scanned = 0; // unseen articles classified this run
 
   // ── Primary extraction via configured CSS selectors ──
+  const primaryArticles = [];
   $(site.articleSelector).each((_, el) => {
-    if (addedLinks.size >= MAX_ITEMS) return false;
-
     const titleRaw = $(el).find(site.titleSelector).text().trim();
     const linkRaw = ($(el).find(site.linkSelector).attr("href") || "").trim();
     if (!titleRaw || !linkRaw) return;
@@ -401,12 +512,34 @@ async function processSite(site, httpCache) {
     );
 
     const date = extractItemDate($, el, site);
-    const item = { title, url: fullLink, description };
-    if (date) item.date = date;
-
-    feed.item(item);
-    addedLinks.add(fullLink);
+    primaryArticles.push({ title, link: fullLink, description, date });
   });
+
+  // ── Apply content filter (if configured) then add to feed ──
+  for (const article of primaryArticles) {
+    if (addedLinks.size >= MAX_ITEMS) break;
+    if (addedLinks.has(article.link)) continue;
+
+    if (contentFilter) {
+      const alreadySeen = article.link in seenForSite;
+      if (!alreadySeen && scanned >= maxScan) {
+        // Hit the per-run scan budget — skip remaining unseen articles.
+        continue;
+      }
+      if (!alreadySeen) scanned++;
+
+      const relevant = await classifyArticle(
+        article.link, article.title, article.description,
+        contentFilter, httpCache, seenForSite
+      );
+      if (!relevant) continue;
+    }
+
+    const item = { title: article.title, url: article.link, description: article.description };
+    if (article.date) item.date = article.date;
+    feed.item(item);
+    addedLinks.add(article.link);
+  }
 
   // ── Fallback extraction when selectors yield nothing ──
   if (addedLinks.size === 0) {
@@ -416,7 +549,21 @@ async function processSite(site, httpCache) {
     );
 
     for (const article of fallback) {
+      if (addedLinks.size >= MAX_ITEMS) break;
       if (addedLinks.has(article.link)) continue;
+
+      if (contentFilter) {
+        const alreadySeen = article.link in seenForSite;
+        if (!alreadySeen && scanned >= maxScan) continue;
+        if (!alreadySeen) scanned++;
+
+        const relevant = await classifyArticle(
+          article.link, article.title, article.description || "",
+          contentFilter, httpCache, seenForSite
+        );
+        if (!relevant) continue;
+      }
+
       const description = truncate(
         stripHtml(article.description || ""),
         MAX_DESCRIPTION_LENGTH
@@ -427,6 +574,11 @@ async function processSite(site, httpCache) {
       feed.item(item);
       addedLinks.add(article.link);
     }
+  }
+
+  if (contentFilter) {
+    const newlySeen = Object.values(seenForSite).length;
+    console.log(`  Content filter: scanned ${scanned} new article(s) this run; ${newlySeen} total in seen cache.`);
   }
 
   const outputPath = path.join(rssDir, `${site.name}.xml`);
@@ -455,12 +607,13 @@ async function processSite(site, httpCache) {
     fs.mkdirSync(rssDir, { recursive: true });
 
     const httpCache = loadHttpCache();
+    const seenCache = loadSeenCache();
     const runStart = Date.now();
 
     const results = await Promise.all(
       config.map(async (site) => {
         try {
-          return await processSite(site, httpCache);
+          return await processSite(site, httpCache, seenCache);
         } catch (err) {
           console.error(`  ERROR — ${site.name}: ${err.message}`);
           return {
@@ -476,8 +629,9 @@ async function processSite(site, httpCache) {
       })
     );
 
-    // Persist ETag / Last-Modified values for next run.
+    // Persist ETag / Last-Modified values and seen-article classifications.
     saveHttpCache(httpCache);
+    saveSeenCache(seenCache);
 
     // ── status.json — machine-readable run summary for downstream consumers ──
     const status = {
