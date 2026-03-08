@@ -456,18 +456,28 @@ async function processSite(site, httpCache, seenCache) {
   // Per-site seen map — mutated in place and persisted by the caller.
   if (site.contentFilter && !seenCache[site.name]) seenCache[site.name] = {};
 
-  const fetchResult = await fetchPage(site.url, httpCache);
+  let fetchResult = await fetchPage(site.url, httpCache);
 
   if (fetchResult.notModified) {
-    console.log(`  ${site.name}: page unchanged (304); skipping re-parse.`);
-    return {
-      name: site.name,
-      url: site.url,
-      feedUrl: `${FEED_BASE_URL}/rss/${site.name}.xml`,
-      status: "not_modified",
-      items: null,
-      durationMs: Date.now() - t0,
-    };
+    const outputPath = path.join(rssDir, `${site.name}.xml`);
+    if (fs.existsSync(outputPath)) {
+      console.log(`  ${site.name}: page unchanged (304); skipping re-parse.`);
+      return {
+        name: site.name,
+        url: site.url,
+        feedUrl: `${FEED_BASE_URL}/rss/${site.name}.xml`,
+        status: "not_modified",
+        items: null,
+        durationMs: Date.now() - t0,
+      };
+    }
+    // Output file is missing despite a 304 — clear conditional headers and re-fetch
+    console.log(`  ${site.name}: output file missing despite 304; forcing unconditional re-fetch.`);
+    if (httpCache[site.url]) {
+      delete httpCache[site.url].etag;
+      delete httpCache[site.url].lastModified;
+    }
+    fetchResult = await fetchPage(site.url, httpCache);
   }
 
   const $ = cheerio.load(fetchResult.html);
