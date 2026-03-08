@@ -34,7 +34,7 @@
   "linkSelector": "a.group/app-link",
   "descriptionSelector": "p.lok-text-body-regular-medium",
   "dateSelector": ".lok-text-body-small"
-}
+},
 {
   "name": "PRNewswire-L10N",
   "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
