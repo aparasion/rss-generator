@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[phrase-blog Feed]]></title>
+        <description><![CDATA[RSS feed generated for phrase-blog]]></description>
+        <link>https://phrase.com/blog/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 08 Mar 2026 22:41:47 GMT</lastBuildDate>
+        <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 08 Mar 2026 22:41:47 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The cloud nexus: Localized infrastructure and the next tech revolution]]></title>
+            <description><![CDATA[Hybrid cloud, edge AI and 5G are transforming how global technology platforms operate. As infrastructure becomes more distributed, companies must manage new challenges around compliance, content delivery, and regional regulation.…Read more]]></description>
+            <link>https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Todd Unger: The ten seconds to win or lose a customer]]></title>
+            <description><![CDATA[Todd Unger, Chief Experience Officer at the American Medical Association, discusses how modern buying decisions often happen in just seconds. In this episode of In Other Words, he explores the…Read more]]></description>
+            <link>https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking retail growth: why precision beats scale]]></title>
+            <description><![CDATA[Retailers are chasing scale, but growth in 2026 comes from precision. Learn how market-aware omnichannel, adaptive AI, localized mobile commerce, and culturally relevant social strategies unlock higher conversion, retention, and…Read more]]></description>
+            <link>https://phrase.com/blog/posts/retail-growth-precision-over-scale/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/retail-growth-precision-over-scale/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Enterprise localization platform comparison: Phrase vs Smartling, XTM, Lokalise and more]]></title>
+            <description><![CDATA[What is the best language technology platform for your business? Discover the best fit in our practical 2026 guide to choosing the right translation management system or localization platform for…Read more]]></description>
+            <link>https://phrase.com/blog/posts/localization-platform-comparison-2026/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-platform-comparison-2026/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Mastering language tech migration: Lessons from Kayak and Pega]]></title>
+            <description><![CDATA[Language technology migration is often seen as disruptive and resource-heavy. Leaders from Kayak and Pega share how migration can become a strategic redesign moment rather than a system replacement exercise.Read more]]></description>
+            <link>https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</guid>
+        </item>
+        <item>
+            <title><![CDATA[How to evaluate AI for multilingual content without the guesswork]]></title>
+            <description><![CDATA[AI is transforming multilingual content, but many teams still struggle to measure whether it delivers real value. This Phrase guide outlines a practical approach to evaluating AI across time, cost,…Read more]]></description>
+            <link>https://phrase.com/blog/posts/evaluate-ai-multilingual-content/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/evaluate-ai-multilingual-content/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Monzo’s Freddie Braun on designing trust at scale]]></title>
+            <description><![CDATA[In fintech, trust is not translated. It is designed. Freddie Braun, Localization and International Content Lead at Monzo, explains how culturally intentional source content, structured voice systems, and early localization…Read more]]></description>
+            <link>https://phrase.com/blog/posts/designing-trust-fintech-global-localization-strategy/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/designing-trust-fintech-global-localization-strategy/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Doug Zarkin on thinking human and why emotional connection builds enduring brands]]></title>
+            <description><![CDATA[Award-winning brand leader Doug Zarkin explains why emotional connection matters more than metrics, how experience defines brand value, and why trust, empathy, and storytelling build brands that last.Read more]]></description>
+            <link>https://phrase.com/blog/posts/doug-zarkin-thinking-human-emotional-brand-value/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/doug-zarkin-thinking-human-emotional-brand-value/</guid>
+        </item>
+        <item>
+            <title><![CDATA[How localization leaders are redefining their roles to win in 2026]]></title>
+            <description><![CDATA[As global organizations scale, localization teams are rethinking how their work is defined and measured. Insights from Notion and SurveyMonkey on roles, metrics, and influence.Read more]]></description>
+            <link>https://phrase.com/blog/posts/how-localization-leaders-are-redefining-their-role/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/how-localization-leaders-are-redefining-their-role/</guid>
+        </item>
+    </channel>
+</rss>
