@@ -17,6 +17,15 @@
   "descriptionSelector": ".post-card-caption",
   "dateSelector": ""
 },
+  {
+  "name": "phrase-blog",
+  "url": "https://phrase.com/blog/",
+  "articleSelector": "ul.loop__list > li",
+  "titleSelector": "h3",
+  "linkSelector": "a[href*='/blog/posts/']",
+  "descriptionSelector": "p",
+  "dateSelector": "time"
+},
 {
   "name": "PRNewswire-L10N",
   "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
