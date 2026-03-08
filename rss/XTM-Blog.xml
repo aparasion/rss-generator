@@ -4,10 +4,11 @@
         <description><![CDATA[RSS feed generated for XTM-Blog]]></description>
         <link>https://xtm.cloud/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 11:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 13:26:26 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 11:12:07 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 13:26:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
         <item>
             <title><![CDATA[XTM Appoints Lorcan Malone as CEO to Lead its Next Phase of AI-driven Growth and Innovation]]></title>
             <description><![CDATA[XTM International, a global leader in AI-driven localisation technology, today announced the appointment of Lorcan Malone as its new Chief Executive Officer.]]></description>

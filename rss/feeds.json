@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-03-08T13:26:26.655Z",
+  "feeds": [
+    {
+      "name": "GALA-Global",
+      "sourceUrl": "https://www.gala-global.org/news/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml"
+    },
+    {
+      "name": "XTM-Blog",
+      "sourceUrl": "https://xtm.cloud/blog/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml"
+    }
+  ]
+}
