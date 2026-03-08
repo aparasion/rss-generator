@@ -29,10 +29,10 @@
   {
   "name": "lokalise-blog",
   "url": "https://lokalise.com/blog/",
-  "articleSelector": ".group/blog-card .relative .flex .flex-col .w-full .items-start .text-left .BlogCard-module__PrsQuW__blog-card .blog-card",
-  "titleSelector": "h2.BlogCard-module__PrsQuW__title",
-  "linkSelector": "a.blog-card",
-  "descriptionSelector": "p.lok-text-body-regular-medium .text-brand-black .text-ellipsis .line-clamp-4 .break-word .mb-4",
+  "articleSelector": "[class*='BlogCard-module']",
+  "titleSelector": "h2",
+  "linkSelector": "a[href*='/blog/']",
+  "descriptionSelector": "p.lok-text-body-regular-medium",
   "dateSelector": ".lok-text-body-small"
 },
 {
