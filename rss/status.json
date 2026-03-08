@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-08T13:26:26.655Z",
-  "durationMs": 10478,
+  "generatedAt": "2026-03-08T16:02:57.397Z",
+  "durationMs": 9546,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1920
+      "durationMs": 1617
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 10444
+      "durationMs": 9513
+    },
+    {
+      "name": "PRNewswire-L10N",
+      "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
+      "status": "success",
+      "items": 0,
+      "durationMs": 397
     }
   ]
 }

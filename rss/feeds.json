@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T13:26:26.655Z",
+  "generatedAt": "2026-03-08T16:02:57.397Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -10,6 +10,11 @@
       "name": "XTM-Blog",
       "sourceUrl": "https://xtm.cloud/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml"
+    },
+    {
+      "name": "PRNewswire-L10N",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/news-releases-list/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml"
     }
   ]
 }
