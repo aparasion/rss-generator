@@ -26,6 +26,15 @@
   "descriptionSelector": ".wp-block-post-excerpt",
   "dateSelector": ".wp-block-post-meta__dates-primary"
 },
+  {
+  "name": "lokalise-blog",
+  "url": "https://lokalise.com/blog/",
+  "articleSelector": ".group/blog-card",
+  "titleSelector": "h2 .w-fit",
+  "linkSelector": "a.group/app-link",
+  "descriptionSelector": "p.lok-text-body-regular-medium",
+  "dateSelector": ".lok-text-body-small"
+}
 {
   "name": "PRNewswire-L10N",
   "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
