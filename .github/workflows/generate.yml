@@ -20,12 +20,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
+          cache: "npm"
 
-      - run: npm install
+      - run: npm ci
 
-      - run: node generate.js
+      - name: Generate feeds
+        run: node generate.js
 
-      - run: |
+      - name: Commit updated feeds
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A rss
@@ -33,5 +36,5 @@ jobs:
             echo "No RSS changes to commit"
             exit 0
           fi
-          git commit -m "Update RSS"
+          git commit -m "chore: update RSS feeds [skip ci]"
           git push
