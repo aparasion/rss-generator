@@ -47,9 +47,9 @@
   {
   "name": "DeepL-blog",
   "url": "https://www.deepl.com/en/blog",
-  "articleSelector": ".bg-redesign-quartz-gray-200",
+  "articleSelector": ".bg-redesign-quartz-gray-200 .rounded-redesign-default",
   "titleSelector": "h6",
-  "linkSelector": "a",
+  "linkSelector": "a[href*='/en/blog/']",
   "descriptionSelector": "p",
   "dateSelector": "time"
 },
