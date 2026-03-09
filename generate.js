@@ -293,6 +293,7 @@ function extractArticlesFromAnchors($, site) {
       if (siteOrigin && parsed.origin !== siteOrigin) return;
       if (link === site.url) return;
       if (listingPathname && parsed.pathname === listingPathname) return;
+      if (site.linkPathPrefix && !parsed.pathname.startsWith(site.linkPathPrefix)) return;
     } catch {
       return;
     }
@@ -504,18 +505,29 @@ async function processSite(site, httpCache, seenCache) {
   // ── Primary extraction via configured CSS selectors ──
   const primaryArticles = [];
   $(site.articleSelector).each((_, el) => {
-    const titleRaw = $(el).find(site.titleSelector).text().trim();
-    const linkRaw = ($(el).find(site.linkSelector).attr("href") || "").trim();
+    const $el = $(el);
+    const titleRaw = $el.find(site.titleSelector).text().trim();
+
+    // Support cards where the article element itself is the link (e.g. <a class="card">)
+    let $linkEl = $el.find(site.linkSelector);
+    if (!$linkEl.length && $el.is(site.linkSelector)) $linkEl = $el;
+    const linkRaw = ($linkEl.attr("href") || "").trim();
+
     if (!titleRaw || !linkRaw) return;
 
     const title = stripHtml(titleRaw);
     const fullLink = normalizeUrl(linkRaw, site.url);
     if (!fullLink || addedLinks.has(fullLink)) return;
 
+    if (site.linkPathPrefix) {
+      try { if (!new URL(fullLink).pathname.startsWith(site.linkPathPrefix)) return; }
+      catch { return; }
+    }
+
     const description = truncate(
       stripHtml(
         site.descriptionSelector
-          ? $(el).find(site.descriptionSelector).text().trim()
+          ? $el.find(site.descriptionSelector).text().trim()
           : ""
       ),
       MAX_DESCRIPTION_LENGTH
