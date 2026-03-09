@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 00:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 05:49:06 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 00:21:40 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 05:49:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Rheinschrift Rebrands as Next-Generation Boutique Consulting Partner]]></title>
+            <description><![CDATA[The company unveils new logo, website, refreshed brand and visual identity to reflect its evolution. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/rheinschrift-rebrands-as-next-generation-boutique-consulting-partner</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/rheinschrift-rebrands-as-next-generation-boutique-consulting-partner</guid>
+        </item>
         <item>
             <title><![CDATA[XTM and Vistatec launch enterprise AI content globalisation partnership]]></title>
             <description><![CDATA[XTM and Vistatec today announced the launch of an enterprise AI globalisation partnership. The partnership is designed to help organisations operationalise AI-driven global content as a production capability, with the governance, auditability, and expert delivery required to scale. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[In 2026, you can look forward to eight online sessions held by experts covering hot topics in the language services industry, including the latest advancements in the area of AI, consultancy skills for language professionals and how you can incorporate cutting-edge tools to boost your productivity. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/stay-ahead-of-the-curve-in-the-language-industry-with-the-zhaw</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/stay-ahead-of-the-curve-in-the-language-industry-with-the-zhaw</guid>
-        </item>
-        <item>
-            <title><![CDATA[Digitaldrop and Adept Complete Merger to Accelerate "Borderless Digital Shift" in Global Marketing]]></title>
-            <description><![CDATA[We are pleased to announce that Digitaldrop Inc, and Adept Corporation have integrated our management resources to strengthen our business foundation and expand our service capabilities. We have re-started operations as the new “Digitaldrop Inc,". Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/digitaldrop-and-adept-complete-merger-to-accelerate-borderless-digital-shift-in-global-marketing</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/digitaldrop-and-adept-complete-merger-to-accelerate-borderless-digital-shift-in-global-marketing</guid>
         </item>
     </channel>
 </rss>
