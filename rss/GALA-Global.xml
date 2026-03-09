@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 14:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 17:39:07 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 14:03:29 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 17:39:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -14,6 +14,24 @@
             <description><![CDATA[The company unveils new logo, website, refreshed brand and visual identity to reflect its evolution. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/rheinschrift-rebrands-as-next-generation-boutique-consulting-partner</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/rheinschrift-rebrands-as-next-generation-boutique-consulting-partner</guid>
+        </item>
+        <item>
+            <title><![CDATA[Call for Presentations for the Translating and the Computer Conference]]></title>
+            <description><![CDATA[AsLing invites submissions for the 47th edition of the Translating and the Computer Conference (TC47), to be held from 8 to 10 December 2026 in Luxembourg. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/call-for-presentations-for-the-translating-and-the-computer-conference</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/call-for-presentations-for-the-translating-and-the-computer-conference</guid>
+        </item>
+        <item>
+            <title><![CDATA[Creative Words and Blackbird Partner to Automate Enterprise Content Operations]]></title>
+            <description><![CDATA[Creative Words, a leader in localization and multilingual content solutions, today announced a strategic partnership with Blackbird.io, the content orchestration and governance platform to enable enterprise clients to deploy automated multilingual workflows. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/creative-words-and-blackbird-partner-to-automate-enterprise-content-operations</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/creative-words-and-blackbird-partner-to-automate-enterprise-content-operations</guid>
+        </item>
+        <item>
+            <title><![CDATA[Semmelweis Medical Linguistics Conference 2026 – Last Call for Papers]]></title>
+            <description><![CDATA[SMLC 2026 will take place on 5–6 June 2026 in Budapest, Hungary, in a hybrid format. This conference series aims to bring together researchers, educators, and professionals working in the field of healthcare communications and linguistics. Submit by 30 March. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</guid>
         </item>
         <item>
             <title><![CDATA[XTM and Vistatec launch enterprise AI content globalisation partnership]]></title>
@@ -58,28 +76,10 @@
             <guid isPermaLink="true">https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform</guid>
         </item>
         <item>
-            <title><![CDATA[Alconost Announces Public Availability of the MQM Tool API]]></title>
-            <description><![CDATA[New API enables programmatic project setup, linguist coordination, progress tracking, and structured export — while keeping all linguistic evaluation fully human-performed Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/alconost-announces-public-availability-of-the-mqm-tool-api</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/alconost-announces-public-availability-of-the-mqm-tool-api</guid>
-        </item>
-        <item>
             <title><![CDATA[Win & Winnow is seeking a Sales Representative (B2B) in Spain]]></title>
             <description><![CDATA[Help more organizations improve lives through accessible information by opening doors, building trust early, and converting qualified interest into lasting relationships. This role is ideal for a consultative B2B seller who enjoys solution-based sales in services or tech environments. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/win-and-winnow-is-seeking-a-sales-representative-b2b-spain</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/win-and-winnow-is-seeking-a-sales-representative-b2b-spain</guid>
-        </item>
-        <item>
-            <title><![CDATA[Welocalize Expands Enterprise Access to OPAL Enable Through Blackbird Integration]]></title>
-            <description><![CDATA[New activation pathway allows Blackbird customers to seamlessly deploy customizable multilingual AI workflows inside existing orchestration environment. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/welocalize-expands-enterprise-access-to-opal-enable-through-blackbird-integration</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/welocalize-expands-enterprise-access-to-opal-enable-through-blackbird-integration</guid>
-        </item>
-        <item>
-            <title><![CDATA[Stay ahead of the curve in the language industry with the ZHAW]]></title>
-            <description><![CDATA[In 2026, you can look forward to eight online sessions held by experts covering hot topics in the language services industry, including the latest advancements in the area of AI, consultancy skills for language professionals and how you can incorporate cutting-edge tools to boost your productivity. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/stay-ahead-of-the-curve-in-the-language-industry-with-the-zhaw</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/stay-ahead-of-the-curve-in-the-language-industry-with-the-zhaw</guid>
         </item>
     </channel>
 </rss>
