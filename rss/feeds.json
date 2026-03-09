@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T05:49:14.796Z",
+  "generatedAt": "2026-03-09T11:27:01.518Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -25,6 +25,11 @@
       "name": "crowdin-blog",
       "sourceUrl": "https://crowdin.com/blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml"
+    },
+    {
+      "name": "DeepL-blog",
+      "sourceUrl": "https://www.deepl.com/en/blog",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/DeepL-blog.xml"
     },
     {
       "name": "PRNewswire-L10N",
