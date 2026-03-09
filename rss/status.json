@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-09T00:11:48.523Z",
-  "durationMs": 9215,
+  "generatedAt": "2026-03-09T00:21:49.528Z",
+  "durationMs": 10140,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1763
+      "durationMs": 1534
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 9183
+      "durationMs": 10107
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 536
+      "durationMs": 678
     },
     {
       "name": "lokalise-blog",
@@ -32,16 +32,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 575
+      "durationMs": 551
     },
     {
       "name": "crowdin-blog",
       "url": "https://crowdin.com/blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
-      "status": "error",
-      "error": "Unknown pseudo-class :order-4",
-      "items": null,
-      "durationMs": 0
+      "status": "success",
+      "items": 12,
+      "durationMs": 363
     },
     {
       "name": "PRNewswire-L10N",
@@ -49,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 497
+      "durationMs": 500
     }
   ]
 }
