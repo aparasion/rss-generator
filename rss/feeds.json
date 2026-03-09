@@ -27,11 +27,6 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml"
     },
     {
-      "name": "DeepL-blog",
-      "sourceUrl": "https://www.deepl.com/en/blog",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/DeepL-blog.xml"
-    },
-    {
       "name": "PRNewswire-L10N",
       "sourceUrl": "https://www.prnewswire.com/news-releases/news-releases-list/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml"

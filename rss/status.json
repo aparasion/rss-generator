@@ -43,14 +43,6 @@
       "durationMs": 451
     },
     {
-      "name": "DeepL-blog",
-      "url": "https://www.deepl.com/en/blog",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/DeepL-blog.xml",
-      "status": "success",
-      "items": 11,
-      "durationMs": 449
-    },
-    {
       "name": "PRNewswire-L10N",
       "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
