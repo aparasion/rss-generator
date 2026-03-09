@@ -42,8 +42,18 @@
   "titleSelector": "h3",
   "linkSelector": "a",
   "descriptionSelector": "p",
-  "dateSelector": "time"
+  "dateSelector": "time",
 },
+  {
+  "name": "memoq-blog",
+  "url": "https://blog.memoq.com/",
+  "articleSelector": ".post-item",
+  "titleSelector": ".post-header",
+  "linkSelector": ".post-header a",
+  "descriptionSelector": "",
+  "dateSelector": ".mq-PostAuthor__date"
+},
+
   {
   "name": "PRNewswire-L10N",
   "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
