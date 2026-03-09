@@ -9,8 +9,5 @@
     "etag": "W/\"28664cc9c24f3900bdada66252f048e4\"",
     "lastModified": "Fri, 06 Mar 2026 14:23:12 GMT"
   },
-  "https://crowdin.com/blog": {
-    "etag": "W/\"69a8493d-234ed\"",
-    "lastModified": "Wed, 04 Mar 2026 15:01:17 GMT"
-  }
+  "https://crowdin.com/blog": {}
 }
