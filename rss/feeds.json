@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T23:40:36.378Z",
+  "generatedAt": "2026-03-09T00:06:43.203Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -20,6 +20,11 @@
       "name": "lokalise-blog",
       "sourceUrl": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml"
+    },
+    {
+      "name": "crowdin-blog",
+      "sourceUrl": "https://crowdin.com/blog",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml"
     },
     {
       "name": "PRNewswire-L10N",
