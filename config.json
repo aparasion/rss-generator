@@ -45,16 +45,6 @@
   "dateSelector": "time"
 },
   {
-  "name": "DeepL-blog",
-  "url": "https://www.deepl.com/en/blog",
-  "articleSelector": ".bg-redesign-quartz-gray-200 .rounded-redesign-default",
-  "titleSelector": "h6",
-  "linkSelector": "a[href*='/en/blog/']",
-  "linkPathPrefix": "/en/blog/",
-  "descriptionSelector": "p",
-  "dateSelector": "time"
-},
-  {
   "name": "PRNewswire-L10N",
   "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
   "articleSelector": ".release-list-item",
