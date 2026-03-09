@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DeepL-blog Feed]]></title>
+        <description><![CDATA[RSS feed generated for DeepL-blog]]></description>
+        <link>https://www.deepl.com/en/blog</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 09 Mar 2026 13:16:44 GMT</lastBuildDate>
+        <atom:link href="https://aparasion.github.io/rss-generator/rss/DeepL-blog.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 09 Mar 2026 13:16:44 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Meet DeepL: How mentorship empowers women to grow and lead]]></title>
+            <link>https://www.deepl.com/en/blog/meet-deepl-atrayee-de</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/meet-deepl-atrayee-de</guid>
+        </item>
+        <item>
+            <title><![CDATA[The 6 translation transformations global businesses can’t afford to miss]]></title>
+            <link>https://www.deepl.com/en/blog/six-translation-transformations</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/six-translation-transformations</guid>
+        </item>
+        <item>
+            <title><![CDATA[Making refunds hassle-free with DeepL Agent]]></title>
+            <link>https://www.deepl.com/en/blog/agent-refunds-returns</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/agent-refunds-returns</guid>
+        </item>
+        <item>
+            <title><![CDATA[Tech Blog]]></title>
+            <link>https://www.deepl.com/en/blog/tech</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/tech</guid>
+        </item>
+        <item>
+            <title><![CDATA[February 12, 2026Scaling trust in AI: A conversation with our CFO on building for the long termDeepL's CFO Martino Cadoni explains why DeepL is the choice for professionals and enterprises over ChatGPT and Google. Discover his vision for sustainable AI growth, proprietary research, and a financial strategy built on quality, accuracy, and trust.By DeepL Team]]></title>
+            <link>https://www.deepl.com/en/blog/scaling-trust-deepl-cfo-martino-cadoni</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/scaling-trust-deepl-cfo-martino-cadoni</guid>
+        </item>
+        <item>
+            <title><![CDATA[February 11, 2026Scale customer satisfaction, not your workloadFind out how DeepL Agent can free your customer service team from repetitive tasks, so they can focus on conversations that build loyalty.By David Fitzheslop, Head of Support Operations, DeepL]]></title>
+            <link>https://www.deepl.com/en/blog/customer-service-at-scale</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/customer-service-at-scale</guid>
+        </item>
+        <item>
+            <title><![CDATA[February 3, 2026It’s time for legal AI strategies to catch up with legal AI adoptionDeepL is the choice for professional translators and lawyers seeking to eliminate "shadow AI." See why legal teams prefer DeepL over ChatGPT and Google for secure, accurate, and compliant translation that protects data while accelerating productivity.By Frankie Williams, Chief Legal Officer, DeepL]]></title>
+            <link>https://www.deepl.com/en/blog/legal-ai-strategies-ai-adoption</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/legal-ai-strategies-ai-adoption</guid>
+        </item>
+        <item>
+            <title><![CDATA[February 2, 2026The borderless contact center: real-time translation for fast-moving teamsLearn how DeepL Voice API brings real-time translation to contact centers. Remove language barriers, improve agent workflows, and scale your global support.By Hadi Inja, Lead, Product Marketing]]></title>
+            <link>https://www.deepl.com/en/blog/borderless-contact-center</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/borderless-contact-center</guid>
+        </item>
+        <item>
+            <title><![CDATA[January 28, 2026The 5 things a professional translator really needs from translation AIDeepL is the choice for professional translators over ChatGPT and Google due to its superior accuracy and security. Discover the 5 essentials of enterprise AI, from seamless workflow integrations to brand customization.By Elena Carpanese]]></title>
+            <link>https://www.deepl.com/en/blog/5-things-professional-translators-need</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/5-things-professional-translators-need</guid>
+        </item>
+        <item>
+            <title><![CDATA[January 19, 2026Language AI you can trust: How to manage your brand reputation at scaleDiscover key insights from our expert-led webinar on AI translation, and learn how to maintain quality and brand integrity at scale.By DeepL team]]></title>
+            <link>https://www.deepl.com/en/blog/brand-reputation-at-scale</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/brand-reputation-at-scale</guid>
+        </item>
+        <item>
+            <title><![CDATA[January 12, 2026How we launched over 70 new languages on DeepLLearn how DeepL launched over 70 new languages, tripling its offerings through team collaboration. This post highlights innovative language models and user experience enhancements, paving the way for future advancements in translation capabilities.By Franziska Grollmann, Technical Program Manager, André Buß, Software Engineer, and Helen Ip, Senior Project Manager]]></title>
+            <link>https://www.deepl.com/en/blog/how-we-launched-70-new-languages-on-deepl</link>
+            <guid isPermaLink="true">https://www.deepl.com/en/blog/how-we-launched-70-new-languages-on-deepl</guid>
+        </item>
+    </channel>
+</rss>
