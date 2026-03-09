@@ -38,7 +38,7 @@
   {
   "name": "crowdin-blog",
   "url": "https://crowdin.com/blog",
-  "articleSelector": ".group .h-full .lg:col-span-1]",
+  "articleSelector": ".group .h-full .lg:order-4",
   "titleSelector": "h3.order-1 .font-heading .font-bold .group-hover:underline .text-lg .leading-normal",
   "linkSelector": "a.group .h-full lg:col-span-1",
   "descriptionSelector": "p.order-3 .mt-1 .line-clamp-3 .text-gray-700 .dark:text-gray-300 .px-8",
