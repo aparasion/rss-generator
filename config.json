@@ -47,7 +47,7 @@
   {
   "name": "DeepL-blog",
   "url": "https://www.deepl.com/en/blog",
-  "articleSelector": ".hover:bg-redesign-quartz-gray-300 .bg-redesign-quartz-gray-200 .rounded-redesign-default .relative .flex .cursor-pointer .flex-col .justify-between .overflow-hidden .p-4 .pb-6 .lg:gap-10 .lg:p-5",
+  "articleSelector": ".bg-redesign-quartz-gray-200 .rounded-redesign-default .relative .flex .cursor-pointer .flex-col .justify-between .overflow-hidden .p-4 .pb-6 .lg:gap-10 .lg:p-5",
   "titleSelector": "h6",
   "linkSelector": "a",
   "descriptionSelector": "p",
