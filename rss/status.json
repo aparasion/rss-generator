@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-09T11:36:33.286Z",
-  "durationMs": 10842,
+  "generatedAt": "2026-03-09T11:59:31.680Z",
+  "durationMs": 11079,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1716
+      "durationMs": 1390
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 9498
+      "durationMs": 11047
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 794
+      "durationMs": 641
     },
     {
       "name": "lokalise-blog",
@@ -32,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 629
+      "durationMs": 643
     },
     {
       "name": "crowdin-blog",
@@ -40,16 +40,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 507
+      "durationMs": 323
     },
     {
       "name": "DeepL-blog",
       "url": "https://www.deepl.com/en/blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/DeepL-blog.xml",
-      "status": "error",
-      "error": "Unknown pseudo-class :gap-10",
-      "items": null,
-      "durationMs": 0
+      "status": "success",
+      "items": 20,
+      "durationMs": 575
     },
     {
       "name": "PRNewswire-L10N",
@@ -57,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 10803
+      "durationMs": 471
     }
   ]
 }
