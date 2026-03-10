@@ -1,62 +1,78 @@
 {
-  "generatedAt": "2026-03-10T11:51:22.122Z",
-  "durationMs": 9136,
+  "generatedAt": "2026-03-10T12:07:52.556Z",
+  "durationMs": 6053,
   "feeds": [
     {
       "name": "GALA-Global",
       "url": "https://www.gala-global.org/news/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
-      "status": "success",
-      "items": 12,
-      "durationMs": 1446
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "XTM-Blog",
       "url": "https://xtm.cloud/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
-      "status": "success",
-      "items": 15,
-      "durationMs": 9102
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "phrase-blog",
       "url": "https://phrase.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
-      "status": "success",
-      "items": 9,
-      "durationMs": 515
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "lokalise-blog",
       "url": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 576
+      "durationMs": 0
     },
     {
       "name": "crowdin-blog",
       "url": "https://crowdin.com/blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 325
+      "durationMs": 0
     },
     {
       "name": "PRNewswire-L10N",
       "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
-      "status": "success",
-      "items": 0,
-      "durationMs": 467
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "RWS-media-centre",
       "url": "https://www.rws.com/about/media-centre/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
-      "status": "success",
-      "items": 20,
-      "durationMs": 757
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
+    },
+    {
+      "name": "transperfect-news-and-press",
+      "url": "https://www.transperfect.com/about/news-and-press/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     }
   ]
 }
