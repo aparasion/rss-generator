@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T11:51:22.122Z",
+  "generatedAt": "2026-03-10T13:31:02.867Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -35,6 +35,11 @@
       "name": "RWS-media-centre",
       "sourceUrl": "https://www.rws.com/about/media-centre/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml"
+    },
+    {
+      "name": "transperfect-news-and-press",
+      "sourceUrl": "https://www.transperfect.com/about/news-and-press/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml"
     }
   ]
 }
