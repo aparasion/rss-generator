@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T11:23:56.494Z",
+  "generatedAt": "2026-03-10T11:51:22.122Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -30,6 +30,11 @@
       "name": "PRNewswire-L10N",
       "sourceUrl": "https://www.prnewswire.com/news-releases/news-releases-list/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml"
+    },
+    {
+      "name": "RWS-media-centre",
+      "sourceUrl": "https://www.rws.com/about/media-centre/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml"
     }
   ]
 }

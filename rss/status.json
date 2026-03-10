@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-10T11:23:56.494Z",
-  "durationMs": 10505,
+  "generatedAt": "2026-03-10T11:51:22.122Z",
+  "durationMs": 9136,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1453
+      "durationMs": 1446
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 10473
+      "durationMs": 9102
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 531
+      "durationMs": 515
     },
     {
       "name": "lokalise-blog",
@@ -32,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 411
+      "durationMs": 576
     },
     {
       "name": "crowdin-blog",
@@ -40,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 158
+      "durationMs": 325
     },
     {
       "name": "PRNewswire-L10N",
@@ -48,7 +48,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 332
+      "durationMs": 467
+    },
+    {
+      "name": "RWS-media-centre",
+      "url": "https://www.rws.com/about/media-centre/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
+      "status": "success",
+      "items": 20,
+      "durationMs": 757
     }
   ]
 }

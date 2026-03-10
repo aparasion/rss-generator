@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for PRNewswire-L10N]]></description>
         <link>https://www.prnewswire.com/news-releases/news-releases-list/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 11:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 11:51:13 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 11:23:46 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 11:51:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
     </channel>
