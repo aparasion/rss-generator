@@ -84,5 +84,14 @@
   "linkSelector": "",
   "descriptionSelector": "p",
   "dateSelector": "time"
+},
+  {
+  "name": "transperfect-news-and-press",
+  "url": "https://www.transperfect.com/about/news-and-press/",
+  "articleSelector": ".views-field .views-field-title",
+  "titleSelector": ".field-content",
+  "linkSelector": "a.field-content",
+  "descriptionSelector": "",
+  "dateSelector": ".datetime"
 }
 ]
