@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 13:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 23:16:57 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 13:30:54 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 23:16:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The Global Expansion Reality Check: Where Localization Is Costing Companies Revenue]]></title>
+            <description><![CDATA[Global expansion is back on the table for 2026. But many teams are moving into new markets faster than their localization strategy can keep up. To see how companies are actually preparing for international growth, Lokalise surveyed 500 global business leaders. What we found was a gap between intention and execution, especially around translation quality, regional investment, and budget priorities. For product, marketing, and growth leaders, the takeaway is straightforward: localiz]]></description>
+            <link>https://lokalise.com/blog/global-expansion-localization-revenue-gap/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/global-expansion-localization-revenue-gap/</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Headless CMS localization tools: Build a hands-off translation workflow]]></title>
             <description><![CDATA[Headless CMS platforms are built for speed. You publish once, every frontend updates. But then localization shows up, and the “fast” stack suddenly depends on a rather slow routine: export strings, email a file, chase approvals, import, fix broken formatting, repeat. If you’re a developer or content manager, you’ve felt the cost. Releases slip and translators work from stale content without even knowing it. Engineers get pulled into one-off fixes. Users end up seeing mixed terminology a]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/in-context-editor-tools/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/in-context-editor-tools/</guid>
             <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 bold predictions for the future of localization in 2026]]></title>
-            <description><![CDATA[The localization industry is currently sitting at a high-stakes betting table. The chips are AI, automation, and data, and the jackpot is global growth. But knowing exactly where to place those bets is the difference between leading the market and playing catch-up. We didn’t want safe guesses. We gathered 7 top localization experts from major tech partners like Webflow and language service providers like Acclaro and Argos to industry veterans and strategists, and asked them to place the]]></description>
-            <link>https://lokalise.com/blog/7-bold-predictions-for-the-future-of-localization-in-2026/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/7-bold-predictions-for-the-future-of-localization-in-2026/</guid>
-            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
