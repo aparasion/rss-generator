@@ -42,7 +42,7 @@
   "titleSelector": "h3",
   "linkSelector": "a",
   "descriptionSelector": "p",
-  "dateSelector": "time"
+  "dateSelector": "span:contains('min read')"
 },
   {
   "name": "PRNewswire-L10N",
