@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 23:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 05:38:48 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 23:16:56 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 05:38:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[XTM introduces multilingual software video generation for enterprise teams]]></title>
+            <description><![CDATA[XTM International, a leading AI globalisation platform, has announced the launch of XTM Software Recorder, a major new capability that enables multilingual software video generation at scale. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</guid>
+        </item>
         <item>
             <title><![CDATA[Rheinschrift Rebrands as Next-Generation Boutique Consulting Partner]]></title>
             <description><![CDATA[The company unveils new logo, website, refreshed brand and visual identity to reflect its evolution. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[Translated introduces TranslationOS, an adaptive AI service delivery platform that helps enterprises manage the growing complexity of localization workflows and unlock latent demand for translation at scale. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform</guid>
-        </item>
-        <item>
-            <title><![CDATA[Win & Winnow is seeking a Sales Representative (B2B) in Spain]]></title>
-            <description><![CDATA[Help more organizations improve lives through accessible information by opening doors, building trust early, and converting qualified interest into lasting relationships. This role is ideal for a consultative B2B seller who enjoys solution-based sales in services or tech environments. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/win-and-winnow-is-seeking-a-sales-representative-b2b-spain</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/win-and-winnow-is-seeking-a-sales-representative-b2b-spain</guid>
         </item>
     </channel>
 </rss>
