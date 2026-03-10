@@ -75,5 +75,14 @@
     "checkFullContent": false,
     "maxScan": 50
   }
+},
+  {
+  "name": "RWS-media-centre",
+  "url": "https://www.rws.com/about/media-centre/",
+  "articleSelector": "a[href^='/about/media-centre/press-releases/']",
+  "titleSelector": "h3",
+  "linkSelector": "",
+  "descriptionSelector": "p",
+  "dateSelector": "time"
 }
 ]
