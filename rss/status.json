@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-10T13:31:02.867Z",
-  "durationMs": 9985,
+  "generatedAt": "2026-03-10T13:47:01.728Z",
+  "durationMs": 9552,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1262
+      "durationMs": 1458
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 9951
+      "durationMs": 9520
     },
     {
       "name": "phrase-blog",
@@ -24,15 +24,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 952
+      "durationMs": 695
     },
     {
       "name": "lokalise-blog",
       "url": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
-      "status": "success",
-      "items": 8,
-      "durationMs": 1128
+      "status": "not_modified",
+      "items": null,
+      "durationMs": 694
     },
     {
       "name": "crowdin-blog",
@@ -40,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 262
+      "durationMs": 375
     },
     {
       "name": "PRNewswire-L10N",
@@ -48,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 441
+      "durationMs": 508
     },
     {
       "name": "RWS-media-centre",
@@ -56,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 511
+      "durationMs": 559
     },
     {
       "name": "transperfect-news-and-press",
@@ -64,7 +64,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 921
+      "durationMs": 990
     }
   ]
 }
