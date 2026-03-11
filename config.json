@@ -93,5 +93,14 @@
   "linkSelector": ".views-field-title a",
   "descriptionSelector": "",
   "dateSelector": ".datetime"
+},
+  {
+  "name": "Lionbridge-Insights",
+  "url": "https://www.lionbridge.com/insights/",
+  "articleSelector": ".cmp-blogposts__item",
+  "titleSelector": ".cmp-blogposts__item-title",
+  "linkSelector": "a.cmp-blogposts__item-link",
+  "descriptionSelector": ".cmp-blogposts__item-description",
+  "dateSelector": ".cmp-blogposts__item-date"
 }
 ]
