@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 18:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 19:11:01 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 18:16:26 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 19:11:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Phrase Launches Platform Innovations to Take AI from Playground to Production]]></title>
+            <description><![CDATA[Phrase, a global leader in AI-led language technology, today announced a major platform update designed to help enterprises embed generative AI across global content operations. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</guid>
+        </item>
         <item>
             <title><![CDATA[XTM introduces multilingual software video generation for enterprise teams]]></title>
             <description><![CDATA[XTM International, a leading AI globalisation platform, has announced the launch of XTM Software Recorder, a major new capability that enables multilingual software video generation at scale. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[XTM’s conversational AI agent transforms how teams navigate localisation workflows, with core capabilities now available for free across all XTM Cloud plans Continue Reading]]></description>
             <link>https://www.gala-global.org/news/xtm-unveils-xtm-agent-to-bring-agentic-ai-into-enterprise-localisation-workflows</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/xtm-unveils-xtm-agent-to-bring-agentic-ai-into-enterprise-localisation-workflows</guid>
-        </item>
-        <item>
-            <title><![CDATA[Introducing TranslationOS, an Adaptive AI Service Delivery Platform]]></title>
-            <description><![CDATA[Translated introduces TranslationOS, an adaptive AI service delivery platform that helps enterprises manage the growing complexity of localization workflows and unlock latent demand for translation at scale. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/introducing-translationos-an-adaptive-ai-service-delivery-platform</guid>
         </item>
     </channel>
 </rss>
