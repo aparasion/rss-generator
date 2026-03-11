@@ -97,7 +97,7 @@
   {
   "name": "Lionbridge-Insights",
   "url": "https://www.lionbridge.com/insights/",
-  "articleSelector": ".cmp-blogposts__item",
+  "articleSelector": "div.cmp-blogposts__item",
   "titleSelector": ".cmp-blogposts__item-title",
   "linkSelector": "a[href*='/blog/']",
   "descriptionSelector": ".cmp-blogposts__item-description",
