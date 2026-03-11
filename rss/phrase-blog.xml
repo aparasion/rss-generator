@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 12:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 13:52:05 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 12:02:55 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 13:52:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
