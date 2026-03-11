@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T17:51:53.724Z",
+  "generatedAt": "2026-03-11T18:16:34.535Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -40,11 +40,6 @@
       "name": "transperfect-news-and-press",
       "sourceUrl": "https://www.transperfect.com/about/news-and-press/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml"
-    },
-    {
-      "name": "Lionbridge-Insights",
-      "sourceUrl": "https://www.lionbridge.com/insights/",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/Lionbridge-Insights.xml"
     }
   ]
 }
