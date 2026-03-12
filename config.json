@@ -96,7 +96,7 @@
 },
 {
   "name": "keywords-studios-news",
-  "url": "https://www.keywordsstudios.com/en/about-us/news-events/news/",
+  "url": "https://www.welocalize.com/insights/category/blog-posts/",
   "articleSelector": ".card",
   "titleSelector": ".card__heading .has-sub-heading-medium-font-size",
   "linkSelector": ".card__wrap a",
