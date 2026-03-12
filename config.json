@@ -94,13 +94,4 @@
   "descriptionSelector": "",
   "dateSelector": ".datetime"
 },
-{
-  "name": "keywords-studios-news",
-  "url": "https://www.welocalize.com/insights/category/blog-posts/",
-  "articleSelector": ".card",
-  "titleSelector": ".card__heading .has-sub-heading-medium-font-size",
-  "linkSelector": ".card__wrap a",
-  "descriptionSelector": ".card__content p",
-  "dateSelector": ".card__kicker .meta .flex-list .flex-list--pipe .has-default-font-size"
-}
 ]
