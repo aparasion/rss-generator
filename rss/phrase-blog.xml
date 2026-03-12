@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 11:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 13:36:40 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 11:44:05 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 13:36:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Machine translation post-editing: best practices, workflows, and tools in the AI era]]></title>
+            <description><![CDATA[Discover how machine translation post-editing enables global teams to scale multilingual content using AI translation, automated workflows, and human linguistic expertise.Read more]]></description>
+            <link>https://phrase.com/blog/posts/machine-translation-post-editing/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/machine-translation-post-editing/</guid>
+        </item>
         <item>
             <title><![CDATA[Build or buy? You’re probably asking the wrong question]]></title>
             <description><![CDATA[Building a translation prototype is easy. Making it work at scale is another story. This article explores why most organizations succeed with a hybrid approach: buy the infrastructure and build…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Language technology migration is often seen as disruptive and resource-heavy. Leaders from Kayak and Pega share how migration can become a strategic redesign moment rather than a system replacement exercise.Read more]]></description>
             <link>https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</guid>
-        </item>
-        <item>
-            <title><![CDATA[How to evaluate AI for multilingual content without the guesswork]]></title>
-            <description><![CDATA[AI is transforming multilingual content, but many teams still struggle to measure whether it delivers real value. This Phrase guide outlines a practical approach to evaluating AI across time, cost,…Read more]]></description>
-            <link>https://phrase.com/blog/posts/evaluate-ai-multilingual-content/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/evaluate-ai-multilingual-content/</guid>
         </item>
     </channel>
 </rss>
