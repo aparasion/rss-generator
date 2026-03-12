@@ -94,12 +94,12 @@
   "descriptionSelector": "",
   "dateSelector": ".datetime"
 },
-  {
+{
   "name": "keywords-studios-news",
   "url": "https://www.keywordsstudios.com/en/about-us/news-events/news/",
-  "articleSelector": "article",
+  "articleSelector": "a[href^='/en/about-us/news-events/news/'][href$='/']",
   "titleSelector": "h3",
-  "linkSelector": "h3 a[href*='/about-us/news-events/news/']",
+  "linkSelector": "",
   "descriptionSelector": "p",
   "dateSelector": "time"
 }
