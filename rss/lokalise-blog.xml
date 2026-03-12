@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 09:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 10:00:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 09:02:25 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 10:00:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
