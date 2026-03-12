@@ -93,5 +93,14 @@
   "linkSelector": ".views-field-title a",
   "descriptionSelector": "",
   "dateSelector": ".datetime"
+},
+  {
+  "name": "keywords-studios-news",
+  "url": "https://www.keywordsstudios.com/en/about-us/news-events/news/",
+  "articleSelector": "article",
+  "titleSelector": "h3",
+  "linkSelector": "h3 a[href*='/about-us/news-events/news/']",
+  "descriptionSelector": "p",
+  "dateSelector": "time"
 }
 ]
