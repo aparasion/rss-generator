@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 23:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 23:56:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 23:14:03 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 23:56:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[GALA Annual Survey 2026 Findings]]></title>
+            <description><![CDATA[Each year, GALA’s Annual Survey offers a candid look at how our community experiences the association. We find out what’s working well and where we must improve, and we gauge the community’s sentiments about the association and the value we create. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/gala-annual-survey-2026-findings</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/gala-annual-survey-2026-findings</guid>
+        </item>
         <item>
             <title><![CDATA[Acolad is seeking a Head of Business Development Manager]]></title>
             <description><![CDATA[The Head of Sales will be responsible for driving revenue growth, developing and executing sales strategies, and leading a team of salespeople. Join the Acolad team today! Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[Today, we’re launching Talent Spotlight by Creative Words — a platform designed to match skilled professionals who are available for work, especially those impacted by layoffs, with companies looking for in-house talent in our ever-expanding localization ecosystem. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/an-open-letter-to-the-talents-who-make-our-industry-human</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/an-open-letter-to-the-talents-who-make-our-industry-human</guid>
-        </item>
-        <item>
-            <title><![CDATA[The GALA Barometer: Economic Indicators Why Your Participation Matters]]></title>
-            <description><![CDATA[The GALA Barometer is a comprehensive industry survey designed to give organizations in the global language industry clear, actionable insights into how their business compares to the market. Take Survey Why the Barometer: Economic Indicators Is Important Language service companies and... Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/the-gala-barometer-economic-indicators-why-your-participation-matters</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/the-gala-barometer-economic-indicators-why-your-participation-matters</guid>
         </item>
     </channel>
 </rss>

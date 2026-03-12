@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T23:14:12.400Z",
+  "generatedAt": "2026-03-12T23:56:36.098Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -40,11 +40,6 @@
       "name": "transperfect-news-and-press",
       "sourceUrl": "https://www.transperfect.com/about/news-and-press/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml"
-    },
-    {
-      "name": "keywords-studios-news",
-      "sourceUrl": "https://www.welocalize.com/insights/category/blog-posts/",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/keywords-studios-news.xml"
     }
   ]
 }

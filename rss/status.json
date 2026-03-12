@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-12T23:14:12.400Z",
-  "durationMs": 10305,
+  "generatedAt": "2026-03-12T23:56:36.097Z",
+  "durationMs": 9281,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1596
+      "durationMs": 1718
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 10271
+      "durationMs": 9244
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 516
+      "durationMs": 855
     },
     {
       "name": "lokalise-blog",
@@ -32,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 576
+      "durationMs": 617
     },
     {
       "name": "crowdin-blog",
@@ -40,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 484
+      "durationMs": 615
     },
     {
       "name": "PRNewswire-L10N",
@@ -48,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 292
+      "durationMs": 349
     },
     {
       "name": "RWS-media-centre",
@@ -56,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 440
+      "durationMs": 663
     },
     {
       "name": "transperfect-news-and-press",
@@ -64,15 +64,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 563
-    },
-    {
-      "name": "keywords-studios-news",
-      "url": "https://www.welocalize.com/insights/category/blog-posts/",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/keywords-studios-news.xml",
-      "status": "success",
-      "items": 20,
-      "durationMs": 389
+      "durationMs": 584
     }
   ]
 }
