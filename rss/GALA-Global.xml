@@ -4,11 +4,29 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 16:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 18:01:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 16:15:27 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 18:01:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Acolad is seeking a Head of Business Development Manager]]></title>
+            <description><![CDATA[The Head of Sales will be responsible for driving revenue growth, developing and executing sales strategies, and leading a team of salespeople. Join the Acolad team today! Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/acolad-is-seeking-a-head-of-business-development-manager</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-head-of-business-development-manager</guid>
+        </item>
+        <item>
+            <title><![CDATA[Acolad is seeking a Pre-Sales Manager for Interpreting Solutions]]></title>
+            <description><![CDATA[To lead and manage pre-sales activities for strategic interpreting opportunities by shaping tailored solutions and services, building pricing models, conducting profit and loss (P&L) analyses, and creating compelling content for technical proposals. Join the Acolad team. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/acolad-is-seeking-a-pre-sales-manager-for-interpreting-solutions</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-pre-sales-manager-for-interpreting-solutions</guid>
+        </item>
+        <item>
+            <title><![CDATA[Acolad is seeking a Senior Account Manager]]></title>
+            <description><![CDATA[The role is based in Belgium and will cover the Belgian market and international accounts managed by Acolad’s Belgian division. Join the Acolad team. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</guid>
+        </item>
         <item>
             <title><![CDATA[Phrase Launches Platform Innovations to Take AI from Playground to Production]]></title>
             <description><![CDATA[Phrase, a global leader in AI-led language technology, today announced a major platform update designed to help enterprises embed generative AI across global content operations. Continue Reading]]></description>
@@ -62,24 +80,6 @@
             <description><![CDATA[The GALA Barometer is a comprehensive industry survey designed to give organizations in the global language industry clear, actionable insights into how their business compares to the market. Take Survey Why the Barometer: Economic Indicators Is Important Language service companies and... Continue Reading]]></description>
             <link>https://www.gala-global.org/news/the-gala-barometer-economic-indicators-why-your-participation-matters</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/the-gala-barometer-economic-indicators-why-your-participation-matters</guid>
-        </item>
-        <item>
-            <title><![CDATA[Welo Data Wins Best Cyber Security Innovation at the Global Business Tech Awards]]></title>
-            <description><![CDATA[Welo Data, the multilingual data and evaluation partner for foundation labs and enterprises deploying generative AI systems globally, today announced that its Network Identity Management and Operations (NIMO) platform has won Best Cyber Security Innovation at the Global Business Tech Awards 2026. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/welo-data-wins-best-cyber-security-innovation-at-the-global-business-tech-awards</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/welo-data-wins-best-cyber-security-innovation-at-the-global-business-tech-awards</guid>
-        </item>
-        <item>
-            <title><![CDATA[Transifex rolls out major platform evolution to solve AI quality and control]]></title>
-            <description><![CDATA[XTM has just announced a major platform update in its Transifex product that’s designed to help organizations actively manage translation quality, govern AI output, and accelerate localisation with less operational friction. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/transifex-rolls-out-major-platform-evolution-to-solve-ai-quality-and-control</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/transifex-rolls-out-major-platform-evolution-to-solve-ai-quality-and-control</guid>
-        </item>
-        <item>
-            <title><![CDATA[XTM unveils XTM Agent to bring agentic AI into enterprise localisation workflows]]></title>
-            <description><![CDATA[XTM’s conversational AI agent transforms how teams navigate localisation workflows, with core capabilities now available for free across all XTM Cloud plans Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/xtm-unveils-xtm-agent-to-bring-agentic-ai-into-enterprise-localisation-workflows</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/xtm-unveils-xtm-agent-to-bring-agentic-ai-into-enterprise-localisation-workflows</guid>
         </item>
     </channel>
 </rss>

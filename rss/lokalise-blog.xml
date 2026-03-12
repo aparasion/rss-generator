@@ -4,17 +4,17 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 16:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 18:01:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 16:15:27 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 18:01:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[The Global Expansion Reality Check: Where Localization Is Costing Companies Revenue]]></title>
+            <title><![CDATA[The global expansion reality check: Where localization is costing companies revenue]]></title>
             <description><![CDATA[Global expansion is back on the table for 2026. But many teams are moving into new markets faster than their localization strategy can keep up. To see how companies are actually preparing for international growth, Lokalise surveyed 500 global business leaders. What we found was a gap between intention and execution, especially around translation quality, regional investment, and budget priorities. For product, marketing, and growth leaders, the takeaway is straightforward: localiz]]></description>
             <link>https://lokalise.com/blog/global-expansion-localization-revenue-gap/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/global-expansion-localization-revenue-gap/</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Headless CMS localization tools: Build a hands-off translation workflow]]></title>
