@@ -97,10 +97,10 @@
 {
   "name": "keywords-studios-news",
   "url": "https://www.keywordsstudios.com/en/about-us/news-events/news/",
-  "articleSelector": "a[href^='/en/about-us/news-events/news/'][href$='/']",
-  "titleSelector": "h3",
-  "linkSelector": "",
-  "descriptionSelector": "p",
-  "dateSelector": "time"
+  "articleSelector": ".card",
+  "titleSelector": ".card__heading .has-sub-heading-medium-font-size",
+  "linkSelector": ".card__wrap a",
+  "descriptionSelector": ".card__content p",
+  "dateSelector": ".card__kicker .meta .flex-list .flex-list--pipe .has-default-font-size"
 }
 ]
