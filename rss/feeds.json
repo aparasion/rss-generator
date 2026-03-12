@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T23:05:48.209Z",
+  "generatedAt": "2026-03-12T23:14:12.400Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -43,7 +43,7 @@
     },
     {
       "name": "keywords-studios-news",
-      "sourceUrl": "https://www.keywordsstudios.com/en/about-us/news-events/news/",
+      "sourceUrl": "https://www.welocalize.com/insights/category/blog-posts/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/keywords-studios-news.xml"
     }
   ]
