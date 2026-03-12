@@ -93,5 +93,5 @@
   "linkSelector": ".views-field-title a",
   "descriptionSelector": "",
   "dateSelector": ".datetime"
-},
+}
 ]
