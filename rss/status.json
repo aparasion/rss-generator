@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-14T10:46:48.260Z",
-  "durationMs": 8488,
+  "generatedAt": "2026-03-14T11:36:33.712Z",
+  "durationMs": 9441,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1222
+      "durationMs": 1367
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 8456
+      "durationMs": 9408
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 524
+      "durationMs": 615
     },
     {
       "name": "lokalise-blog",
@@ -32,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 524
+      "durationMs": 566
     },
     {
       "name": "crowdin-blog",
@@ -40,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 594
+      "durationMs": 345
     },
     {
       "name": "PRNewswire-L10N",
@@ -48,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 435
+      "durationMs": 452
     },
     {
       "name": "RWS-media-centre",
@@ -56,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 690
+      "durationMs": 505
     },
     {
       "name": "transperfect-news-and-press",
@@ -64,7 +64,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 831
+      "durationMs": 769
     }
   ]
 }
