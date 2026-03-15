@@ -93,5 +93,36 @@
   "linkSelector": ".views-field-title a",
   "descriptionSelector": "",
   "dateSelector": ".datetime"
+},
+  {
+  "name": "Nature-Aging-Longevity",
+  "type": "rss",
+  "url": "https://www.nature.com/nature.rss",
+  "feedTitle": "Nature — Aging & Longevity",
+  "feedDescription": "Nature articles filtered for aging, healthspan, and longevity research",
+  "contentFilter": {
+    "keywords": [
+      "aging", "ageing",
+      "healthspan", "health span",
+      "longevity",
+      "lifespan", "life span",
+      "senescence", "senescent", "senolytic", "senolytics",
+      "gerontology", "geroscience",
+      "telomere", "telomerase",
+      "caloric restriction", "calorie restriction",
+      "rapamycin", "mTOR",
+      "NAD+", "nicotinamide",
+      "sirtuin", "SIRT1",
+      "autophagy",
+      "epigenetic clock", "biological age",
+      "age-related", "age related",
+      "rejuvenation",
+      "cellular reprogramming",
+      "metformin"
+    ],
+    "minMatches": 1,
+    "checkFullContent": false,
+    "maxScan": 100
+  }
 }
 ]
