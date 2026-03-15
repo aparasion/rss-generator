@@ -77,17 +77,26 @@ function validateConfig(sites) {
   if (!Array.isArray(sites) || sites.length === 0) {
     throw new Error("config.json must be a non-empty array");
   }
-  const required = ["name", "url", "articleSelector", "titleSelector", "linkSelector"];
   sites.forEach((site, i) => {
-    for (const field of required) {
-      if (site[field] == null) {
-        throw new Error(`config[${i}] is missing required field "${field}"`);
-      }
+    if (site.name == null) {
+      throw new Error(`config[${i}] is missing required field "name"`);
+    }
+    if (site.url == null) {
+      throw new Error(`config[${i}] is missing required field "url"`);
     }
     try {
       new URL(site.url);
     } catch {
       throw new Error(`config[${i}].url is not a valid URL: "${site.url}"`);
+    }
+    // RSS-type feeds only need name + url; HTML-scrape feeds need selectors.
+    if (site.type !== "rss") {
+      const required = ["articleSelector", "titleSelector", "linkSelector"];
+      for (const field of required) {
+        if (site[field] == null) {
+          throw new Error(`config[${i}] is missing required field "${field}"`);
+        }
+      }
     }
   });
 }
@@ -448,6 +457,147 @@ async function classifyArticle(url, title, description, contentFilter, httpCache
   return false;
 }
 
+// ─── RSS feed input processing ────────────────────────────────────────────────
+
+/**
+ * Process a source that is already an RSS/Atom feed (type: "rss").
+ * Parses the XML, extracts items, applies keyword filtering if configured,
+ * and writes a filtered RSS feed.
+ */
+async function processRssFeed(site, httpCache, seenCache) {
+  const t0 = Date.now();
+  console.log(`\nProcessing RSS feed: ${site.name} (${site.url})`);
+
+  if (site.contentFilter && !seenCache[site.name]) seenCache[site.name] = {};
+
+  let fetchResult = await fetchPage(site.url, httpCache);
+
+  if (fetchResult.notModified) {
+    const outputPath = path.join(rssDir, `${site.name}.xml`);
+    if (fs.existsSync(outputPath)) {
+      console.log(`  ${site.name}: feed unchanged (304); skipping re-parse.`);
+      return {
+        name: site.name,
+        url: site.url,
+        feedUrl: `${FEED_BASE_URL}/rss/${site.name}.xml`,
+        status: "not_modified",
+        items: null,
+        durationMs: Date.now() - t0,
+      };
+    }
+    console.log(`  ${site.name}: output file missing despite 304; forcing unconditional re-fetch.`);
+    if (httpCache[site.url]) {
+      delete httpCache[site.url].etag;
+      delete httpCache[site.url].lastModified;
+    }
+    fetchResult = await fetchPage(site.url, httpCache);
+  }
+
+  const $ = cheerio.load(fetchResult.html, { xmlMode: true });
+  const feedUrl = `${FEED_BASE_URL}/rss/${site.name}.xml`;
+
+  // Detect channel-level metadata from the source feed.
+  const sourceTitle = $("channel > title").first().text().trim() || site.name;
+  const sourceDescription = $("channel > description").first().text().trim() || "";
+  const sourceLink = $("channel > link").first().text().trim() || site.url;
+
+  const feed = new RSS({
+    title: site.feedTitle || `${site.name} Feed`,
+    description: site.feedDescription || sourceDescription || `Filtered RSS feed from ${sourceTitle}`,
+    site_url: sourceLink,
+    feed_url: feedUrl,
+    language: "en",
+    pubDate: new Date(),
+    ttl: 60,
+  });
+
+  // Extract items from the source RSS/Atom feed.
+  const items = [];
+  $("item").each((_, el) => {
+    const $el = $(el);
+    const title = stripHtml($el.find("title").first().text().trim());
+    const link = ($el.find("link").first().text().trim() ||
+                  $el.find("guid").first().text().trim() || "");
+    const description = stripHtml($el.find("description").first().text().trim());
+    const rawDate = $el.find("pubDate").first().text().trim() ||
+                    $el.find("dc\\:date").first().text().trim() || "";
+
+    if (title && link) {
+      items.push({ title, link, description, rawDate });
+    }
+  });
+
+  // Also handle Atom entries (feed > entry).
+  $("entry").each((_, el) => {
+    const $el = $(el);
+    const title = stripHtml($el.find("title").first().text().trim());
+    const link = $el.find("link[href]").first().attr("href") ||
+                 $el.find("link").first().text().trim() ||
+                 $el.find("id").first().text().trim() || "";
+    const description = stripHtml(
+      ($el.find("summary").first().text() || $el.find("content").first().text() || "").trim()
+    );
+    const rawDate = $el.find("published").first().text().trim() ||
+                    $el.find("updated").first().text().trim() || "";
+
+    if (title && link) {
+      items.push({ title, link, description, rawDate });
+    }
+  });
+
+  console.log(`  Parsed ${items.length} item(s) from source feed.`);
+
+  const addedLinks = new Set();
+  const contentFilter = site.contentFilter || null;
+  const seenForSite = contentFilter ? seenCache[site.name] : null;
+  const maxScan = (contentFilter && contentFilter.maxScan) || 50;
+  let scanned = 0;
+
+  for (const article of items) {
+    if (addedLinks.size >= MAX_ITEMS) break;
+    if (addedLinks.has(article.link)) continue;
+
+    if (contentFilter) {
+      const alreadySeen = article.link in seenForSite;
+      if (!alreadySeen && scanned >= maxScan) continue;
+      if (!alreadySeen) scanned++;
+
+      const relevant = await classifyArticle(
+        article.link, article.title, article.description,
+        contentFilter, httpCache, seenForSite
+      );
+      if (!relevant) continue;
+    }
+
+    const description = truncate(article.description, MAX_DESCRIPTION_LENGTH);
+    const date = parseArticleDate(article.rawDate);
+    const item = { title: article.title, url: article.link, description };
+    if (date) item.date = date;
+    feed.item(item);
+    addedLinks.add(article.link);
+  }
+
+  if (contentFilter) {
+    const totalSeen = Object.keys(seenForSite).length;
+    console.log(`  Content filter: scanned ${scanned} new article(s) this run; ${totalSeen} total in seen cache.`);
+  }
+
+  const outputPath = path.join(rssDir, `${site.name}.xml`);
+  fs.writeFileSync(outputPath, feed.xml({ indent: true }));
+
+  const count = addedLinks.size;
+  console.log(`  Done: ${site.name} — ${count} item(s) in ${Date.now() - t0}ms`);
+
+  return {
+    name: site.name,
+    url: site.url,
+    feedUrl,
+    status: "success",
+    items: count,
+    durationMs: Date.now() - t0,
+  };
+}
+
 // ─── Per-site feed generation ─────────────────────────────────────────────────
 
 async function processSite(site, httpCache, seenCache) {
@@ -627,6 +777,9 @@ async function processSite(site, httpCache, seenCache) {
     const results = await Promise.all(
       config.map(async (site) => {
         try {
+          if (site.type === "rss") {
+            return await processRssFeed(site, httpCache, seenCache);
+          }
           return await processSite(site, httpCache, seenCache);
         } catch (err) {
           console.error(`  ERROR — ${site.name}: ${err.message}`);
