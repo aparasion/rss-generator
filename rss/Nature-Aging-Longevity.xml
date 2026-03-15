@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nature — Aging & Longevity]]></title>
+        <description><![CDATA[Nature articles filtered for aging, healthspan, and longevity research]]></description>
+        <link>http://feeds.nature.com/nature/rss/current</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 15 Mar 2026 16:41:46 GMT</lastBuildDate>
+        <atom:link href="https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 15 Mar 2026 16:41:46 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Youthful antics predict lifespan — at least for these fish]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00782-8</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00782-8</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A large-scale coherent 4D imaging sensor]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10183-6</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10183-6</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ageing promotes metastasis via activation of the integrated stress response]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10216-0</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10216-0</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Memory loss is fuelled by gut microbes in ageing mice]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00768-6</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00768-6</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gut microbes affect cognition during ageing]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00492-1</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00492-1</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Daily briefing: A daily multivitamin slows the signs of biological ageing]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00792-6</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00792-6</guid>
+            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
