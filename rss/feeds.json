@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T15:43:56.474Z",
+  "generatedAt": "2026-03-15T16:37:18.008Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -40,6 +40,11 @@
       "name": "transperfect-news-and-press",
       "sourceUrl": "https://www.transperfect.com/about/news-and-press/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml"
+    },
+    {
+      "name": "Nature-Aging-Longevity",
+      "sourceUrl": "https://www.nature.com/nature.rss",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml"
     }
   ]
 }
