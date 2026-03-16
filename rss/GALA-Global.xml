@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 17:17:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 15:18:54 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 17:17:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ciklopea Achieves ISO 13485 Certification]]></title>
+            <description><![CDATA[Ciklopea, a distinguished European provider of translation and localization services, has just received a globally recognised quality standard for the medical device industry - ISO 13485 certification. The company has also passed expert audits for ISO 9001, ISO 17100, and ISO 18587. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</guid>
+        </item>
         <item>
             <title><![CDATA[GALA Annual Survey 2026 Findings]]></title>
             <description><![CDATA[Each year, GALA’s Annual Survey offers a candid look at how our community experiences the association. We find out what’s working well and where we must improve, and we gauge the community’s sentiments about the association and the value we create. Continue Reading]]></description>
@@ -68,12 +74,6 @@
             <description><![CDATA[SMLC 2026 will take place on 5–6 June 2026 in Budapest, Hungary, in a hybrid format. This conference series aims to bring together researchers, educators, and professionals working in the field of healthcare communications and linguistics. Submit by 30 March. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</guid>
-        </item>
-        <item>
-            <title><![CDATA[XTM and Vistatec launch enterprise AI content globalisation partnership]]></title>
-            <description><![CDATA[XTM and Vistatec today announced the launch of an enterprise AI globalisation partnership. The partnership is designed to help organisations operationalise AI-driven global content as a production capability, with the governance, auditability, and expert delivery required to scale. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/xtm-and-vistatec-launch-enterprise-ai-content-globalisation-partnership</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/xtm-and-vistatec-launch-enterprise-ai-content-globalisation-partnership</guid>
         </item>
         <item>
             <title><![CDATA[An Open Letter to the Talents Who Make Our Industry Human]]></title>
