@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 13:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 15:38:18 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 13:53:52 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:38:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[AI-First Localization in a Regulated Business]]></title>
+            <description><![CDATA[Shipping multilingual content is rarely ‘translate and done’. Pages change, UI space is tight, legal terms must be exact, and markets never sleep. In The Agile Localization Podcast, host Stefan Huyghe talks with Putri Kumala (AI Localization Operations Team Lead) and Arshaad Mohiadeen (Senior AI Engineer) from Deriv about how they run 20+ languages with automated, AI-driven workflows while staying in control of quality, brand, and compliance.]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's New at Crowdin: February 2026]]></title>
             <description><![CDATA[Our release announcements are getting a makeover. Starting now, we’ll be highlighting some features in "What’s New" summaries, while major updates will now have their own separate posts. This shift ensures we can give you more depth and share important updates the moment they drop. Expect the first of these separate announcements to arrive in just a few days! This February, we released Crowdin CLI 4.14.0, which uses AI and our new Crowdin Skills to pull context directly from your code. This…]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/agile-localization-podcast-with-martina-russo</link>
             <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-martina-russo</guid>
             <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Localization That Protects People: How SafetyCulture Designs for Frontline Safety at Scale]]></title>
-            <description><![CDATA[If you work in localization, UX writing, or global product design, you already know the pressure: shipping software across languages while keeping experiences usable under real conditions. When that software supports workplace safety, mistakes don’t just create friction. They create risk. In a recent episode of The Agile Localization Podcast by Crowdin, host Stefan Huyghe spoke with Anna Barcons Folguera, Localization Executive at SafetyCulture, about what changes when localization decisions…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-anna-barcons-folguera</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-anna-barcons-folguera</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
