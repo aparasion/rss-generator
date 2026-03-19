@@ -705,6 +705,18 @@
     "https://www.nature.com/articles/d41586-026-00712-8": {
       "relevant": false,
       "checkedAt": "2026-03-19T17:15:35.380Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00866-5": {
+      "relevant": true,
+      "checkedAt": "2026-03-19T20:56:44.795Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00852-x": {
+      "relevant": false,
+      "checkedAt": "2026-03-19T20:56:44.795Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00876-3": {
+      "relevant": false,
+      "checkedAt": "2026-03-19T20:56:44.795Z"
     }
   }
 }
