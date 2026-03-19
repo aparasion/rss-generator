@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 09:01:51 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 07:14:10 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 09:01:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why high-quality automatic subtitling is harder than it looks]]></title>
+            <description><![CDATA[Subtitles are more than text on screen. Explore why segmentation, typography, and AI make automatic subtitling far more complex than it first appears.Read more]]></description>
+            <link>https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</guid>
+        </item>
         <item>
             <title><![CDATA[Build or buy? You’re probably asking the wrong question]]></title>
             <description><![CDATA[Building a translation prototype is easy. Making it work at scale is another story. This article explores why most organizations succeed with a hybrid approach: buy the infrastructure and build…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[What is the best language technology platform for your business? Discover the best fit in our practical 2026 guide to choosing the right translation management system or localization platform for…Read more]]></description>
             <link>https://phrase.com/blog/posts/localization-platform-comparison-2026/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/localization-platform-comparison-2026/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Mastering language tech migration: Lessons from Kayak and Pega]]></title>
-            <description><![CDATA[Language technology migration is often seen as disruptive and resource-heavy. Leaders from Kayak and Pega share how migration can become a strategic redesign moment rather than a system replacement exercise.Read more]]></description>
-            <link>https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/language-tech-migration-lessons-kayak-pega/</guid>
         </item>
     </channel>
 </rss>
