@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 09:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 10:57:27 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 09:58:18 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 10:57:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Chris Dell: Former Booking.com exec on the hidden operating system behind global scale]]></title>
+            <description><![CDATA[Chris Dell spent 14 years building content at Booking.com, but his perspective goes far beyond volume. In this episode, he explores why content is the hidden operating system behind global…Read more]]></description>
+            <link>https://phrase.com/blog/posts/chris-dell-booking-content-global-scale-operating-system/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/chris-dell-booking-content-global-scale-operating-system/</guid>
+        </item>
         <item>
             <title><![CDATA[Why high-quality automatic subtitling is harder than it looks]]></title>
             <description><![CDATA[Subtitles are more than text on screen. Explore why segmentation, typography, and AI make automatic subtitling far more complex than it first appears.Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Retailers are chasing scale, but growth in 2026 comes from precision. Learn how market-aware omnichannel, adaptive AI, localized mobile commerce, and culturally relevant social strategies unlock higher conversion, retention, and…Read more]]></description>
             <link>https://phrase.com/blog/posts/retail-growth-precision-over-scale/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/retail-growth-precision-over-scale/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Enterprise localization platform comparison: Phrase vs Smartling, XTM, Lokalise and more]]></title>
-            <description><![CDATA[What is the best language technology platform for your business? Discover the best fit in our practical 2026 guide to choosing the right translation management system or localization platform for…Read more]]></description>
-            <link>https://phrase.com/blog/posts/localization-platform-comparison-2026/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-platform-comparison-2026/</guid>
         </item>
     </channel>
 </rss>
