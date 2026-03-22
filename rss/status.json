@@ -1,15 +1,14 @@
 {
-  "generatedAt": "2026-03-22T07:50:43.554Z",
-  "durationMs": 9056,
+  "generatedAt": "2026-03-22T08:51:53.494Z",
+  "durationMs": 10494,
   "feeds": [
     {
       "name": "GALA-Global",
       "url": "https://www.gala-global.org/news/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
-      "status": "error",
-      "error": "HTTP 403 Forbidden",
-      "items": null,
-      "durationMs": 0
+      "status": "success",
+      "items": 12,
+      "durationMs": 1318
     },
     {
       "name": "XTM-Blog",
@@ -17,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 9022
+      "durationMs": 10461
     },
     {
       "name": "phrase-blog",
@@ -25,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 546
+      "durationMs": 682
     },
     {
       "name": "lokalise-blog",
@@ -33,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 585
+      "durationMs": 602
     },
     {
       "name": "crowdin-blog",
@@ -41,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 316
+      "durationMs": 394
     },
     {
       "name": "PRNewswire-L10N",
@@ -49,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 239
+      "durationMs": 593
     },
     {
       "name": "RWS-media-centre",
@@ -57,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 503
+      "durationMs": 657
     },
     {
       "name": "transperfect-news-and-press",
@@ -65,7 +64,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 678
+      "durationMs": 792
     },
     {
       "name": "Nature-Aging-Longevity",
@@ -73,7 +72,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 324
+      "durationMs": 602
     }
   ]
 }
