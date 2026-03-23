@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 10:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 11:55:10 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 10:16:12 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 11:55:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Localization and accessibility share the same mission]]></title>
+            <description><![CDATA[Localization and accessibility share a common goal: making digital content usable for everyone, regardless of language or ability. As organizations scale globally, combining both disciplines is essential to delivering inclusive,…Read more]]></description>
+            <link>https://phrase.com/blog/posts/localization-and-accessibility-global-content/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-and-accessibility-global-content/</guid>
+        </item>
         <item>
             <title><![CDATA[Chris Dell: Former Booking.com exec on the hidden operating system behind global scale]]></title>
             <description><![CDATA[Chris Dell spent 14 years building content at Booking.com, but his perspective goes far beyond volume. In this episode, he explores why content is the hidden operating system behind global…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Todd Unger, Chief Experience Officer at the American Medical Association, discusses how modern buying decisions often happen in just seconds. In this episode of In Other Words, he explores the…Read more]]></description>
             <link>https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking retail growth: why precision beats scale]]></title>
-            <description><![CDATA[Retailers are chasing scale, but growth in 2026 comes from precision. Learn how market-aware omnichannel, adaptive AI, localized mobile commerce, and culturally relevant social strategies unlock higher conversion, retention, and…Read more]]></description>
-            <link>https://phrase.com/blog/posts/retail-growth-precision-over-scale/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/retail-growth-precision-over-scale/</guid>
         </item>
     </channel>
 </rss>
