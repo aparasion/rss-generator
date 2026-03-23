@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for XTM-Blog]]></description>
         <link>https://xtm.cloud/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 21:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 22:52:07 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 21:50:57 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:52:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
