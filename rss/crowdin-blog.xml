@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 13:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 15:15:00 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 13:49:20 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 15:15:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[New at Crowdin: March 2026]]></title>
+            <description><![CDATA[To work well, AI shouldn't guess; it should gather context. This month, we’re presenting a combination of our already released (AI Pipeline) and new tools (Crowdin Copilot) to eliminate repetitive manual tasks for managers, and provide production-ready translations. The highlight is our new Crowdin Copilot. One of its key use cases is analyzing hundreds of translation issues and synthesizing them into a few high-level questions for you to answer. We’re also debuting Dual Preview mode in the…]]></description>
+            <link>https://crowdin.com/blog/new-at-crowdin-march-2026</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/new-at-crowdin-march-2026</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI-First Localization in a Regulated Business]]></title>
             <description><![CDATA[Shipping multilingual content is rarely ‘translate and done’. Pages change, UI space is tight, legal terms must be exact, and markets never sleep. In The Agile Localization Podcast, host Stefan Huyghe talks with Putri Kumala (AI Localization Operations Team Lead) and Arshaad Mohiadeen (Senior AI Engineer) from Deriv about how they run 20+ languages with automated, AI-driven workflows while staying in control of quality, brand, and compliance.]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/ai-translation-cost</link>
             <guid isPermaLink="true">https://crowdin.com/blog/ai-translation-cost</guid>
             <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Niche Localization: Moving Beyond Generalist Models]]></title>
-            <description><![CDATA[If you work in localization, global marketing, or brand storytelling, you already know the risk of getting it wrong. In culture-driven industries like outdoor and action sports, poor localization does not just create friction. It breaks trust. In a recent episode of The Agile Localization Podcast by Crowdin, host Stefan Huyghe speaks with Martina Russo, Founder of The Action Sports Translator, about what changes when localization is done by people who actively live the sports they translate…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-martina-russo</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-martina-russo</guid>
-            <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
