@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 10:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 11:10:27 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 10:09:57 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:10:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Global retail challenges 2026: 7 hurdles and the strategies to overcome them]]></title>
+            <description><![CDATA[Retailers in 2026 face mounting pressure from economic uncertainty, fragile supply chains, cybersecurity threats, and rising competition from direct-to-consumer brands. This guide breaks down the key challenges shaping the global…Read more]]></description>
+            <link>https://phrase.com/blog/posts/global-retail-challenges-2026/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/global-retail-challenges-2026/</guid>
+        </item>
         <item>
             <title><![CDATA[Localization and accessibility share the same mission]]></title>
             <description><![CDATA[Localization and accessibility share a common goal: making digital content usable for everyone, regardless of language or ability. As organizations scale globally, combining both disciplines is essential to delivering inclusive,…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Hybrid cloud, edge AI and 5G are transforming how global technology platforms operate. As infrastructure becomes more distributed, companies must manage new challenges around compliance, content delivery, and regional regulation.…Read more]]></description>
             <link>https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Todd Unger: The ten seconds to win or lose a customer]]></title>
-            <description><![CDATA[Todd Unger, Chief Experience Officer at the American Medical Association, discusses how modern buying decisions often happen in just seconds. In this episode of In Other Words, he explores the…Read more]]></description>
-            <link>https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/todd-unger-ten-second-customer-journey/</guid>
         </item>
     </channel>
 </rss>
