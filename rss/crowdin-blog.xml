@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 11:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 15:20:58 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 11:56:10 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 15:20:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[CMS translation: A developer’s guide to scalable localization]]></title>
+            <description><![CDATA[If you’ve ever managed multilingual content, you know what a grind it can be. It’s tedious, time-intensive work that’s prone to errors and ultimately isn't scalable unless it's automated. Traditional content management system (CMS) platforms haven’t helped. Because of their architecture, content often gets tangled up in templates or the presentation layer, making it hard to extract. Headless CMS architecture is different. Content lives in structured, API-accessible fields, which means…]]></description>
+            <link>https://crowdin.com/blog/cms-translation</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/cms-translation</guid>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New at Crowdin: March 2026]]></title>
             <description><![CDATA[To work well, AI shouldn't guess; it should gather context. This month, we’re presenting a combination of our already released (AI Pipeline) and new tools (Crowdin Copilot) to eliminate repetitive manual tasks for managers, and provide production-ready translations. The highlight is our new Crowdin Copilot. One of its key use cases is analyzing hundreds of translation issues and synthesizing them into a few high-level questions for you to answer. We’re also debuting Dual Preview mode in the…]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/suitsupply-localization-with-crowdin</link>
             <guid isPermaLink="true">https://crowdin.com/blog/suitsupply-localization-with-crowdin</guid>
             <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Much AI Translation Actually Costs: See What to Expect]]></title>
-            <description><![CDATA[We found that there’s not much clear information on AI translation costs. So we decided to make an experiment to find out: How much does it actually cost to translate a real project using AI localization in Crowdin? Important: Often, this price will differ from platform to platform. It's worth noting that our price will be clearly lower. Why? While many platforms add surcharges, Crowdin charges no fees for your AI consumption. You pay exactly the direct API rates charged by providers like…]]></description>
-            <link>https://crowdin.com/blog/ai-translation-cost</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/ai-translation-cost</guid>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
