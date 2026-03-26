@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 15:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 17:18:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 15:40:54 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 17:18:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why accessibility matters in translation tools: Improving our CAT editor]]></title>
+            <description><![CDATA[Accessibility is shaping the future of translation tools. Learn how WCAG-aligned improvements in the Phrase CAT editor are helping linguists work faster, with greater clarity and fewer barriers.Read more]]></description>
+            <link>https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</guid>
+        </item>
         <item>
             <title><![CDATA[Global retail challenges 2026: 7 hurdles and the strategies to overcome them]]></title>
             <description><![CDATA[Retailers in 2026 face mounting pressure from economic uncertainty, fragile supply chains, cybersecurity threats, and rising competition from direct-to-consumer brands. This guide breaks down the key challenges shaping the global…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Localization teams often spend more time coordinating vendors than managing translation. In this webinar discussion, Personio, Argos Multilingual, and Phrase explore how ecosystem collaboration can remove operational friction and help…Read more]]></description>
             <link>https://phrase.com/blog/posts/localization-ecosystems-vs-traditional-vendor-models/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/localization-ecosystems-vs-traditional-vendor-models/</guid>
-        </item>
-        <item>
-            <title><![CDATA[The cloud nexus: Localized infrastructure and the next tech revolution]]></title>
-            <description><![CDATA[Hybrid cloud, edge AI and 5G are transforming how global technology platforms operate. As infrastructure becomes more distributed, companies must manage new challenges around compliance, content delivery, and regional regulation.…Read more]]></description>
-            <link>https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/hybrid-cloud-edge-ai-localization-infrastructure/</guid>
         </item>
     </channel>
 </rss>
