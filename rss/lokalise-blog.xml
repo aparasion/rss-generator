@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 17:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 09:14:00 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 17:17:18 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 09:14:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[AI vs human translation cost: How to cut localization costs by up to 97%]]></title>
+            <description><![CDATA[As of 2026, the Total Cost of Ownership (TCO) for enterprise localization has shifted from a per-word human model (~$0.20/word) to an orchestrated AI model (~$0.002/word). This 100x efficiency is driven by AI Orchestration, which automates context retrieval (RAG) and eliminates manual project management overhead. This shift comes from AI orchestration. These systems combine large language models with retrieval-augmented context, terminology databases, translation memory, and automated q]]></description>
+            <link>https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The global expansion reality check: Where localization is costing companies revenue]]></title>
             <description><![CDATA[Global expansion is back on the table for 2026. But many teams are moving into new markets faster than their localization strategy can keep up. To see how companies are actually preparing for international growth, Lokalise surveyed 500 global business leaders. What we found was a gap between intention and execution, especially around translation quality, regional investment, and budget priorities. For product, marketing, and growth leaders, the takeaway is straightforward: localiz]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/automate-context-management/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/automate-context-management/</guid>
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 5 best in-context editor (ICE) tools for localization quality]]></title>
-            <description><![CDATA[When translators work on a bunch of strings listed in spreadsheets and CSVs, they're essentially flying blind. Without seeing where these phrases appear, even experienced linguists struggle to make the right call on tone, length, and word choice. In-context editors (ICE) tools like Lokalise solve this issue by giving translators a real-time preview of the pages or apps they’re translating. So, they can see each string in the actual interface and edit it accordingly.]]></description>
-            <link>https://lokalise.com/blog/in-context-editor-tools/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/in-context-editor-tools/</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
