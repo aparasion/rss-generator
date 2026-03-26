@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 13:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 15:40:55 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 13:58:40 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 15:40:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
