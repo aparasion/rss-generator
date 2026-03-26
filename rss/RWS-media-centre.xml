@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for RWS-media-centre]]></description>
         <link>https://www.rws.com/about/media-centre/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 19:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 20:51:06 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 19:32:14 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 20:51:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
