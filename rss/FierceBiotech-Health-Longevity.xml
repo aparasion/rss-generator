@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 14:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 15:08:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 14:27:57 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 15:08:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -50,12 +50,6 @@
             <description><![CDATA[The new Photonova Spectra aims to capture up to 50 times more data than some of its premium CT predecessors.]]></description>
             <link>https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda</guid>
-        </item>
-        <item>
-            <title><![CDATA[Merck hands over $20M in IBD drug target deal with Flagship's Quotient]]></title>
-            <description><![CDATA[Looking to devise new drug targets for inflammatory bowel disease, Merck will pay Flagship Pioneering's Quotient Therapeutics $20 million upfront for access to the biotech’s somatic genomics platform.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal</guid>
         </item>
     </channel>
 </rss>
