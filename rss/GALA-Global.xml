@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 19:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 19:53:19 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 19:11:50 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 19:53:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Wessence Language Lab Launches as a Language & Multimedia Partner for Life Sciences and Gaming]]></title>
+            <description><![CDATA[Launched in January 2026, Wessence Language Lab enters the global market with a differentiated model: delivering compliance-driven language solutions integrated with in-house multimedia production — from translation and localization through final digital media output. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/wessence-language-lab-launches-as-an-end-to-end-language-and-multimedia-partner</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/wessence-language-lab-launches-as-an-end-to-end-language-and-multimedia-partner</guid>
+        </item>
         <item>
             <title><![CDATA[Translated Announces the 2026 Imminent Research Report, “The Age of Experience in AI”]]></title>
             <description><![CDATA[Translated announced the release of the 2026 Research Report by Imminent, its research center dedicated to exploring the frontiers of language, technology, and human creativity. The report signals a fundamental paradigm shift in artificial intelligence. Continue Reading]]></description>
@@ -68,12 +74,6 @@
             <description><![CDATA[XTM International, a leading AI globalisation platform, has announced the launch of XTM Software Recorder, a major new capability that enables multilingual software video generation at scale. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</guid>
-        </item>
-        <item>
-            <title><![CDATA[Creative Words and Blackbird Partner to Automate Enterprise Content Operations]]></title>
-            <description><![CDATA[Creative Words, a leader in localization and multilingual content solutions, today announced a strategic partnership with Blackbird.io, the content orchestration and governance platform to enable enterprise clients to deploy automated multilingual workflows. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/creative-words-and-blackbird-partner-to-automate-enterprise-content-operations</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/creative-words-and-blackbird-partner-to-automate-enterprise-content-operations</guid>
         </item>
         <item>
             <title><![CDATA[Semmelweis Medical Linguistics Conference 2026 – Last Call for Papers]]></title>
