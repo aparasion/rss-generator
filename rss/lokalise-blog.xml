@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 11:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 13:43:12 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 11:56:08 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 13:43:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -28,7 +28,7 @@
             <description><![CDATA[Headless CMS platforms are built for speed. You publish once, every frontend updates. But then localization shows up, and the “fast” stack suddenly depends on a rather slow routine: export strings, email a file, chase approvals, import, fix broken formatting, repeat. If you’re a developer or content manager, you’ve felt the cost. Releases slip and translators work from stale content without even knowing it. Engineers get pulled into one-off fixes. Users end up seeing mixed terminology a]]></description>
             <link>https://lokalise.com/blog/headless-cms-localization-tools/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/headless-cms-localization-tools/</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 best translation memory software for every use case]]></title>
