@@ -1113,6 +1113,112 @@
     "https://www.nature.com/articles/d41586-026-00981-3": {
       "relevant": false,
       "checkedAt": "2026-03-27T13:43:11.763Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00996-w": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.759Z"
+    }
+  },
+  "FierceBiotech-Health-Longevity": {
+    "https://www.fiercebiotech.com/biotech/inside-incubates-battles-biotech-capitol-hill": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/novartis-pens-2b-deal-allergy-biotech-potential-xolair-successor": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/medtech/cmr-surgical-kicks-versius-plus-robots-us-commercial-launch": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/orbimed-backed-pinnacle-adds-89m-series-b-power-oral-peptide-pipeline": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/pulmatrix-picked-reverse-merger-anti-aging-biotech-weeks-after-cullgen-deal-collapses": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/wave-crashes-after-obesity-trial-tracks-1-dip-body-weight": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/biopharma-doubles-down-big-bets-and-china-ipos-hit-10-year-low": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/innate-ends-work-nk-cell-engager-phase-12-trial-part-ongoing-pipeline-refocus": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/pharma/fda-approves-denali-hunter-syndrome-drug-breaking-streak-rare-disease-rejections": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/after-ph-2-readout-analysts-herald-best-class-potential-maze-kidney-candidate-stock": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/pharma/takeda-targets-13b-cost-savings-further-restructuring": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/merck-flies-toward-promising-cml-asset-67b-terns-acquisition": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/sareptas-big-bet-arrowheads-sirna-assets-yields-early-data": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/novo-nordisk-prepares-go-global-triple-g-prospect-passes-midphase-diabetes-test-china": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/brightgenes-oral-dual-agonist-sees-8-weight-loss-8-weeks-slice-early-data": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/cro/icon-advarra-partnership-aims-optimize-trials-expand-access": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/medtech/ge-healthcare-claims-photon-counting-ct-clearance-fda": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/medtech/medtronic-biotronik-heart-hardware-make-strides-conduction-system-pacing": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/ocugen-eye-disease-gene-therapy-nabs-full-ph-2-win-underwhelms-investors": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/shionogi-pays-apnimed-100m-joint-venture-awaken-sleep-disorder-dream": {
+      "relevant": false,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
+    },
+    "https://www.fiercebiotech.com/biotech/quotients-genomics-platform-attracts-merck-22b-ibd-drug-target-deal": {
+      "relevant": true,
+      "checkedAt": "2026-03-27T14:27:57.916Z"
     }
   }
 }

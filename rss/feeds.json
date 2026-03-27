@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T13:43:20.083Z",
+  "generatedAt": "2026-03-27T14:28:11.415Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -40,6 +40,11 @@
       "name": "transperfect-news-and-press",
       "sourceUrl": "https://www.transperfect.com/about/news-and-press/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml"
+    },
+    {
+      "name": "FierceBiotech-Health-Longevity",
+      "sourceUrl": "https://www.fiercebiotech.com/rss/xml",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml"
     },
     {
       "name": "Nature-Aging-Longevity",
