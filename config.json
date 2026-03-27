@@ -95,6 +95,40 @@
   "dateSelector": ".datetime"
 },
   {
+  "name": "FierceBiotech-Health-Longevity",
+  "type": "rss",
+  "url": "https://www.fiercebiotech.com/rss/xml",
+  "feedTitle": "FierceBiotech — Health, Longevity & Diet",
+  "feedDescription": "FierceBiotech articles filtered for longevity, health, diet, and healthspan research",
+  "contentFilter": {
+    "keywords": [
+      "longevity", "lifespan", "life span", "life extension",
+      "healthspan", "health span",
+      "aging", "ageing", "anti-aging", "anti-ageing",
+      "health", "healthy",
+      "diet", "dietary", "nutrition", "nutritional",
+      "obesity", "weight loss", "metabolic",
+      "cardiovascular", "heart disease", "heart health",
+      "cancer prevention", "immune",
+      "diabetes", "insulin",
+      "gut microbiome", "microbiota",
+      "cognitive decline", "dementia", "Alzheimer",
+      "exercise", "physical activity",
+      "caloric restriction", "calorie restriction", "fasting",
+      "inflammation", "inflammatory",
+      "senescence", "senolytic",
+      "rejuvenation",
+      "NAD+", "nicotinamide",
+      "rapamycin", "mTOR",
+      "telomere", "epigenetic",
+      "geroscience", "gerontology"
+    ],
+    "minMatches": 1,
+    "checkFullContent": false,
+    "maxScan": 100
+  }
+},
+  {
   "name": "Nature-Aging-Longevity",
   "type": "rss",
   "url": "https://www.nature.com/nature.rss",
