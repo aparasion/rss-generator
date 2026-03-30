@@ -1335,6 +1335,10 @@
     "https://www.fiercebiotech.com/biotech/merck-dives-detailed-data-showing-pcsk9-pill-easily-outswims-rivals": {
       "relevant": true,
       "checkedAt": "2026-03-30T17:11:11.626Z"
+    },
+    "https://www.fiercebiotech.com/biotech/blackstone-closes-record-63b-life-sciences-fund": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T18:07:41.891Z"
     }
   }
 }
