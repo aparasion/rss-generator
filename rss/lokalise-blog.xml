@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 13:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:02:53 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 13:43:12 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:02:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The 5 best tools for AI translation post-editing (MTPE)]]></title>
+            <description><![CDATA[AI translation post-editing tools promise 40-60% cost savings. In practice, you only get those savings when AI output is controlled. This means your terminology is enforced, risky segments are flagged before they go live, and linguists only touch what truly needs human attention. That’s why the best MTPE tools today aren’t standalone CAT tools or MT engines. They’re actually translation management systems (TMS) that orchestrate AI, terminology, and quality assurance in one place.]]></description>
+            <link>https://lokalise.com/blog/top-mtpe-tools/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/top-mtpe-tools/</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI vs human translation cost: How to cut localization costs by up to 97%]]></title>
             <description><![CDATA[As of 2026, the Total Cost of Ownership (TCO) for enterprise localization has shifted from a per-word human model (~$0.20/word) to an orchestrated AI model (~$0.002/word). This 100x efficiency is driven by AI Orchestration, which automates context retrieval (RAG) and eliminates manual project management overhead. This shift comes from AI orchestration. These systems combine large language models with retrieval-augmented context, terminology databases, translation memory, and automated q]]></description>
@@ -56,13 +63,6 @@
             <description><![CDATA[Translation used to be a bottleneck for businesses looking to grow internationally. Thanks to AI, now it can happen in seconds, which changes how teams make decisions about localization. ChatGPT can produce quick translations for many everyday needs. But when quality requirements rise or the workload grows, teams start running into familiar problems: inconsistent terminology, formatting and placeholder issues, missing context, and a lack of review workflows. That’]]></description>
             <link>https://lokalise.com/blog/chatgpt-vs-localization-platform/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/chatgpt-vs-localization-platform/</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to automate context management in translation]]></title>
-            <description><![CDATA[Most localization teams struggle with finding the right context. Translators jump between the TMS, Jira, Figma, Slack, and old docs just to understand a single string. Reviewers approve copy without ever seeing the screen it lives on. Developers spend hours every week explaining where text appears and what it must not break. All of this context switching in localization slows releases and drives up translation rework. On paper, it looks like “bad translation.” In reality, it]]></description>
-            <link>https://lokalise.com/blog/automate-context-management/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/automate-context-management/</guid>
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>

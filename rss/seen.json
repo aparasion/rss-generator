@@ -1125,6 +1125,30 @@
     "https://www.nature.com/articles/d41586-026-00970-6": {
       "relevant": false,
       "checkedAt": "2026-03-30T09:47:53.272Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00973-3": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.958Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00971-5": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.959Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00998-8": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.959Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01010-z": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.959Z"
+    },
+    "https://www.nature.com/articles/d41586-025-04155-5": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.959Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00959-1": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.959Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1275,6 +1299,10 @@
     "https://www.fiercebiotech.com/biotech/kardigan-hypertension-drug-tangles-biomarker-win-blood-pressure-miss-phase-2-trial": {
       "relevant": false,
       "checkedAt": "2026-03-30T11:18:31.435Z"
+    },
+    "https://www.fiercebiotech.com/biotech/connects-dupixent-challenger-hits-mark-phase-3-eczema-trial": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T14:02:52.976Z"
     }
   }
 }

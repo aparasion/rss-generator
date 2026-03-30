@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 11:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:02:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 11:18:31 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:02:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Moving from Feature-First to Workflow-First: Rethinking Your TMS Strategy]]></title>
+            <description><![CDATA[Translation management systems used to be the center of everything in localization. If you wanted to translate, review, manage, or ship content, you went through your TMS. However, in The Agile Localization Podcast, Jourik Ciesielski, CTO at ELAN Languages, makes it clear that this model is starting to break. AI hasn’t just added new capabilities. It’s exposed deeper limitations in how TMS platforms are designed and how teams think about them.]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-jourik-ciesielski</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-jourik-ciesielski</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[152 Enterprise Teams, 95% Use AI Translation. Here's Why the Model Is the Least Important Part.]]></title>
             <description><![CDATA[Based on original research combining a B2B survey of localization, engineering, product, and security professionals, Reddit community discussions, and publicly available industry data. The question is no longer "whether" but "how". AI translation is no longer an experiment. It has become an operational baseline for enterprise teams managing multilingual content at scale. Based on our original survey of 152 B2B professionals across the US and Canada, roughly 95% of respondents already use AI or…]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/strava-localization-with-crowdin</link>
             <guid isPermaLink="true">https://crowdin.com/blog/strava-localization-with-crowdin</guid>
             <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's New at Crowdin: January 2026]]></title>
-            <description><![CDATA[This month’s update is headlined by our official n8n integration, which allows you to build custom, no-code automations. We are also introducing "Predicting Ambiguity" to our AI Pipeline to prevent translation errors before they happen, and launching the Corporate Translation Portal to give your entire organization a secure way to get translations that don't require high-quality standards instantly. From expanding our game localization tools for Xbox and Epic Games to rebuilding our Google…]]></description>
-            <link>https://crowdin.com/blog/whats-new-at-crowdin-january-2026</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-january-2026</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

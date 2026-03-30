@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 11:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 14:02:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 11:18:31 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 14:02:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -44,12 +44,6 @@
             <description><![CDATA[Wave Life Sciences linked its obesity drug candidate to a 1% dip in body weight after six months, leading investors to drive the stock down by more than 50% despite the biotech hailing the data as positive.]]></description>
             <link>https://www.fiercebiotech.com/biotech/wave-crashes-after-obesity-trial-tracks-1-dip-body-weight</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/wave-crashes-after-obesity-trial-tracks-1-dip-body-weight</guid>
-        </item>
-        <item>
-            <title><![CDATA[Endogenex nets $50M to carry intestinal diabetes procedure to the FDA]]></title>
-            <description><![CDATA[The fundraising comes after clinical results showed its system met safety goals and led to metabolic improvements in HbA1c, fasting glucose levels and body weight.]]></description>
-            <link>https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/endogenex-nets-50m-carry-intestinal-diabetes-procedure-fda</guid>
         </item>
     </channel>
 </rss>
