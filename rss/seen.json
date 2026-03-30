@@ -1343,6 +1343,10 @@
     "https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-trial-latest-setback-autoimmune-disease-community": {
       "relevant": true,
       "checkedAt": "2026-03-30T19:19:04.740Z"
+    },
+    "https://www.fiercebiotech.com/medtech/johnson-johnsons-impella-pumps-miss-mark-2-major-coronary-studies": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T21:02:05.072Z"
     }
   }
 }
