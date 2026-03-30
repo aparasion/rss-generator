@@ -4,14 +4,20 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 15:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 17:11:11 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 15:40:33 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 17:11:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
+            <title><![CDATA[Merck dives into detailed phase 3 data showing PCSK9 pill easily outswims rivals]]></title>
+            <description><![CDATA[Merck &amp; Co. has lifted the lid on the third successful phase 3 trial of its PCSK9 inhibitor, showing the edge the cardiovascular disease prospect has over other oral non-statin therapies.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/merck-dives-detailed-data-showing-pcsk9-pill-easily-outswims-rivals</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/merck-dives-detailed-data-showing-pcsk9-pill-easily-outswims-rivals</guid>
+        </item>
+        <item>
             <title><![CDATA[Kevin Tang uses newfound control of Aurinia to finally take over Kezar]]></title>
-            <description><![CDATA[Autoimmune specialist Aurinia, which named Kevin Tang as its new CEO last week, is acquiring Kezar. Tang previously made an unsuccessful attempt in 2024 to acquire Kezar via Concentra Biosciences and its parent company, Tang Capital Partners.]]></description>
+            <description><![CDATA[Autoimmune specialist Aurinia, which named Kevin Tang as its new CEO last week, is acquiring Kezar after the latter company received promising feedback from the FDA. Tang previously made an unsuccessful attempt in 2024 to acquire Kezar via Concentra Biosciences and its parent company, Tang Capital Partners.]]></description>
             <link>https://www.fiercebiotech.com/biotech/after-previous-rejection-kevin-tang-and-aurinia-acquire-kezar-50m</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/after-previous-rejection-kevin-tang-and-aurinia-acquire-kezar-50m</guid>
         </item>
@@ -44,12 +50,6 @@
             <description><![CDATA[John Stanford spent a busy day on Capitol Hill this week making the case that the success of the domestic biotech industry is an issue of national security, health care access and economic competitiveness.]]></description>
             <link>https://www.fiercebiotech.com/biotech/inside-incubates-battles-biotech-capitol-hill</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/inside-incubates-battles-biotech-capitol-hill</guid>
-        </item>
-        <item>
-            <title><![CDATA[Pulmatrix picked for reverse merger with anti-aging biotech weeks after Cullgen deal collapses]]></title>
-            <description><![CDATA[Pulmatrix may have been discarded by Cullgen, but the inhaled therapy biotech’s Nasdaq listing has caught the attention of another company.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/pulmatrix-picked-reverse-merger-anti-aging-biotech-weeks-after-cullgen-deal-collapses</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/pulmatrix-picked-reverse-merger-anti-aging-biotech-weeks-after-cullgen-deal-collapses</guid>
         </item>
     </channel>
 </rss>
