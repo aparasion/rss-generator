@@ -1121,6 +1121,10 @@
     "https://www.nature.com/articles/d41586-026-00982-2": {
       "relevant": false,
       "checkedAt": "2026-03-27T23:46:36.427Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00970-6": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T09:47:53.272Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1259,6 +1263,14 @@
     "https://www.fiercebiotech.com/sponsored/predicting-clinical-seizure-liability-earlier-drug-development": {
       "relevant": false,
       "checkedAt": "2026-03-30T06:06:36.005Z"
+    },
+    "https://www.fiercebiotech.com/biotech/biogens-litifilimab-sparkles-midphase-lupus-trial-raising-hopes-pivotal-readout": {
+      "relevant": true,
+      "checkedAt": "2026-03-30T09:47:53.288Z"
+    },
+    "https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025": {
+      "relevant": true,
+      "checkedAt": "2026-03-30T09:47:53.289Z"
     }
   }
 }

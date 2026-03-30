@@ -4,11 +4,23 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 08:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 09:47:53 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 08:01:03 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 09:47:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Biogen’s litifilimab sparkles in midphase lupus trial, raising hopes for pivotal readout]]></title>
+            <description><![CDATA[Biogen’s lupus drug candidate litifilimab has improved outcomes in another phase 2 trial, adding to the momentum behind a program barreling toward pivotal data in two forms of the autoimmune disease.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/biogens-litifilimab-sparkles-midphase-lupus-trial-raising-hopes-pivotal-readout</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/biogens-litifilimab-sparkles-midphase-lupus-trial-raising-hopes-pivotal-readout</guid>
+        </item>
+        <item>
+            <title><![CDATA[Kailera plots IPO to fund obesity pipeline after one of the biggest raises of 2025]]></title>
+            <description><![CDATA[Kailera Therapeutics—one of the biggest money-raisers of 2025—is now seeking to go public as it seeks further funding to push its obesity portfolio through the clinic.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025</guid>
+        </item>
         <item>
             <title><![CDATA[Takeda clears path to FDA with phase 3 data on $4B psoriasis bet]]></title>
             <description><![CDATA[Takeda has posted phase 3 data on an autoimmune asset it acquired for $4 billion, laying down a marker ahead of a fight for market share with companies including Bristol Myers Squibb and Johnson &amp; Johnson.]]></description>
