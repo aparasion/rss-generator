@@ -1149,6 +1149,14 @@
     "https://www.nature.com/articles/d41586-026-00959-1": {
       "relevant": false,
       "checkedAt": "2026-03-30T14:02:52.959Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01012-x": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T15:40:33.941Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00974-2": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T15:40:33.941Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1303,6 +1311,26 @@
     "https://www.fiercebiotech.com/biotech/connects-dupixent-challenger-hits-mark-phase-3-eczema-trial": {
       "relevant": false,
       "checkedAt": "2026-03-30T14:02:52.976Z"
+    },
+    "https://www.fiercebiotech.com/medtech/boston-scientifics-watchman-heart-implant-measures-blood-thinners-acc-trial": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T15:40:33.834Z"
+    },
+    "https://www.fiercebiotech.com/biotech/after-previous-rejection-kevin-tang-and-aurinia-acquire-kezar-50m": {
+      "relevant": true,
+      "checkedAt": "2026-03-30T15:40:33.834Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T15:40:33.834Z"
+    },
+    "https://www.fiercebiotech.com/biotech/viridians-other-rival-amgens-tepezza-scores-phase-3-win-investors-need-convincing": {
+      "relevant": false,
+      "checkedAt": "2026-03-30T15:40:33.834Z"
+    },
+    "https://www.fiercebiotech.com/biotech/jj-secures-royalty-backing-500m-autoimmune-antibody-program": {
+      "relevant": true,
+      "checkedAt": "2026-03-30T15:40:33.834Z"
     }
   }
 }
