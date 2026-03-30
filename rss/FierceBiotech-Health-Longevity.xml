@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 18:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 19:19:04 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 18:07:41 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 19:19:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Astellas axes early Sjögren’s trial in latest setback for autoimmune disease community]]></title>
+            <description><![CDATA[Astellas Pharma has become the latest company to pull back from a potential treatment for Sjögren’s syndrome, an autoimmune disease that still lacks any dedicated medicines.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-trial-latest-setback-autoimmune-disease-community</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-trial-latest-setback-autoimmune-disease-community</guid>
+        </item>
         <item>
             <title><![CDATA[Merck dives into detailed phase 3 data showing PCSK9 pill easily outswims rivals]]></title>
             <description><![CDATA[Merck &amp; Co. has lifted the lid on the third successful phase 3 trial of its PCSK9 inhibitor, showing the edge the cardiovascular disease prospect has over other oral non-statin therapies.]]></description>
