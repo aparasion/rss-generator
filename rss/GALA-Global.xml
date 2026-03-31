@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 21:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 22:52:32 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 21:55:07 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:52:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The BerlinReady Guide for the WorldReady Conference]]></title>
+            <description><![CDATA[Berlin-based GALA member Plunet prepared a guide for the WorldReady Conference attendees. Discover local foods and sites, learn local customs, and plan your sightseeing around the event. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/berlinready-guide-for-the-worldready-conference</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/berlinready-guide-for-the-worldready-conference</guid>
+        </item>
         <item>
             <title><![CDATA[Wessence Language Lab Launches as a Language & Multimedia Partner for Life Sciences and Gaming]]></title>
             <description><![CDATA[Launched in January 2026, Wessence Language Lab enters the global market with a differentiated model: delivering compliance-driven language solutions integrated with in-house multimedia production — from translation and localization through final digital media output. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[XTM International, a leading AI globalisation platform, has announced the launch of XTM Software Recorder, a major new capability that enables multilingual software video generation at scale. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</guid>
-        </item>
-        <item>
-            <title><![CDATA[Semmelweis Medical Linguistics Conference 2026 – Last Call for Papers]]></title>
-            <description><![CDATA[SMLC 2026 will take place on 5–6 June 2026 in Budapest, Hungary, in a hybrid format. This conference series aims to bring together researchers, educators, and professionals working in the field of healthcare communications and linguistics. Submit by 30 March. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/semmelweis-medical-linguistics-conference-2026-last-call-for-papers</guid>
         </item>
     </channel>
 </rss>
