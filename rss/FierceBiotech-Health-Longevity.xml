@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 17:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 19:19:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 17:14:01 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 19:19:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -68,12 +68,6 @@
             <description><![CDATA[Kailera Therapeutics—one of the biggest money-raisers of 2025—is now seeking to go public as it seeks further funding to push its obesity portfolio through the clinic.]]></description>
             <link>https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-plots-ipo-fund-obesity-pipeline-after-one-biggest-raises-2025</guid>
-        </item>
-        <item>
-            <title><![CDATA[Takeda clears path to FDA with phase 3 data on $4B psoriasis bet]]></title>
-            <description><![CDATA[Takeda has posted phase 3 data on an autoimmune asset it acquired for $4 billion, laying down a marker ahead of a fight for market share with companies including Bristol Myers Squibb and Johnson &amp; Johnson.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/takeda-clears-path-fda-phase-3-data-4b-psoriasis-bet</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/takeda-clears-path-fda-phase-3-data-4b-psoriasis-bet</guid>
         </item>
     </channel>
 </rss>

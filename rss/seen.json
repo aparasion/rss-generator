@@ -1209,6 +1209,14 @@
     "https://www.nature.com/articles/d41586-026-00964-4": {
       "relevant": false,
       "checkedAt": "2026-03-31T17:14:01.774Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01002-z": {
+      "relevant": false,
+      "checkedAt": "2026-03-31T19:19:28.060Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00987-x": {
+      "relevant": false,
+      "checkedAt": "2026-03-31T19:19:28.060Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1427,6 +1435,10 @@
     "https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1": {
       "relevant": true,
       "checkedAt": "2026-03-31T15:35:45.628Z"
+    },
+    "https://www.fiercebiotech.com/pharma/iterum-initiates-wind-down-after-failure-offload-antibiotic-sluggish-sales": {
+      "relevant": false,
+      "checkedAt": "2026-03-31T19:19:28.004Z"
     }
   }
 }
