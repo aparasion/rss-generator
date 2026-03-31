@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 12:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 14:01:46 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 12:01:23 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 14:01:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Crowdin Style Guides for Consistent AI Translations]]></title>
+            <description><![CDATA[There’s a running joke in the translation industry: two linguists can’t agree on whether a translation is correct. At Crowdin, we don’t think the problem is the linguists – it’s that different humans (and AIs) have different quality standards by default. If requirements are communicated clearly enough, two people and an AI should arrive at the same conclusion. We also see this reflected in the data: the same LLM model, on very similar content, produces wildly different post-edit distances…]]></description>
+            <link>https://crowdin.com/blog/localization-style-guides</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/localization-style-guides</guid>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moving from Feature-First to Workflow-First: Rethinking Your TMS Strategy]]></title>
             <description><![CDATA[Translation management systems used to be the center of everything in localization. If you wanted to translate, review, manage, or ship content, you went through your TMS. However, in The Agile Localization Podcast, Jourik Ciesielski, CTO at ELAN Languages, makes it clear that this model is starting to break. AI hasn’t just added new capabilities. It’s exposed deeper limitations in how TMS platforms are designed and how teams think about them.]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/chatgpt-for-translation-vs-crowdin</link>
             <guid isPermaLink="true">https://crowdin.com/blog/chatgpt-for-translation-vs-crowdin</guid>
             <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Strava Built an AI-Driven Localization Strategy Under 6 Weeks]]></title>
-            <description><![CDATA[In the world of fitness, there is a golden rule: If it’s not on Strava, it didn’t happen. With over 150 million users across 185 countries, Strava is the world’s largest digital community for active people. It is the place where professional cyclists and weekend joggers alike go to hunt for Kudos, battle for King of the Mountain titles, and share their latest Strava Art. In 2025, Strava reached a valuation of $2.2 billion in a funding round led by Sequoia Capital. With nearly $500 million in…]]></description>
-            <link>https://crowdin.com/blog/strava-localization-with-crowdin</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/strava-localization-with-crowdin</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
