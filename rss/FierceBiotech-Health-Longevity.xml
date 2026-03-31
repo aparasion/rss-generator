@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 14:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 15:35:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 14:01:46 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 15:35:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Obesity biotech Ambrosia scores $100M series B to take next-gen oral GLP-1 into the clinic]]></title>
+            <description><![CDATA[Ambrosia Biosciences is aiming to move the market beyond peptide-based obesity treatments and initiate a trial for its oral small-molecule GLP-1 therapy, backed by an oversubscribed $100 million series B round.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1</guid>
+        </item>
         <item>
             <title><![CDATA[Merck enlists antibody hunter Infinimmune for $838M biobucks pact]]></title>
             <description><![CDATA[The New Jersey pharma is tapping Infinimmune to hunt for antibodies for as-of-yet undisclosed targets.]]></description>

@@ -1201,6 +1201,10 @@
     "https://www.nature.com/articles/d41586-026-00912-2": {
       "relevant": false,
       "checkedAt": "2026-03-31T14:01:46.327Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10442-6": {
+      "relevant": false,
+      "checkedAt": "2026-03-31T15:35:45.617Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1411,6 +1415,14 @@
     "https://www.fiercebiotech.com/biotech/merck-enlists-antibody-hunter-infinimmune-838m-biobucks": {
       "relevant": true,
       "checkedAt": "2026-03-31T14:01:46.176Z"
+    },
+    "https://www.fiercebiotech.com/biotech/after-reeling-fda-refusal-io-biotech-surrenders-bankruptcy": {
+      "relevant": false,
+      "checkedAt": "2026-03-31T15:35:45.628Z"
+    },
+    "https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1": {
+      "relevant": true,
+      "checkedAt": "2026-03-31T15:35:45.628Z"
     }
   }
 }
