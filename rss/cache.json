@@ -2,16 +2,16 @@
   "https://www.gala-global.org/news/": {},
   "https://xtm.cloud/blog/": {},
   "https://www.prnewswire.com/news-releases/news-releases-list/": {
-    "lastModified": "Tue, 31 Mar 2026 19:18:35 GMT"
+    "lastModified": "Tue, 31 Mar 2026 20:56:49 GMT"
   },
   "https://phrase.com/blog/": {},
   "https://lokalise.com/blog/": {
-    "etag": "W/\"5ca86facd8a3626f5a0f914af51fb958\"",
-    "lastModified": "Tue, 31 Mar 2026 12:50:33 GMT"
+    "etag": "W/\"c794f045d4d22555529d705c068f649d\"",
+    "lastModified": "Tue, 31 Mar 2026 20:32:53 GMT"
   },
   "https://crowdin.com/blog": {
-    "etag": "W/\"69cbd003-24236\"",
-    "lastModified": "Tue, 31 Mar 2026 13:45:39 GMT"
+    "etag": "W/\"69cbcfe9-24236\"",
+    "lastModified": "Tue, 31 Mar 2026 13:45:13 GMT"
   },
   "https://blog.memoq.com/": {
     "lastModified": "Mon, 09 Mar 2026 10:15:47 GMT"
@@ -30,7 +30,7 @@
     "etag": "\"22493c4d278919e4fdeb9a899ef3e47e\""
   },
   "https://www.fiercebiotech.com/rss/xml": {
-    "etag": "W/\"1774981855\"",
-    "lastModified": "Tue, 31 Mar 2026 18:30:55 GMT"
+    "etag": "W/\"1774990337\"",
+    "lastModified": "Tue, 31 Mar 2026 20:52:17 GMT"
   }
 }
