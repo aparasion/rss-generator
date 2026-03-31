@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 11:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 12:01:23 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 11:10:58 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 12:01:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Lipella files for bankruptcy, ending dream of developing mouth inflammation drug]]></title>
+            <description><![CDATA[Lipella Pharmaceuticals’ ambition to develop the first treatment for an inflammatory mouth condition has reached the end of the road, with the biotech filing for bankruptcy.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/lipella-files-bankruptcy-ending-dream-developing-mouth-inflammation-drug</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/lipella-files-bankruptcy-ending-dream-developing-mouth-inflammation-drug</guid>
+        </item>
         <item>
             <title><![CDATA[AstraZeneca’s Strensiq successor misses phase 3 rare disease goal, denting market expansion plan]]></title>
             <description><![CDATA[A phase 3 trial of AstraZeneca’s rare metabolic disease prospect has missed its primary endpoint, raising doubts about the company’s ability to expand beyond the children served by its existing drug.]]></description>
