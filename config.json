@@ -165,6 +165,7 @@
   "articleSelector": ".blog-info",
   "titleSelector": "h3.text-heading",
   "linkSelector": "a[href*='/blog/']",
+  "linkPattern": "/blog/",
   "descriptionSelector": ".description",
   "dateSelector": "#blog-date"
 }

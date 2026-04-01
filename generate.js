@@ -71,6 +71,13 @@ function truncate(text, maxLen) {
   return (lastSpace > maxLen * 0.75 ? cut.slice(0, lastSpace) : cut) + "…";
 }
 
+function matchesLinkPattern(link, pattern) {
+  if (!pattern) return true;
+  if (!link) return false;
+  if (pattern instanceof RegExp) return pattern.test(link);
+  return link.includes(pattern);
+}
+
 // ─── Config validation ────────────────────────────────────────────────────────
 
 function validateConfig(sites) {
@@ -231,7 +238,7 @@ async function fetchPage(url, httpCache) {
 
 // ─── Article extraction ───────────────────────────────────────────────────────
 
-function extractArticlesFromJsonLd($, pageUrl) {
+function extractArticlesFromJsonLd($, pageUrl, site) {
   const articles = [];
 
   $('script[type="application/ld+json"]').each((_, el) => {
@@ -263,6 +270,7 @@ function extractArticlesFromJsonLd($, pageUrl) {
         const title = stripHtml((node.headline || node.name || "").trim());
         const link = normalizeUrl(node.url, pageUrl);
         if (!title || !link) continue;
+        if (!matchesLinkPattern(link, site.linkPattern)) continue;
 
         articles.push({
           title,
@@ -296,6 +304,7 @@ function extractArticlesFromAnchors($, site) {
 
     const link = normalizeUrl(rawHref, site.url);
     if (!link) return;
+    if (!matchesLinkPattern(link, site.linkPattern)) return;
 
     try {
       const parsed = new URL(link);
@@ -313,7 +322,7 @@ function extractArticlesFromAnchors($, site) {
 }
 
 function getFallbackArticles($, site) {
-  const fromJsonLd = extractArticlesFromJsonLd($, site.url);
+  const fromJsonLd = extractArticlesFromJsonLd($, site.url, site);
   const fromAnchors = extractArticlesFromAnchors($, site);
 
   const deduped = new Map();
@@ -665,6 +674,7 @@ async function processSite(site, httpCache, seenCache) {
     const title = stripHtml(titleRaw);
     const fullLink = normalizeUrl(linkRaw, site.url);
     if (!fullLink || addedLinks.has(fullLink)) return;
+    if (!matchesLinkPattern(fullLink, site.linkPattern)) return;
 
     const description = truncate(
       stripHtml(
