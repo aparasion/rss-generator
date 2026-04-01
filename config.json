@@ -163,10 +163,10 @@
   "name": "CSA-blog",
   "url": "https://csa-research.com/l/blog",
   "articleSelector": ".blog-info",
-  "titleSelector": "h3",
+  "titleSelector": ".text-heading .fw-semibold .m-0",
   "linkSelector": "a[href*='/blog/']",
   "linkPattern": "/blog/",
   "descriptionSelector": ".description",
-  "dateSelector": ".my-2 blog-date"
+  "dateSelector": ".my-2#blog-date"
 }
 ]
