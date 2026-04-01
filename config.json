@@ -158,5 +158,14 @@
     "checkFullContent": false,
     "maxScan": 100
   }
+},
+  {
+  "name": "CSA-blog",
+  "url": "https://csa-research.com/l/blog",
+  "articleSelector": ".blog-info",
+  "titleSelector": "h3.text-heading",
+  "linkSelector": "a[href*='/blog/']",
+  "descriptionSelector": ".description",
+  "dateSelector": "#blog-date"
 }
 ]
