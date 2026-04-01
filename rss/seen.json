@@ -1237,6 +1237,10 @@
     "https://www.nature.com/articles/d41586-026-00808-1": {
       "relevant": false,
       "checkedAt": "2026-04-01T11:13:26.280Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00616-7": {
+      "relevant": false,
+      "checkedAt": "2026-04-01T14:04:38.319Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1463,6 +1467,22 @@
     "https://www.fiercebiotech.com/biotech/deal-fraud-dispute-novo-nordisk-kbp-hopes-revive-troubled-heart-drug": {
       "relevant": false,
       "checkedAt": "2026-04-01T07:53:50.632Z"
+    },
+    "https://www.fiercebiotech.com/biotech/oric-chases-pfizer-phase-3-hailing-prostate-cancer-edge-investors-send-stock-down": {
+      "relevant": false,
+      "checkedAt": "2026-04-01T14:04:38.256Z"
+    },
+    "https://www.fiercebiotech.com/biotech/biotech-layoffs-continue-slowdown-q125": {
+      "relevant": false,
+      "checkedAt": "2026-04-01T14:04:38.256Z"
+    },
+    "https://www.fiercebiotech.com/manufacturing/fda-extends-review-orca-bios-novel-cell-therapy-blood-cancers": {
+      "relevant": false,
+      "checkedAt": "2026-04-01T14:04:38.257Z"
+    },
+    "https://www.fiercebiotech.com/medtech/whoop-raises-575m-series-g-abbott-comes-board-amid-hiring-spree": {
+      "relevant": false,
+      "checkedAt": "2026-04-01T14:04:38.257Z"
     }
   }
 }

@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 11:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 14:04:38 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 11:13:26 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 14:04:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[How Turo Localized an Entire Ecosystem into Spanish in One Week]]></title>
+            <description><![CDATA[Turo is the car rental marketplace that is reinventing rental to unlock independence for all. But unlike booking a room, car sharing requires a unique layer of confidence. Guests aren't just looking for a place to stay; they are trusting a vehicle to move them safely through the world. This focus on reliability has fueled Turo's massive growth into a $1 billion business. Today, the company successfully operates across the US, Canada, the UK, France, and Australia. For Turo, localization is the…]]></description>
+            <link>https://crowdin.com/blog/turo-localization-with-crowdin</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/turo-localization-with-crowdin</guid>
+            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crowdin Style Guides for Consistent AI Translations]]></title>
             <description><![CDATA[There’s a running joke in the translation industry: two linguists can’t agree on whether a translation is correct. At Crowdin, we don’t think the problem is the linguists – it’s that different humans (and AIs) have different quality standards by default. If requirements are communicated clearly enough, two people and an AI should arrive at the same conclusion. We also see this reflected in the data: the same LLM model, on very similar content, produces wildly different post-edit distances…]]></description>
@@ -85,13 +92,6 @@
             <link>https://crowdin.com/blog/agile-localization-podcast-with-szymon-metkowski</link>
             <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-szymon-metkowski</guid>
             <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is ChatGPT Enough for Professional Translation? ChatGPT vs. Crowdin]]></title>
-            <description><![CDATA[OpenAI hype has made many teams believe that a simple API call to GPT-4o is all they need to translate their product. This might work for a simple one-pager or situations where you don’t necessarily need the translation to feel native to your audience. However, there is a big difference between translating a sentence in a chat box and localizing a product at scale. OpenAI is a powerful engine, but it is not a localization platform. It lacks the infrastructure to manage a product. To truly…]]></description>
-            <link>https://crowdin.com/blog/chatgpt-for-translation-vs-crowdin</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/chatgpt-for-translation-vs-crowdin</guid>
-            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
