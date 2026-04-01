@@ -333,6 +333,31 @@ function getFallbackArticles($, site) {
   return [...deduped.values()].slice(0, MAX_ITEMS);
 }
 
+function getPrimaryTitle($el, site) {
+  const configured = stripHtml($el.find(site.titleSelector).first().text().trim());
+  if (configured) return configured;
+
+  // Some sites render the article title as a heading sibling instead of matching
+  // the configured selector exactly.
+  const heading = stripHtml($el.find("h1, h2, h3, h4, [role='heading']").first().text().trim());
+  if (heading) return heading;
+
+  // Last resort: use link text.
+  return stripHtml($el.find("a").first().text().trim());
+}
+
+function getPrimaryDescription($el, site) {
+  const configured = stripHtml(
+    site.descriptionSelector
+      ? $el.find(site.descriptionSelector).first().text().trim()
+      : ""
+  );
+  if (configured) return configured;
+
+  // Heuristic fallback for cards that keep summaries in plain paragraphs.
+  return stripHtml($el.find("p").first().text().trim());
+}
+
 // ─── Date parsing ─────────────────────────────────────────────────────────────
 
 function parseArticleDate(rawDate) {
@@ -664,24 +689,19 @@ async function processSite(site, httpCache, seenCache) {
   const primaryArticles = [];
   $(site.articleSelector).each((_, el) => {
     const $el = $(el);
-    const titleRaw = $el.find(site.titleSelector).text().trim();
+    const title = getPrimaryTitle($el, site);
 
     const $linkEl = $el.find(site.linkSelector);
     const linkRaw = ($linkEl.attr("href") || "").trim();
 
-    if (!titleRaw || !linkRaw) return;
+    if (!title || !linkRaw) return;
 
-    const title = stripHtml(titleRaw);
     const fullLink = normalizeUrl(linkRaw, site.url);
     if (!fullLink || addedLinks.has(fullLink)) return;
     if (!matchesLinkPattern(fullLink, site.linkPattern)) return;
 
     const description = truncate(
-      stripHtml(
-        site.descriptionSelector
-          ? $el.find(site.descriptionSelector).text().trim()
-          : ""
-      ),
+      getPrimaryDescription($el, site),
       MAX_DESCRIPTION_LENGTH
     );
 
