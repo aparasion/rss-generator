@@ -4,11 +4,23 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 15:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 17:11:27 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 15:41:09 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 17:11:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[OOONA Achieves TPN Gold Star Shield, the Highest Level of Content Security Accreditation]]></title>
+            <description><![CDATA[The company becomes one of the first media localization platforms to earn the Trusted Partner Network's newly introduced top-tier designation Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/ooona-achieves-tpn-gold-star-shield-the-highest-level-of-content-security-accreditation</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/ooona-achieves-tpn-gold-star-shield-the-highest-level-of-content-security-accreditation</guid>
+        </item>
+        <item>
+            <title><![CDATA[Bridging Linguistic Accuracy and Technical Precision in Subtitling & Dubbing]]></title>
+            <description><![CDATA[delsur. provides linguistic validation and technical quality assurance (QA) services to support AI-driven subtitling and dubbing, ensuring that media assets meet the necessary platform specifications. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/bridging-linguistic-accuracy-and-technical-precision-in-subtitling-and-dubbing</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/bridging-linguistic-accuracy-and-technical-precision-in-subtitling-and-dubbing</guid>
+        </item>
         <item>
             <title><![CDATA[The BerlinReady Guide for the WorldReady Conference]]></title>
             <description><![CDATA[Berlin-based GALA member Plunet prepared a guide for the WorldReady Conference attendees. Discover local foods and sites, learn local customs, and plan your sightseeing around the event. Continue Reading]]></description>
@@ -68,18 +80,6 @@
             <description><![CDATA[The role is based in Belgium and will cover the Belgian market and international accounts managed by Acolad’s Belgian division. Join the Acolad team. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</guid>
-        </item>
-        <item>
-            <title><![CDATA[Phrase Launches Platform Innovations to Take AI from Playground to Production]]></title>
-            <description><![CDATA[Phrase, a global leader in AI-led language technology, today announced a major platform update designed to help enterprises embed generative AI across global content operations. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</guid>
-        </item>
-        <item>
-            <title><![CDATA[XTM introduces multilingual software video generation for enterprise teams]]></title>
-            <description><![CDATA[XTM International, a leading AI globalisation platform, has announced the launch of XTM Software Recorder, a major new capability that enables multilingual software video generation at scale. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/xtm-introduces-multilingual-software-video-generation-for-enterprise-teams</guid>
         </item>
     </channel>
 </rss>
