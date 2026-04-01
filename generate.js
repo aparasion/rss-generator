@@ -71,6 +71,13 @@ function truncate(text, maxLen) {
   return (lastSpace > maxLen * 0.75 ? cut.slice(0, lastSpace) : cut) + "…";
 }
 
+function matchesLinkPattern(link, pattern) {
+  if (!pattern) return true;
+  if (!link) return false;
+  if (pattern instanceof RegExp) return pattern.test(link);
+  return link.includes(pattern);
+}
+
 // ─── Config validation ────────────────────────────────────────────────────────
 
 function validateConfig(sites) {
@@ -296,6 +303,7 @@ function extractArticlesFromAnchors($, site) {
 
     const link = normalizeUrl(rawHref, site.url);
     if (!link) return;
+    if (!matchesLinkPattern(link, site.linkPattern)) return;
 
     try {
       const parsed = new URL(link);
@@ -665,6 +673,7 @@ async function processSite(site, httpCache, seenCache) {
     const title = stripHtml(titleRaw);
     const fullLink = normalizeUrl(linkRaw, site.url);
     if (!fullLink || addedLinks.has(fullLink)) return;
+    if (!matchesLinkPattern(fullLink, site.linkPattern)) return;
 
     const description = truncate(
       stripHtml(
