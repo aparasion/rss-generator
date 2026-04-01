@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 09:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 11:13:26 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 09:35:39 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 11:13:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Your AEO strategy is invisible to almost 80% of the world]]></title>
+            <description><![CDATA[What you'll learn in this article: Why AI answer engines have a built-in language bias — and what it means for your brand's global visibilityThe four signals that determine whether your brand gets cited in AI search resultsHow to build the content infrastructure that earns A]]></description>
+            <link>https://lokalise.com/blog/localization-and-aeo/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/localization-and-aeo/</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 5 best tools for AI translation post-editing (MTPE)]]></title>
             <description><![CDATA[AI translation post-editing tools promise 40-60% cost savings. In practice, you only get those savings when AI output is controlled. This means your terminology is enforced, risky segments are flagged before they go live, and linguists only touch what truly needs human attention. That’s why the best MTPE tools today aren’t standalone CAT tools or MT engines. They’re actually translation management systems (TMS) that orchestrate AI, terminology, and quality assurance in one place.]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/term-base/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/term-base/</guid>
             <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ChatGPT vs. a localization platform: Which translation solution is right for your business?]]></title>
-            <description><![CDATA[Translation used to be a bottleneck for businesses looking to grow internationally. Thanks to AI, now it can happen in seconds, which changes how teams make decisions about localization. ChatGPT can produce quick translations for many everyday needs. But when quality requirements rise or the workload grows, teams start running into familiar problems: inconsistent terminology, formatting and placeholder issues, missing context, and a lack of review workflows. That’]]></description>
-            <link>https://lokalise.com/blog/chatgpt-vs-localization-platform/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/chatgpt-vs-localization-platform/</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
