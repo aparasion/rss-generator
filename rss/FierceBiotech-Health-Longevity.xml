@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 18:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 19:31:44 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 18:04:45 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 19:31:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -56,12 +56,6 @@
             <description><![CDATA[Autoimmune specialist Aurinia, which named Kevin Tang as its new CEO last week, is acquiring Kezar after the latter company received promising feedback from the FDA. Tang previously made an unsuccessful attempt in 2024 to acquire Kezar via Concentra Biosciences and its parent company, Tang Capital Partners.]]></description>
             <link>https://www.fiercebiotech.com/biotech/after-previous-rejection-kevin-tang-and-aurinia-acquire-kezar-50m</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/after-previous-rejection-kevin-tang-and-aurinia-acquire-kezar-50m</guid>
-        </item>
-        <item>
-            <title><![CDATA[J&J secures $500M Royalty backing for autoimmune antibody program]]></title>
-            <description><![CDATA[Royalty Pharma has made another play in the autoimmune space, this time crowning Johnson &amp; Johnson as the beneficiary. Royalty and J&amp;J have agreed to co-fund the development of a chronic autoimmune disease treatment, with Royalty pitching in $500 million over the next two years.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/jj-secures-royalty-backing-500m-autoimmune-antibody-program</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/jj-secures-royalty-backing-500m-autoimmune-antibody-program</guid>
         </item>
     </channel>
 </rss>
