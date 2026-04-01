@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for CSA-blog]]></description>
         <link>https://csa-research.com/l/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 21:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 21:57:41 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/CSA-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 21:19:01 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 21:57:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
