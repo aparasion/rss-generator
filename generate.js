@@ -238,7 +238,7 @@ async function fetchPage(url, httpCache) {
 
 // ─── Article extraction ───────────────────────────────────────────────────────
 
-function extractArticlesFromJsonLd($, pageUrl) {
+function extractArticlesFromJsonLd($, pageUrl, site) {
   const articles = [];
 
   $('script[type="application/ld+json"]').each((_, el) => {
@@ -270,6 +270,7 @@ function extractArticlesFromJsonLd($, pageUrl) {
         const title = stripHtml((node.headline || node.name || "").trim());
         const link = normalizeUrl(node.url, pageUrl);
         if (!title || !link) continue;
+        if (!matchesLinkPattern(link, site.linkPattern)) continue;
 
         articles.push({
           title,
@@ -321,7 +322,7 @@ function extractArticlesFromAnchors($, site) {
 }
 
 function getFallbackArticles($, site) {
-  const fromJsonLd = extractArticlesFromJsonLd($, site.url);
+  const fromJsonLd = extractArticlesFromJsonLd($, site.url, site);
   const fromAnchors = extractArticlesFromAnchors($, site);
 
   const deduped = new Map();
