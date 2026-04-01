@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T23:27:21.908Z",
+  "generatedAt": "2026-04-01T23:50:33.323Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -50,11 +50,6 @@
       "name": "Nature-Aging-Longevity",
       "sourceUrl": "https://www.nature.com/nature.rss",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml"
-    },
-    {
-      "name": "CSA-blog",
-      "sourceUrl": "https://csa-research.com/l/blog",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/CSA-blog.xml"
     }
   ]
 }
