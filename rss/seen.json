@@ -4549,6 +4549,406 @@
     "https://openai.com/index/evolution-through-large-models": {
       "relevant": false,
       "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/critiques": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/techniques-for-training-large-neural-networks": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/best-practices-for-deploying-language-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/codex-apps": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/dall-e-2-update": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/leadership-team-update": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/measuring-goodharts-law": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/gpt-3-edit-insert": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/economic-impacts-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/economic-impacts": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/language-model-safety-and-misuse": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/formal-math": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/instruction-following": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/introducing-text-and-code-embeddings": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/webgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/customizing-gpt-3": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-residency": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/api-no-waitlist": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/solving-math-word-problems": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/summarizing-books": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/truthfulqa": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/helen-toner-joins": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-codex": {
+      "relevant": true,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/triton": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/evaluating-large-language-models-trained-on-code": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/improving-language-model-behavior": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-scholars-2021-final-projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/will-hurd-joins": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/gpt-3-apps": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/multimodal-neurons": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/scaling-kubernetes-to-7500-nodes": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/dall-e": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/clip": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/organizational-update": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/learning-to-summarize-with-human-feedback": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-scholars-2020-final-projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/procgen-minerl-competitions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/image-gpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-api": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/language-models-are-few-shot-learners": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/ai-and-efficiency": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/jukebox": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/improving-verifiability": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/microscope": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-pytorch": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/scaling-laws-for-neural-language-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/deep-double-descent": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/procgen-benchmark": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/safety-gym": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/gpt-2-1-5b-release": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/solving-rubiks-cube": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-scholars-2020": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/fine-tuning-gpt-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/emergent-tool-use": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/testing-robustness": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/gpt-2-6-month-follow-up": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/learning-day": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/microsoft-invests-in-and-partners-with-openai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/cooperation-on-safety": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/symposium-2019": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-scholars-2019-final-projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-fellows-fall-2018": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/transfer-of-adversarial-robustness-between-perturbation-types": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/musenet": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/sparse-transformer": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-five-defeats-dota-2-world-champions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-five-finals": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/energy-based-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-scholars-2019-meet-our-scholars": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/openai-lp": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/introducing-activation-atlases": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/neural-mmo": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.721Z"
+    },
+    "https://openai.com/index/spinning-up-in-deep-rl-workshop-review": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/ai-safety-needs-social-scientists": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/better-language-models": {
+      "relevant": true,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/openai-summer-fellows-2018": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/how-ai-training-scales": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/quantifying-generalization-in-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/spinning-up-in-deep-rl": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/learning-concepts-with-energy-functions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/plan-online-learn-offline": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/learning-complex-goals-with-iterated-amplification": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/openai-scholars-2019": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/openai-fellows-interns-2019": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/ffjord": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/openai-scholars-2018-final-projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/the-international-2018-results": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/large-scale-study-of-curiosity-driven-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/openai-five-benchmark-results": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/learning-dexterity": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T21:52:09.722Z"
     }
   }
 }
