@@ -1747,6 +1747,10 @@
     "https://www.fiercebiotech.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract": {
       "relevant": true,
       "checkedAt": "2026-04-02T20:54:14.817Z"
+    },
+    "https://www.fiercebiotech.com/biotech/chutes-ladders-bayer-radiology-head-takes-top-us-pharma-spot": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T23:49:27.698Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -5349,6 +5353,18 @@
     "https://openai.com/index/welcome-pieter-and-shivon": {
       "relevant": false,
       "checkedAt": "2026-04-02T22:51:47.850Z"
+    },
+    "https://openai.com/index/team-plus-plus": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T23:49:28.103Z"
+    },
+    "https://openai.com/index/weight-normalization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T23:49:28.103Z"
+    },
+    "https://openai.com/index/introducing-openai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T23:49:28.103Z"
     }
   }
 }
