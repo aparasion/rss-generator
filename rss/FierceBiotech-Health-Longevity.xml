@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 13:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 15:20:02 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 13:56:59 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 15:20:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -38,12 +38,6 @@
             <description><![CDATA[A phase 3 trial of AstraZeneca’s rare metabolic disease prospect has missed its primary endpoint, raising doubts about the company’s ability to expand beyond the children served by its existing drug.]]></description>
             <link>https://www.fiercebiotech.com/biotech/astrazenecas-phase-3-rare-disease-trial-misses-goal-denting-market-expansion-plan</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/astrazenecas-phase-3-rare-disease-trial-misses-goal-denting-market-expansion-plan</guid>
-        </item>
-        <item>
-            <title><![CDATA[Astellas axes early Sjögren’s trial in latest setback for autoimmune disease community]]></title>
-            <description><![CDATA[Astellas Pharma has become the latest company to pull back from a potential treatment for Sjögren’s syndrome, an autoimmune disease that still lacks any dedicated medicines.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-trial-latest-setback-autoimmune-disease-community</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/astellas-axes-early-sjogrens-trial-latest-setback-autoimmune-disease-community</guid>
         </item>
     </channel>
 </rss>
