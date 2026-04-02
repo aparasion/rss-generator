@@ -4949,6 +4949,406 @@
     "https://openai.com/index/learning-dexterity": {
       "relevant": false,
       "checkedAt": "2026-04-02T21:52:09.722Z"
+    },
+    "https://openai.com/index/variational-option-discovery-algorithms": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-scholars-2018-meet-our-scholars": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-five-benchmark": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/glow": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-five": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/retro-contest-results": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-policy-representations-in-multiagent-systems": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/language-unsupervised": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/gamepad": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-fellows": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/gym-retro": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/ai-and-compute": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/debate": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/evolved-policy-gradients": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/gotta-learn-fast": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/retro-contest": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/hackathon-follow-up": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/improving-gans-using-optimal-transport": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/on-first-order-meta-learning-algorithms": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/reptile": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-scholars": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/multi-goal-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/ingredients-for-robotics-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-hackathon": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/preparing-for-malicious-uses-of-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-supporters": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/interpretable-machine-learning-through-teaching": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/discovering-types-for-entity-disambiguation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/requests-for-research-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/scaling-kubernetes-to-2500-nodes": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/block-sparse-gpu-kernels": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/interpretable-and-pedagogical-examples": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-a-hierarchy": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/generalizing-from-simulation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/competitive-self-play": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/meta-learning-for-wrestling": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/nonlinear-computation-in-deep-linear-networks": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-to-model-other-minds": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-with-opponent-learning-awareness": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-baselines-acktr-a2c": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/more-on-dota-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/dota-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/gathering-human-feedback": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/better-exploration-with-parameter-noise": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-baselines-ppo": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/robust-adversarial-inputs": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/hindsight-experience-replay": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/teacher-student-curriculum-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/faster-physics-in-python": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-from-human-preferences": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-to-cooperate-compete-and-communicate": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/ucb-exploration-via-q-ensembles": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-baselines-dqn": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/robots-that-learn": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/roboschool": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/equivalence-between-policy-gradients-and-soft-q-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/stochastic-neural-networks-for-hierarchical-reinforcement-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/unsupervised-sentiment-neuron": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/spam-detection-in-the-physical-world": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/evolution-strategies": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/one-shot-imitation-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/distill": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/learning-to-communicate": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/prediction-and-control-with-temporal-segment-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/third-person-imitation-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/attacking-machine-learning-with-adversarial-examples": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/adversarial-attacks-on-neural-network-policies": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/team-update-january": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/pixelcnn-plus-plus": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/faulty-reward-functions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/universe": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/exploration": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-and-microsoft": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/rl2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/variational-lossy-autoencoder": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/extensions-and-limitations-of-the-neural-gpu": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/report-from-the-self-organizing-conference": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/infrastructure-for-deep-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/machine-learning-unconference": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/team-update-august": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/special-projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/concrete-ai-safety-problems": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-technical-goals": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/generative-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/team-update": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/openai-gym-beta": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.849Z"
+    },
+    "https://openai.com/index/welcome-pieter-and-shivon": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T22:51:47.850Z"
     }
   }
 }
