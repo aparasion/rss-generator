@@ -1453,6 +1453,10 @@
     "https://www.nature.com/articles/d41586-026-01015-8": {
       "relevant": false,
       "checkedAt": "2026-04-02T19:15:27.499Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01050-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:14.886Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1739,6 +1743,10 @@
     "https://www.fiercebiotech.com/biotech/ferring-pulls-further-back-fertility-2-terminated-trials": {
       "relevant": false,
       "checkedAt": "2026-04-02T18:01:31.866Z"
+    },
+    "https://www.fiercebiotech.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract": {
+      "relevant": true,
+      "checkedAt": "2026-04-02T20:54:14.817Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -4141,6 +4149,406 @@
     "https://openai.com/index/memory-and-new-controls-for-chatgpt": {
       "relevant": false,
       "checkedAt": "2026-04-02T19:15:27.929Z"
+    },
+    "https://openai.com/global-affairs/response-to-nist-executive-order-on-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/new-embedding-models-and-api-updates": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/democratic-inputs-to-ai-grant-program-update": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/digital-green": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/introducing-chatgpt-team": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/introducing-the-gpt-store": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/openai-and-journalism": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/whoop": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/summer-health": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/practices-for-governing-agentic-ai-systems": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/superalignment-fast-grants": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/weak-to-strong-generalization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/axel-springer-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/openai-announces-leadership-transition": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/data-partnerships": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/introducing-gpts": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/new-models-and-developer-products-announced-at-devday": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/global-affairs/our-approach-to-frontier-risk": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/frontier-risk-and-preparedness": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/frontier-model-forum-updates": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/ironclad": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/global-affairs/openai-technology-explained": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/typeform": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/retool": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/dall-e-3-system-card": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/chatgpt-can-now-see-hear-and-speak": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/gpt-4v-system-card": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/red-teaming-network": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/introducing-openai-dublin": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/announcing-openai-devday": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/teaching-with-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/introducing-chatgpt-enterprise": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.317Z"
+    },
+    "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/openai-acquires-global-illumination": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/using-gpt-4-for-content-moderation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/confidence-building-measures-for-artificial-intelligence": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/frontier-model-forum": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/moving-ai-governance-forward": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/custom-instructions-for-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/viable": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/frontier-ai-regulation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/insights-from-global-conversations": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/introducing-openai-london": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/function-calling-and-other-api-updates": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/openai-cybersecurity-grant-program": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/democratic-inputs-to-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/governance-of-superintelligence": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/introducing-the-chatgpt-app-for-ios": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/language-models-can-explain-neurons-in-language-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/bug-bounty-program": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/our-approach-to-ai-safety": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/march-20-chatgpt-outage": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/chatgpt-plugins": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/gpts-are-gpts": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/stripe": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/gpt-4-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/duolingo": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/government-of-iceland": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/be-my-eyes": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/khan-academy": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/planning-for-agi-and-beyond": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/how-should-ai-systems-behave": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/chatgpt-plus": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/openai-and-microsoft-extend-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/forecasting-misuse": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/yabble": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/waymark": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/inworld-ai-DO-NOT-PUBLISH": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/the-power-of-continuous-learning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/point-e": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/new-and-improved-embedding-model": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/discovering-the-minutiae-of-backend-systems": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-api-now-available-in-public-beta": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/scaling-laws-for-reward-model-overoptimization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-now-available-without-waitlist": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/whisper": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-introducing-outpainting": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/our-approach-to-alignment-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/new-and-improved-content-moderation-tooling": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-now-available-in-beta": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-2-extending-creativity": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/dall-e-2-pre-training-mitigations": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/vpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
+    },
+    "https://openai.com/index/evolution-through-large-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T20:54:15.318Z"
     }
   }
 }
