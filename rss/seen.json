@@ -1429,6 +1429,10 @@
     "https://www.nature.com/articles/d41586-026-01055-0": {
       "relevant": false,
       "checkedAt": "2026-04-02T11:09:41.568Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01051-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T11:58:26.069Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1691,6 +1695,14 @@
     "https://www.fiercebiotech.com/biotech/gilead-cancels-midstage-hiv-trial-fdas-clinical-hold-remains-intact": {
       "relevant": false,
       "checkedAt": "2026-04-01T21:19:01.670Z"
+    },
+    "https://www.fiercebiotech.com/biotech/immunovants-fcrn-inhibitor-flunks-phase-3-eye-disease-trials-validating-biotechs-waning": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T11:58:25.899Z"
+    },
+    "https://www.fiercebiotech.com/biotech/alto-halts-work-pde4-inhibitor-after-failed-phase-2-schizophrenia-study": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T11:58:25.899Z"
     }
   }
 }
