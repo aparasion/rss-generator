@@ -1704,5 +1704,407 @@
       "relevant": false,
       "checkedAt": "2026-04-02T11:58:25.899Z"
     }
+  },
+  "OpenAI-News-L10N": {
+    "https://openai.com/index/gradient-labs": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/accelerating-the-next-phase-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/helping-disaster-response-teams-asia": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/stadler": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/our-approach-to-the-model-spec": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/safety-bug-bounty": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/powering-product-discovery-in-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/update-on-the-openai-foundation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/creating-with-sora-safely": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/openai-to-acquire-astral": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/japan-teen-safety-blueprint": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-gpt-5-4-mini-and-nano": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/equipping-workers-with-insights-about-compensation": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/why-codex-security-doesnt-include-sast": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/rakuten": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/designing-agents-to-resist-prompt-injection": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/equip-responses-api-computer-environment": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/wayfair": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/instruction-hierarchy-challenge": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/openai-to-acquire-promptfoo": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/codex-security-now-in-research-preview": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/balyasny-asset-management": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/descript": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/reasoning-models-chain-of-thought-controllability": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/gpt-5-4-thinking-system-card": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-gpt-5-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/ai-education-opportunity": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/chatgpt-for-excel": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-the-adoption-news-channel": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/vfl-wolfsburg": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/understanding-ai-and-learning-outcomes": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/axios-allison-murphy": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/gpt-5-3-instant": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/gpt-5-3-instant-system-card": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/our-agreement-with-the-department-of-war": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/scaling-ai-for-everyone": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/continuing-microsoft-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/amazon-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/update-on-mental-health-related-work": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/pacific-northwest-national-laboratory": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/figma-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/disrupting-malicious-ai-uses": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/arvind-kc-chief-people-officer": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/frontier-alliance-partners": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/first-proof-submissions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/advancing-independent-research-ai-alignment": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/openai-for-india": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-evmbench": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/new-result-theoretical-physics": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/scaling-social-science-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/beyond-rate-limits": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-gpt-5-3-codex-spark": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/harness-engineering": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/bringing-chatgpt-to-genaimil": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/our-approach-to-localization": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/trusted-access-for-cyber": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-openai-frontier": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/gpt-5-3-codex-system-card": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/navigating-health-questions": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-gpt-5-3-codex": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/unlocking-the-codex-harness": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/sora-feed-philosophy": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/snowflake-partnership": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-the-codex-app": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/inside-our-in-house-data-agent": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/retiring-gpt-4o-and-older-models": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/taisei": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/emea-youth-and-wellbeing-grant": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/the-next-chapter-for-ai-in-the-eu": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/ai-agent-link-safety": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/pvh-future-of-fashion": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/introducing-prism": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/trustbank": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/indeed-maggie-hulce": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/unrolling-the-codex-agent-loop": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/scaling-postgresql": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/praktika": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/higgsfield": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/how-countries-can-end-the-capability-overhang": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/edu-for-countries": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/horizon-1000": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/stargate-community": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/cisco": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/our-approach-to-age-prediction": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/ai-for-self-empowerment": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/the-truth-elon-left-out": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    },
+    "https://openai.com/index/our-approach-to-advertising-and-expanding-access": {
+      "relevant": false,
+      "checkedAt": "2026-04-02T12:48:24.033Z"
+    }
   }
 }
