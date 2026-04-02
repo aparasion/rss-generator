@@ -4,9 +4,9 @@
         <description><![CDATA[OpenAI news posts filtered for translation, linguistics, and localization topics]]></description>
         <link>https://openai.com/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 17:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 18:01:32 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 17:09:10 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 18:01:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -22,6 +22,13 @@
             <link>https://openai.com/index/gpt-5-2-for-science-and-math</link>
             <guid isPermaLink="true">https://openai.com/index/gpt-5-2-for-science-and-math</guid>
             <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps]]></title>
+            <description><![CDATA[Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps]]></description>
+            <link>https://openai.com/index/state-of-minnesota</link>
+            <guid isPermaLink="true">https://openai.com/index/state-of-minnesota</guid>
+            <pubDate>Thu, 26 Sep 2024 07:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
