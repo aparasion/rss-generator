@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 03:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 07:37:03 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 03:28:11 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 07:37:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -38,12 +38,6 @@
             <description><![CDATA[Translated announced the release of the 2026 Research Report by Imminent, its research center dedicated to exploring the frontiers of language, technology, and human creativity. The report signals a fundamental paradigm shift in artificial intelligence. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/translated-announces-the-2026-imminent-research-report-the-age-of-experience-in-ai</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/translated-announces-the-2026-imminent-research-report-the-age-of-experience-in-ai</guid>
-        </item>
-        <item>
-            <title><![CDATA[Vote in the "What's in a Name?" Survey]]></title>
-            <description><![CDATA[If localization is no longer the best word to describe our work, what would you pick? Many professionals on both the client and supplier sides feel that “localization” no longer fully represents the scope or value of our work. Vote in our survey - or suggest a new term! Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/vote-in-the-whats-in-a-name-survey</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/vote-in-the-whats-in-a-name-survey</guid>
         </item>
         <item>
             <title><![CDATA[Think Global Awards Announces 2026 Honorees in Leadership, Language, and AI Impact]]></title>
@@ -80,6 +74,12 @@
             <description><![CDATA[The role is based in Belgium and will cover the Belgian market and international accounts managed by Acolad’s Belgian division. Join the Acolad team. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</guid>
+        </item>
+        <item>
+            <title><![CDATA[Phrase Launches Platform Innovations to Take AI from Playground to Production]]></title>
+            <description><![CDATA[Phrase, a global leader in AI-led language technology, today announced a major platform update designed to help enterprises embed generative AI across global content operations. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</guid>
         </item>
     </channel>
 </rss>
