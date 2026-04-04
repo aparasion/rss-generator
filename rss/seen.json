@@ -1771,6 +1771,14 @@
     "https://www.fiercebiotech.com/pharma/trump-slaps-100-duties-imported-drugs-there-are-plenty-exceptions": {
       "relevant": false,
       "checkedAt": "2026-04-03T15:54:12.250Z"
+    },
+    "https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan": {
+      "relevant": true,
+      "checkedAt": "2026-04-04T05:35:23.725Z"
+    },
+    "https://www.fiercebiotech.com/biotech/buoyed-100m-series-stipple-bio-debuts-advance-lead-oncology-asset-clinic": {
+      "relevant": false,
+      "checkedAt": "2026-04-04T05:35:23.726Z"
     }
   },
   "OpenAI-News-L10N": {

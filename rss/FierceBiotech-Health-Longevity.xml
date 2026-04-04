@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 19:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 05:35:23 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 19:05:39 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 05:35:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[White House floats 12.5% budget cut for HHS in FY2027, reiterates reorganization plan]]></title>
+            <description><![CDATA[The requested budget cut is about half of what the administration asked, and was denied, last year. However, plans for reorganizing agencies under an Administration for a Healthy America persist, as do calls to eliminate various programs and centers the White house ideologically opposes.]]></description>
+            <link>https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan</guid>
+        </item>
         <item>
             <title><![CDATA[UK signs off on US pharma deal, ensuring tariff reprieve as Britain aims to reattract investments]]></title>
             <description><![CDATA[The U.K.'s end of the deal requires it to spend more on drugs through its National Health Service, which it is implementing through a higher cost-effectiveness threshold for its National Institute for Health and Care Excellence (NICE).]]></description>
@@ -26,12 +32,6 @@
             <description><![CDATA[After emerging from stealth last month with $175 million in funding, Korsana Biosciences has wasted no time making its way to the public markets.]]></description>
             <link>https://www.fiercebiotech.com/biotech/korsana-follows-debut-cyclerion-reverse-merger-focused-alzheimers-asset</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/korsana-follows-debut-cyclerion-reverse-merger-focused-alzheimers-asset</guid>
-        </item>
-        <item>
-            <title><![CDATA[Obesity biotech Ambrosia scores $100M series B to take next-gen oral GLP-1 into the clinic]]></title>
-            <description><![CDATA[Ambrosia Biosciences is aiming to move the market beyond peptide-based obesity treatments and initiate a trial for its oral small-molecule GLP-1 therapy, backed by an oversubscribed $100 million series B round.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ambrosia-scores-100m-series-b-support-next-gen-glp-1</guid>
         </item>
     </channel>
 </rss>
