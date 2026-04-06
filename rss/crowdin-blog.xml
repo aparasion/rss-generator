@@ -4,15 +4,22 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 11:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 13:46:18 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 11:12:45 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 13:46:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[The Gap Between Localization Deployment and Conversion and How to Close It]]></title>
+            <description><![CDATA[A Crowdin project at 100% looks the same whether the translations are excellent or just functional. Strings are filled. The release ships on time. RTL renders correctly in Arabic. From a pipeline perspective, the job is done. From a user perspective, that's only half the story. There's a category of localization problem that doesn't show up in the workflow at all. It shows up three months later, in market performance data. Conversion in the UAE is lower than expected. Engagement in Korea is…]]></description>
+            <link>https://crowdin.com/blog/localization-deployment-vs-performance-conversion</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/localization-deployment-vs-performance-conversion</guid>
+            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From AI translation to localization project management – Meet Crowdin Copilot]]></title>
@@ -97,13 +104,6 @@
             <link>https://crowdin.com/blog/translation-quality-without-speaking-language</link>
             <guid isPermaLink="true">https://crowdin.com/blog/translation-quality-without-speaking-language</guid>
             <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Designing for Translation: How to Build Global-Ready UX]]></title>
-            <description><![CDATA[When teams talk about localization, it’s often framed as a finishing step. Ship the product, extract the strings, translate, and move on. However, as Szymon Metkowski, Language and UX Consultant at Metkowski Translations, explains in this episode of The Agile Localization Podcast, that mindset is exactly what causes broken interfaces, confusing microcopy, and lost user trust. In this conversation with host Stefan Huyghe, Szymon unpacks what UX-aware localization really looks like in practice.…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-szymon-metkowski</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-szymon-metkowski</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
