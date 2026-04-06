@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 17:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 18:04:35 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 17:06:47 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 18:04:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Takeda tears up Denali partnership, returning dementia asset amid restructuring]]></title>
+            <description><![CDATA[Takeda has terminated a neuro partnership with Denali Therapeutics as the Japanese pharma undergoes a massive restructuring marked by significant layoffs.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnership-returning-dementia-asset-amid-restructuring</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnership-returning-dementia-asset-amid-restructuring</guid>
+        </item>
         <item>
             <title><![CDATA[Anthropic acquires stealth AI startup Coefficient Bio in $400M deal: reports]]></title>
             <description><![CDATA[AI powerhouse Anthropic is continuing its push into the healthcare arena with the acquisition of previously stealth AI startup Coefficient Bio in a $400 million stock deal, according to reporting from The Information and Eric Newcomer.]]></description>
@@ -38,12 +44,6 @@
             <description><![CDATA[Premier Radiology Services, which has been on an acquisition tear in the last year, snapped up fellow teleradiology specialist Global Imaging Solutions, which goes by GLOBIS, for an undisclosed amount.]]></description>
             <link>https://www.fiercebiotech.com/medtech/premier-radiology-acquires-teleradiology-specialist-globis-undisclosed-price</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/premier-radiology-acquires-teleradiology-specialist-globis-undisclosed-price</guid>
-        </item>
-        <item>
-            <title><![CDATA[Alzheimer's-focused Korsana to use Cyclerion reverse merger to go public]]></title>
-            <description><![CDATA[After emerging from stealth last month with $175 million in funding, Korsana Biosciences has wasted no time making its way to the public markets.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/korsana-follows-debut-cyclerion-reverse-merger-focused-alzheimers-asset</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/korsana-follows-debut-cyclerion-reverse-merger-focused-alzheimers-asset</guid>
         </item>
     </channel>
 </rss>
