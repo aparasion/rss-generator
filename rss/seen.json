@@ -1465,6 +1465,14 @@
     "https://www.nature.com/articles/d41586-026-01103-9": {
       "relevant": false,
       "checkedAt": "2026-04-04T19:01:07.345Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01028-3": {
+      "relevant": true,
+      "checkedAt": "2026-04-06T11:12:45.647Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01026-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-06T11:12:45.647Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1783,6 +1791,14 @@
     "https://www.fiercebiotech.com/biotech/buoyed-100m-series-stipple-bio-debuts-advance-lead-oncology-asset-clinic": {
       "relevant": false,
       "checkedAt": "2026-04-04T05:35:23.726Z"
+    },
+    "https://www.fiercebiotech.com/sponsored/how-ctdna-redefining-mrd-monitoring-hematologic-cancers": {
+      "relevant": false,
+      "checkedAt": "2026-04-06T11:12:45.577Z"
+    },
+    "https://www.fiercebiotech.com/pharma/march-ma-surge-triggers-high-expectations-2026": {
+      "relevant": false,
+      "checkedAt": "2026-04-06T11:12:45.578Z"
     }
   },
   "OpenAI-News-L10N": {
