@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 03:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 06:06:58 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 03:40:48 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 06:06:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
