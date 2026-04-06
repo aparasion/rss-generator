@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 15:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 16:01:15 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 15:06:08 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 16:01:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Anthropic acquires stealth AI startup Coefficient Bio in $400M deal: reports]]></title>
+            <description><![CDATA[AI powerhouse Anthropic is continuing its push into the healthcare arena with the acquisition of previously stealth AI startup Coefficient Bio in a $400 million stock deal, according to reporting from The Information and Eric Newcomer.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/anthropic-acquires-stealth-ai-startup-coefficient-bio-400m-deal</guid>
+        </item>
         <item>
             <title><![CDATA[US, UK regulators bolster medical device collaboration while lifting tariffs]]></title>
             <description><![CDATA[The U.S. FDA and the U.K.’s Medicines and Healthcare products Regulatory Agency agreed to bolster their ongoing medical technology collaboration while also removing tariffs on British medicine exports.]]></description>
