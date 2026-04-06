@@ -1477,6 +1477,10 @@
     "https://www.nature.com/articles/d41586-026-01027-4": {
       "relevant": false,
       "checkedAt": "2026-04-06T12:00:36.051Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00989-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-06T15:06:09.099Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1807,6 +1811,14 @@
     "https://www.fiercebiotech.com/pharma/sanofi-and-pfizer-deals-novavax-bets-amplification-strategy-drive-vaccines-engine": {
       "relevant": false,
       "checkedAt": "2026-04-06T13:46:18.294Z"
+    },
+    "https://www.fiercebiotech.com/medtech/zetos-latest-eeg-device-garners-fda-510k-clearance-outpatient-use": {
+      "relevant": false,
+      "checkedAt": "2026-04-06T15:06:08.991Z"
+    },
+    "https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medical-device-collaboration-while-lifting-tariffs": {
+      "relevant": true,
+      "checkedAt": "2026-04-06T15:06:08.991Z"
     }
   },
   "OpenAI-News-L10N": {
