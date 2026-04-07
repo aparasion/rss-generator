@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 14:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 15:43:17 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 14:00:57 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 15:43:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Navigating regulation, compliance, and antitrust in gaming]]></title>
+            <description><![CDATA[Gaming companies that integrate compliance into product design, localization workflows, and go-to-market planning can reduce launch delays, avoid regulatory penalties, and access more markets simultaneously. Rather than treating legal alignment…Read more]]></description>
+            <link>https://phrase.com/blog/posts/gaming-regulation-compliance-antitrust-strategy/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/gaming-regulation-compliance-antitrust-strategy/</guid>
+        </item>
         <item>
             <title><![CDATA[Aarron Spinley: Why customer experience is built on flawed assumptions (and what leaders should do instead).]]></title>
             <description><![CDATA[Service failure costs businesses over $10 trillion globally, yet most organizations are still relying on shortcuts and surface-level metrics to manage their customers. Aarron Spinley, author of The Customering Method,…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Discover how machine translation post-editing enables global teams to scale multilingual content using AI translation, automated workflows, and human linguistic expertise.Read more]]></description>
             <link>https://phrase.com/blog/posts/machine-translation-post-editing/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/machine-translation-post-editing/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Global travel growth is accelerating, but conversion and loyalty are won locally]]></title>
-            <description><![CDATA[Every head of product knows that users want to feel at ease and well understood when they use a new app or website. If travel brands can achieve this by…Read more]]></description>
-            <link>https://phrase.com/blog/posts/local-experience-global-travel-growth/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/local-experience-global-travel-growth/</guid>
         </item>
     </channel>
 </rss>

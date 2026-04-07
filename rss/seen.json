@@ -1505,6 +1505,14 @@
     "https://www.nature.com/articles/d41586-026-01020-x": {
       "relevant": false,
       "checkedAt": "2026-04-07T14:00:57.136Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00913-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T15:43:17.302Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01100-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T15:43:17.302Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1875,6 +1883,18 @@
     "https://www.fiercebiotech.com/biotech/gilead-inks-5b-tubulis-buyout-bolster-oncology-adc-pipeline": {
       "relevant": false,
       "checkedAt": "2026-04-07T14:00:56.989Z"
+    },
+    "https://www.fiercebiotech.com/cro/cro-fortrea-launches-ai-powered-solution-improve-trial-efficiency": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T15:43:17.346Z"
+    },
+    "https://www.fiercebiotech.com/medtech/e2-lands-80m-series-c-next-gen-thrombectomy-treatment": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T15:43:17.346Z"
+    },
+    "https://www.fiercebiotech.com/medtech/owlet-ceos-sudden-exit-sees-co-founder-return-nest": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T15:43:17.346Z"
     }
   },
   "OpenAI-News-L10N": {
