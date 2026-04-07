@@ -1481,6 +1481,26 @@
     "https://www.nature.com/articles/d41586-026-00989-9": {
       "relevant": false,
       "checkedAt": "2026-04-06T15:06:09.099Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01094-7": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.440Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01095-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.440Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01093-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.440Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01029-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.440Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01024-7": {
+      "relevant": true,
+      "checkedAt": "2026-04-07T11:14:25.440Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1831,6 +1851,14 @@
     "https://www.fiercebiotech.com/research/ai-model-designs-new-treatment-opioid-addiction-cuts-cravings-rats": {
       "relevant": true,
       "checkedAt": "2026-04-06T19:19:36.245Z"
+    },
+    "https://www.fiercebiotech.com/biotech/biogen-links-alloy-platform-boost-aso-drug-development": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.451Z"
+    },
+    "https://www.fiercebiotech.com/biotech/sanofis-bispecific-scores-double-respiratory-phase-2-wins-flunks-eczema-study-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T11:14:25.451Z"
     }
   },
   "OpenAI-News-L10N": {

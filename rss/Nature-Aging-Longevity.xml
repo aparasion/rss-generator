@@ -4,11 +4,17 @@
         <description><![CDATA[Nature articles filtered for aging, healthspan, and longevity research]]></description>
         <link>http://feeds.nature.com/nature/rss/current</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 11:14:25 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 09:19:45 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 11:14:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[This method to reverse cellular ageing is about to be tested in humans]]></title>
+            <link>https://www.nature.com/articles/d41586-026-01024-7</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01024-7</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Engaging the head and the heart: why scientists turn to poetry]]></title>
             <link>https://www.nature.com/articles/d41586-026-01028-3</link>
