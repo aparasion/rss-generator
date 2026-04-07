@@ -4,11 +4,23 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 19:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 21:03:38 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 19:31:35 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 21:03:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Welo Life Sciences Launches as Dedicated Brand for Pharmaceutical, Contract, and Medical Devices]]></title>
+            <description><![CDATA[Welo Life Sciences today launched as a dedicated brand within Welo Global, providing multilingual and content solutions to pharmaceutical, contract research, and medical device organizations operating in highly regulated global environments. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/welo-life-sciences-launches-as-dedicated-brand-for-pharmaceutical-contract-and-medical-devices</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/welo-life-sciences-launches-as-dedicated-brand-for-pharmaceutical-contract-and-medical-devices</guid>
+        </item>
+        <item>
+            <title><![CDATA[Welocalize Evolves its Branding to Better Align to its Clients]]></title>
+            <description><![CDATA[Welo Global today launched as the new parent brand overseeing a portfolio of brands aligned to specific customer segments, including Welocalize, Welo Data, Park IP, and Adapt. It also introduced Welo Life Sciences, a dedicated brand focused on serving life sciences organizations. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/welocalize-evolves-its-branding-to-better-align-to-its-clients</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/welocalize-evolves-its-branding-to-better-align-to-its-clients</guid>
+        </item>
         <item>
             <title><![CDATA[OOONA Achieves TPN Gold Star Shield, the Highest Level of Content Security Accreditation]]></title>
             <description><![CDATA[The company becomes one of the first media localization platforms to earn the Trusted Partner Network's newly introduced top-tier designation Continue Reading]]></description>
@@ -52,12 +64,6 @@
             <guid isPermaLink="true">https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</guid>
         </item>
         <item>
-            <title><![CDATA[GALA Annual Survey 2026 Findings]]></title>
-            <description><![CDATA[Each year, GALA’s Annual Survey offers a candid look at how our community experiences the association. We find out what’s working well and where we must improve, and we gauge the community’s sentiments about the association and the value we create. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/gala-annual-survey-2026-findings</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/gala-annual-survey-2026-findings</guid>
-        </item>
-        <item>
             <title><![CDATA[Acolad is seeking a Head of Business Development Manager]]></title>
             <description><![CDATA[The Head of Sales will be responsible for driving revenue growth, developing and executing sales strategies, and leading a team of salespeople. Join the Acolad team today! Continue Reading]]></description>
             <link>https://www.gala-global.org/news/acolad-is-seeking-a-head-of-business-development-manager</link>
@@ -74,12 +80,6 @@
             <description><![CDATA[The role is based in Belgium and will cover the Belgian market and international accounts managed by Acolad’s Belgian division. Join the Acolad team. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-senior-account-manager</guid>
-        </item>
-        <item>
-            <title><![CDATA[Phrase Launches Platform Innovations to Take AI from Playground to Production]]></title>
-            <description><![CDATA[Phrase, a global leader in AI-led language technology, today announced a major platform update designed to help enterprises embed generative AI across global content operations. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/phrase-launches-platform-innovations-to-take-ai-from-playground-to-production</guid>
         </item>
     </channel>
 </rss>
