@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 11:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 14:00:56 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 11:14:25 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 14:00:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Lilly pays AC Immune $12.5M to expand Alzheimer’s collab as asset draws closer to clinic]]></title>
+            <description><![CDATA[Eli Lilly has handed AC Immune 10 million Swiss francs ($12.5 million) to expand their Alzheimer’s disease collaboration as a candidate moves closer to the clinic.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic</guid>
+        </item>
         <item>
             <title><![CDATA[AI model designs new treatment candidate for opioid addiction that cuts cravings in rats]]></title>
             <description><![CDATA[While the opioid epidemic is one of the most urgent public health emergencies facing the U.S., new therapeutic approaches for treating the underlying substance use disorder have lagged far behind. Scientists have now used an artificial intelligence program to design a compound that reduced fentanyl use in addicted rats, which could one day serve as a new tool to help patients recover from opioid abuse.]]></description>

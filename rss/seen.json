@@ -1501,6 +1501,10 @@
     "https://www.nature.com/articles/d41586-026-01024-7": {
       "relevant": true,
       "checkedAt": "2026-04-07T11:14:25.440Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01020-x": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T14:00:57.136Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1859,6 +1863,18 @@
     "https://www.fiercebiotech.com/biotech/sanofis-bispecific-scores-double-respiratory-phase-2-wins-flunks-eczema-study-0": {
       "relevant": false,
       "checkedAt": "2026-04-07T11:14:25.451Z"
+    },
+    "https://www.fiercebiotech.com/medtech/longtime-hologic-chief-macmillan-retire-183b-buyout-deal-closes": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T14:00:56.988Z"
+    },
+    "https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic": {
+      "relevant": true,
+      "checkedAt": "2026-04-07T14:00:56.988Z"
+    },
+    "https://www.fiercebiotech.com/biotech/gilead-inks-5b-tubulis-buyout-bolster-oncology-adc-pipeline": {
+      "relevant": false,
+      "checkedAt": "2026-04-07T14:00:56.989Z"
     }
   },
   "OpenAI-News-L10N": {
