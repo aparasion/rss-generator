@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 14:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 15:43:24 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 14:02:14 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 15:43:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -38,12 +38,6 @@
             <description><![CDATA[The U.S. FDA and the U.K.’s Medicines and Healthcare products Regulatory Agency agreed to bolster their ongoing medical technology collaboration while also removing tariffs on British medicine exports.]]></description>
             <link>https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medical-device-collaboration-while-lifting-tariffs</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/us-uk-regulators-bolster-medical-device-collaboration-while-lifting-tariffs</guid>
-        </item>
-        <item>
-            <title><![CDATA[White House floats 12.5% budget cut for HHS in FY2027, reiterates reorganization plan]]></title>
-            <description><![CDATA[The requested budget cut is about half of what the administration asked, and was denied, last year. However, plans for reorganizing agencies under an Administration for a Healthy America persist, as do calls to eliminate various programs and centers the White house ideologically opposes.]]></description>
-            <link>https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/providers/white-house-floats-125-budget-cut-hhs-fy2027-reiterates-reorganization-plan</guid>
         </item>
     </channel>
 </rss>

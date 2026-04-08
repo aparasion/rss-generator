@@ -1549,6 +1549,114 @@
     "https://www.nature.com/articles/d41586-026-01039-0": {
       "relevant": false,
       "checkedAt": "2026-04-08T14:02:14.729Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01132-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10339-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10346-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10365-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10285-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10334-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10349-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10337-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10316-x": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10168-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10330-z": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10307-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10342-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10361-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10277-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10326-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10345-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10260-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10352-7": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10329-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01032-7": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00905-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00811-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00630-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00960-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00812-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01037-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.252Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1955,6 +2063,10 @@
     "https://www.fiercebiotech.com/medtech/artivion-nabs-pma-clearance-fda-aortic-stent-graft-system": {
       "relevant": false,
       "checkedAt": "2026-04-08T14:02:14.637Z"
+    },
+    "https://www.fiercebiotech.com/cro/akari-locks-arms-wuxi-develop-and-manufacture-novel-adc-treatment": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T15:43:24.323Z"
     }
   },
   "OpenAI-News-L10N": {
