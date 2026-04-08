@@ -1529,6 +1529,22 @@
     "https://www.nature.com/articles/d41586-026-00224-5": {
       "relevant": false,
       "checkedAt": "2026-04-08T09:18:41.199Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01021-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.941Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01025-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.941Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01125-3": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.941Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01114-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.941Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1915,6 +1931,14 @@
     "https://www.fiercebiotech.com/biotech/3-new-acquisitions-digest-gilead-shifts-focus-pipeline-has-never-been-stronger": {
       "relevant": false,
       "checkedAt": "2026-04-08T07:52:57.823Z"
+    },
+    "https://www.fiercebiotech.com/biotech/orbimeds-sidewinder-slithers-toward-clinic-137m-series-b-antibody-drug-conjugates": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.859Z"
+    },
+    "https://www.fiercebiotech.com/biotech/jeito-hails-12b-largest-raise-ever-independent-biopharma-focused-european-fund": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T11:15:07.859Z"
     }
   },
   "OpenAI-News-L10N": {
