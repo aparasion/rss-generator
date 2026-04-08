@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T23:54:31.345Z",
-  "durationMs": 12978,
+  "generatedAt": "2026-04-08T03:32:27.943Z",
+  "durationMs": 9869,
   "feeds": [
     {
       "name": "GALA-Global",
@@ -8,7 +8,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 12975
+      "durationMs": 3277
     },
     {
       "name": "XTM-Blog",
@@ -16,7 +16,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 15,
-      "durationMs": 8893
+      "durationMs": 9835
     },
     {
       "name": "phrase-blog",
@@ -24,7 +24,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 783
+      "durationMs": 587
     },
     {
       "name": "lokalise-blog",
@@ -32,7 +32,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 627
+      "durationMs": 587
     },
     {
       "name": "crowdin-blog",
@@ -40,7 +40,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 14,
-      "durationMs": 670
+      "durationMs": 376
     },
     {
       "name": "PRNewswire-L10N",
@@ -48,7 +48,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 255
+      "durationMs": 539
     },
     {
       "name": "RWS-media-centre",
@@ -56,7 +56,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 759
+      "durationMs": 798
     },
     {
       "name": "transperfect-news-and-press",
@@ -64,15 +64,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 723
+      "durationMs": 747
     },
     {
       "name": "FierceBiotech-Health-Longevity",
       "url": "https://www.fiercebiotech.com/rss/xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml",
-      "status": "not_modified",
-      "items": null,
-      "durationMs": 281
+      "status": "success",
+      "items": 7,
+      "durationMs": 597
     },
     {
       "name": "Nature-Aging-Longevity",
@@ -80,7 +80,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 268
+      "durationMs": 1373
     },
     {
       "name": "OpenAI-News-L10N",
@@ -88,7 +88,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml",
       "status": "success",
       "items": 5,
-      "durationMs": 614
+      "durationMs": 1036
     }
   ]
 }
