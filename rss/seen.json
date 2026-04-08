@@ -1657,6 +1657,26 @@
     "https://www.nature.com/articles/d41586-026-01037-2": {
       "relevant": false,
       "checkedAt": "2026-04-08T15:43:24.252Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10488-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.507Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10457-z": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.507Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10356-3": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.507Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01107-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.507Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01013-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.507Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2067,6 +2087,10 @@
     "https://www.fiercebiotech.com/cro/akari-locks-arms-wuxi-develop-and-manufacture-novel-adc-treatment": {
       "relevant": false,
       "checkedAt": "2026-04-08T15:43:24.323Z"
+    },
+    "https://www.fiercebiotech.com/medtech/medline-hit-fda-warning-letter-over-defective-heart-syringes-safety-hazards": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T17:20:11.522Z"
     }
   },
   "OpenAI-News-L10N": {
