@@ -1545,6 +1545,10 @@
     "https://www.nature.com/articles/d41586-026-01114-6": {
       "relevant": false,
       "checkedAt": "2026-04-08T11:15:07.941Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01039-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T14:02:14.729Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -1939,6 +1943,18 @@
     "https://www.fiercebiotech.com/biotech/jeito-hails-12b-largest-raise-ever-independent-biopharma-focused-european-fund": {
       "relevant": false,
       "checkedAt": "2026-04-08T11:15:07.859Z"
+    },
+    "https://www.fiercebiotech.com/biotech/astellas-pharma-and-dyno-therapeutics-unearth-15m-muscle-disorder-capsid-ongoing": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T14:02:14.637Z"
+    },
+    "https://www.fiercebiotech.com/biotech/after-21b-novo-deal-vivtex-just-getting-started": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T14:02:14.637Z"
+    },
+    "https://www.fiercebiotech.com/medtech/artivion-nabs-pma-clearance-fda-aortic-stent-graft-system": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T14:02:14.637Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -5561,6 +5577,10 @@
     "https://openai.com/index/introducing-openai-safety-fellowship": {
       "relevant": false,
       "checkedAt": "2026-04-06T17:06:48.189Z"
+    },
+    "https://openai.com/index/introducing-child-safety-blueprint": {
+      "relevant": false,
+      "checkedAt": "2026-04-08T14:02:15.210Z"
     }
   }
 }
