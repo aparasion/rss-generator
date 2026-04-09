@@ -5805,6 +5805,10 @@
     "https://openai.com/index/full-fan-mode-contest-terms-conditions": {
       "relevant": false,
       "checkedAt": "2026-04-09T14:14:15.327Z"
+    },
+    "https://openai.com/index/cyber-agent": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T21:57:58.208Z"
     }
   }
 }
