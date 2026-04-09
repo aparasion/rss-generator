@@ -1681,6 +1681,10 @@
     "https://www.nature.com/articles/d41586-026-01109-3": {
       "relevant": false,
       "checkedAt": "2026-04-09T03:28:11.951Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00550-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T09:39:50.475Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2095,6 +2099,10 @@
     "https://www.fiercebiotech.com/medtech/medline-hit-fda-warning-letter-over-defective-heart-syringes-safety-hazards": {
       "relevant": false,
       "checkedAt": "2026-04-08T17:20:11.522Z"
+    },
+    "https://www.fiercebiotech.com/biotech/avalyn-plans-ipo-fund-phase-3-trials-inhaled-versions-approved-respiratory-drugs": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T09:39:49.804Z"
     }
   },
   "OpenAI-News-L10N": {
