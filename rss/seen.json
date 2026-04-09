@@ -1689,6 +1689,22 @@
     "https://www.nature.com/articles/d41586-026-01120-8": {
       "relevant": false,
       "checkedAt": "2026-04-09T14:14:15.105Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10486-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T16:42:46.445Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01111-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T16:42:46.445Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01108-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T16:42:46.445Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01140-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T16:42:46.445Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2127,6 +2143,10 @@
     "https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs": {
       "relevant": true,
       "checkedAt": "2026-04-09T14:14:14.914Z"
+    },
+    "https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once": {
+      "relevant": true,
+      "checkedAt": "2026-04-09T16:42:46.458Z"
     }
   },
   "OpenAI-News-L10N": {

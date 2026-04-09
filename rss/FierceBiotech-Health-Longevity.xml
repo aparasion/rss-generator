@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 14:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 16:42:46 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 14:14:14 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 16:42:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[In a first, a CAR-T cell therapy drives 3 autoimmune diseases into remission in a single patient]]></title>
+            <description><![CDATA[A CAR-T cell therapy has successfully treated not one, not two, but three different autoimmune diseases at once in a patient, providing further proof of the modality’s promise in the disease area as a likely first approval fast approaches.]]></description>
+            <link>https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once</guid>
+        </item>
         <item>
             <title><![CDATA[Gilead pays Kymera $45M to glue preclinical protein degrader onto burgeoning oncology pipeline]]></title>
             <description><![CDATA[Gilead has tucked another drug candidate into a pipeline bulging from a recent deal flurry, paying $45 million to exercise its option on Kymera Therapeutics’ preclinical anticancer molecular glue degrader.]]></description>
@@ -32,12 +38,6 @@
             <description><![CDATA[While the opioid epidemic is one of the most urgent public health emergencies facing the U.S., new therapeutic approaches for treating the underlying substance use disorder have lagged far behind. Scientists have now used an artificial intelligence program to design a compound that reduced fentanyl use in addicted rats, which could one day serve as a new tool to help patients recover from opioid abuse.]]></description>
             <link>https://www.fiercebiotech.com/research/ai-model-designs-new-treatment-opioid-addiction-cuts-cravings-rats</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/research/ai-model-designs-new-treatment-opioid-addiction-cuts-cravings-rats</guid>
-        </item>
-        <item>
-            <title><![CDATA[Takeda tears up Denali partnership, returning dementia asset amid restructuring]]></title>
-            <description><![CDATA[Takeda has terminated a neuro partnership with Denali Therapeutics as the Japanese pharma undergoes a massive restructuring marked by significant layoffs.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnership-returning-dementia-asset-amid-restructuring</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/takeda-tears-denali-partnership-returning-dementia-asset-amid-restructuring</guid>
         </item>
     </channel>
 </rss>
