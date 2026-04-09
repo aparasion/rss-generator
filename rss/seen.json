@@ -1709,6 +1709,14 @@
     "https://www.nature.com/articles/d41586-026-01112-8": {
       "relevant": false,
       "checkedAt": "2026-04-09T18:10:25.633Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01110-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T19:38:36.730Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01138-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T19:38:36.730Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2151,6 +2159,10 @@
     "https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once": {
       "relevant": true,
       "checkedAt": "2026-04-09T16:42:46.458Z"
+    },
+    "https://www.fiercebiotech.com/medtech/jj-launches-latest-version-its-pulsed-ablation-device-after-nabbing-ce-mark": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T19:38:36.319Z"
     }
   },
   "OpenAI-News-L10N": {
