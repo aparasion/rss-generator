@@ -1717,6 +1717,10 @@
     "https://www.nature.com/articles/d41586-026-01138-y": {
       "relevant": false,
       "checkedAt": "2026-04-09T19:38:36.730Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01147-x": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T21:03:08.220Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2163,6 +2167,10 @@
     "https://www.fiercebiotech.com/medtech/jj-launches-latest-version-its-pulsed-ablation-device-after-nabbing-ce-mark": {
       "relevant": false,
       "checkedAt": "2026-04-09T19:38:36.319Z"
+    },
+    "https://www.fiercebiotech.com/medtech/philips-recalls-trilogy-evo-ventilator-software-warns-under-delivery-therapy": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T21:03:08.245Z"
     }
   },
   "OpenAI-News-L10N": {
