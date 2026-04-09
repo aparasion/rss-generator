@@ -1685,6 +1685,10 @@
     "https://www.nature.com/articles/d41586-026-00550-8": {
       "relevant": false,
       "checkedAt": "2026-04-09T09:39:50.475Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01120-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T14:14:15.105Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2107,6 +2111,22 @@
     "https://www.fiercebiotech.com/biotech/roche-takes-leap-faith-20m-bet-c4ts-antibody-targeted-protein-degraders": {
       "relevant": false,
       "checkedAt": "2026-04-09T11:16:25.226Z"
+    },
+    "https://www.fiercebiotech.com/medtech/boehringer-hands-over-funding-commercialisation-rights-clicks-digital-therapeutic": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T14:14:14.914Z"
+    },
+    "https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline": {
+      "relevant": true,
+      "checkedAt": "2026-04-09T14:14:14.914Z"
+    },
+    "https://www.fiercebiotech.com/biotech/its-going-be-huge-diabolical-molecule-poised-become-biotechs-next-gold-rush": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T14:14:14.914Z"
+    },
+    "https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs": {
+      "relevant": true,
+      "checkedAt": "2026-04-09T14:14:14.914Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -5737,6 +5757,10 @@
     "https://openai.com/index/next-phase-of-enterprise-ai": {
       "relevant": false,
       "checkedAt": "2026-04-08T22:00:30.320Z"
+    },
+    "https://openai.com/index/full-fan-mode-contest-terms-conditions": {
+      "relevant": false,
+      "checkedAt": "2026-04-09T14:14:15.327Z"
     }
   }
 }
