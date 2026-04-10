@@ -1737,6 +1737,14 @@
     "https://www.nature.com/articles/d41586-026-01063-0": {
       "relevant": false,
       "checkedAt": "2026-04-10T11:12:10.535Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00195-7": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T12:01:29.112Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01207-2": {
+      "relevant": true,
+      "checkedAt": "2026-04-10T12:01:29.112Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2195,6 +2203,10 @@
     "https://www.fiercebiotech.com/biotech/chinas-oricell-raises-100m-carcinoma-car-t-plans-ahead-ipo-push": {
       "relevant": false,
       "checkedAt": "2026-04-10T09:38:30.095Z"
+    },
+    "https://www.fiercebiotech.com/biotech/can-it-actually-deliver-why-big-pharma-has-entered-quantum-realm": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T12:01:28.891Z"
     }
   },
   "OpenAI-News-L10N": {

@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 09:38:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 12:01:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 09:38:30 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 12:01:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -26,12 +26,6 @@
             <description><![CDATA[A federal judge rejected the Trump administration's bid to dismiss a group of states' lawsuit challenging Robert F. Kennedy Jr.'s restructuring of the Department of Health and Human Services.]]></description>
             <link>https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs</guid>
-        </item>
-        <item>
-            <title><![CDATA[Lilly pays AC Immune $12.5M to expand Alzheimer’s collab as asset draws closer to clinic]]></title>
-            <description><![CDATA[Eli Lilly has handed AC Immune 10 million Swiss francs ($12.5 million) to expand their Alzheimer’s disease collaboration as a candidate moves closer to the clinic.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/lilly-pays-ac-immune-125m-expand-alzheimers-collab-small-molecule-draws-closer-clinic</guid>
         </item>
     </channel>
 </rss>
