@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 17:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 18:00:31 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 17:07:04 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 18:00:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[LEO's 13th International Virtual Conference]]></title>
+            <description><![CDATA[Register for the upcoming conference on 25-26 June. This year’s theme, “We Are Here To Stay: The Irreplaceable Language Industry,” reflects the critical and evolving role of interpreters, translators, and all language professionals in today’s dynamic landscape. Early bird closes 30 April. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/leos-13th-international-virtual-conference</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/leos-13th-international-virtual-conference</guid>
+        </item>
         <item>
             <title><![CDATA[Welo Life Sciences Launches as Dedicated Brand for Pharmaceutical, Contract, and Medical Devices]]></title>
             <description><![CDATA[Welo Life Sciences today launched as a dedicated brand within Welo Global, providing multilingual and content solutions to pharmaceutical, contract research, and medical device organizations operating in highly regulated global environments. Continue Reading]]></description>
@@ -62,12 +68,6 @@
             <description><![CDATA[Ciklopea, a distinguished European provider of translation and localization services, has just received a globally recognised quality standard for the medical device industry - ISO 13485 certification. The company has also passed expert audits for ISO 9001, ISO 17100, and ISO 18587. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</guid>
-        </item>
-        <item>
-            <title><![CDATA[Acolad is seeking a Head of Business Development Manager]]></title>
-            <description><![CDATA[The Head of Sales will be responsible for driving revenue growth, developing and executing sales strategies, and leading a team of salespeople. Join the Acolad team today! Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/acolad-is-seeking-a-head-of-business-development-manager</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/acolad-is-seeking-a-head-of-business-development-manager</guid>
         </item>
         <item>
             <title><![CDATA[Acolad is seeking a Pre-Sales Manager for Interpreting Solutions]]></title>

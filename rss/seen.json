@@ -2211,6 +2211,10 @@
     "https://www.fiercebiotech.com/biotech/can-it-actually-deliver-why-big-pharma-has-entered-quantum-realm": {
       "relevant": false,
       "checkedAt": "2026-04-10T12:01:28.891Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fda-refuses-replimunes-melanoma-prospect-second-time": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:29.956Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -5853,6 +5857,102 @@
     "https://openai.com/index/cyberagent": {
       "relevant": false,
       "checkedAt": "2026-04-09T23:53:35.355Z"
+    },
+    "https://openai.com/academy/applications-of-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/brainstorming": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/data-analysis": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/marketing": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/writing": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/research": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/responsible-and-safe-use": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/prompting": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/custom-gpts": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/search-and-deep-research": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/operations": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/personalization": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/customer-success": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/skills": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/managers": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/working-with-files": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/healthcare": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/projects": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/getting-started": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/what-is-ai": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/financial-services": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/finance": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/image-generation": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
+    },
+    "https://openai.com/academy/sales": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T18:00:30.330Z"
     }
   }
 }
