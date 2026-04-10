@@ -1745,6 +1745,10 @@
     "https://www.nature.com/articles/d41586-026-01207-2": {
       "relevant": true,
       "checkedAt": "2026-04-10T12:01:29.112Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01208-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-10T15:06:39.348Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
