@@ -4,9 +4,9 @@
         <description><![CDATA[OpenAI news posts filtered for translation, linguistics, and localization topics]]></description>
         <link>https://openai.com/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 14:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 15:47:43 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 14:55:18 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 15:47:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
