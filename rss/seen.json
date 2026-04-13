@@ -1749,6 +1749,14 @@
     "https://www.nature.com/articles/d41586-026-01208-1": {
       "relevant": false,
       "checkedAt": "2026-04-10T15:06:39.348Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00853-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T10:57:12.137Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01101-x": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T10:57:12.137Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2219,6 +2227,14 @@
     "https://www.fiercebiotech.com/biotech/gsk-ceos-scientific-courage-propels-plans-medley-phase-3-trials-adc": {
       "relevant": false,
       "checkedAt": "2026-04-12T15:52:10.936Z"
+    },
+    "https://www.fiercebiotech.com/biotech/biontech-synox-plot-paths-fda-trials-hit-goals-competitive-tumor-types": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T10:57:11.938Z"
+    },
+    "https://www.fiercebiotech.com/biotech/boehringer-amgen-discard-early-immunology-candidates-due-lack-clinical-potential": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T10:57:11.938Z"
     }
   },
   "OpenAI-News-L10N": {
