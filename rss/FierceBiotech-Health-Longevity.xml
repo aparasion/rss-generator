@@ -4,11 +4,23 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 10:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 12:10:18 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 10:57:11 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 12:10:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Biotech Giants and Investors Gather to Solve the Commercialisation Puzzle This May in Hong Kong]]></title>
+            <description><![CDATA[Join global leaders at ASGH 2026 to bridge the gap between lab breakthroughs and market execution while unlocking growth in Asia’s health economy.]]></description>
+            <link>https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong</guid>
+        </item>
+        <item>
+            <title><![CDATA[Regeneron rides into radiopharma via $2.1B biobucks pact with Australia’s Telix]]></title>
+            <description><![CDATA[With its latest obesity play appearing to pay off, Regeneron has turned its attention to radiopharmaceuticals.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</guid>
+        </item>
         <item>
             <title><![CDATA[In a first, a CAR-T cell therapy drives 3 autoimmune diseases into remission in a single patient]]></title>
             <description><![CDATA[A CAR-T cell therapy has successfully treated not one, not two, but three different autoimmune diseases at once in a patient, providing further proof of the modality’s promise in the disease area as a likely first approval fast approaches.]]></description>

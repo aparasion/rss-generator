@@ -1757,6 +1757,10 @@
     "https://www.nature.com/articles/d41586-026-01101-x": {
       "relevant": false,
       "checkedAt": "2026-04-13T10:57:12.137Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00197-5": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.973Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2235,6 +2239,34 @@
     "https://www.fiercebiotech.com/biotech/boehringer-amgen-discard-early-immunology-candidates-due-lack-clinical-potential": {
       "relevant": false,
       "checkedAt": "2026-04-13T10:57:11.938Z"
+    },
+    "https://www.fiercebiotech.com/biotech/revolutions-much-hyped-ras-inhibitor-hits-key-survival-goals-phase-3-pancreatic-cancer": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/sponsored/beyond-hype-turning-nams-actionable-evidence": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong": {
+      "relevant": true,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/biotech/allogenes-shelf-car-t-erases-lingering-lymphoma-cells-key-early-win": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix": {
+      "relevant": true,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/biotech/seaport-prepares-ipo-voyage-fund-depression-drugs-journey-phase-3": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/biotech/ideaya-sees-clear-path-fda-servier-partnered-eye-cancer-drug-hits-goal": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T12:10:18.991Z"
     }
   },
   "OpenAI-News-L10N": {
