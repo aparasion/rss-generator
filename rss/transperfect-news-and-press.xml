@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 12:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 14:08:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 12:10:19 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 14:08:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -22,6 +22,12 @@
             <link>https://www.transperfect.com/blog/legalnext</link>
             <guid isPermaLink="true">https://www.transperfect.com/blog/legalnext</guid>
             <pubDate>Wed, 22 Oct 2025 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Legal and Merlin Search Technologies Announce Partnership]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-legal-and-merlin-search-technologies-announce-partnership</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-and-merlin-search-technologies-announce-partnership</guid>
+            <pubDate>Wed, 08 Apr 2026 19:36:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Law Journal Readers Rank TransPerfect Legal No. 1 in Six Categories]]></title>
@@ -124,12 +130,6 @@
             <link>https://www.transperfect.com/about/press/transperfects-globallink-technology-sweeps-g2-research-report-tms-11-categories</link>
             <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfects-globallink-technology-sweeps-g2-research-report-tms-11-categories</guid>
             <pubDate>Fri, 03 Oct 2025 15:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Games Awarded Best QA & Localization Service Provider at the 2025 Mobile Games Awards]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-games-awarded-best-qa-localization-service-provider-2025-mobile-games</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-games-awarded-best-qa-localization-service-provider-2025-mobile-games</guid>
-            <pubDate>Fri, 12 Sep 2025 13:35:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

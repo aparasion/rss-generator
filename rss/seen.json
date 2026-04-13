@@ -1761,6 +1761,14 @@
     "https://www.nature.com/articles/d41586-026-00197-5": {
       "relevant": false,
       "checkedAt": "2026-04-13T12:10:18.973Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01199-z": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T14:08:52.637Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00744-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T14:08:52.637Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2267,6 +2275,10 @@
     "https://www.fiercebiotech.com/biotech/ideaya-sees-clear-path-fda-servier-partnered-eye-cancer-drug-hits-goal": {
       "relevant": false,
       "checkedAt": "2026-04-13T12:10:18.991Z"
+    },
+    "https://www.fiercebiotech.com/biotech/spyre-points-phase-2-win-ulcerative-colitis-drug-proof-it-could-take-takedas-entyvio": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T14:08:52.455Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -6009,6 +6021,10 @@
     "https://openai.com/index/axios-developer-tool-compromise": {
       "relevant": false,
       "checkedAt": "2026-04-11T03:19:34.679Z"
+    },
+    "https://openai.com/index/cloudflare-openai-agent-cloud": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T14:08:52.826Z"
     }
   }
 }
