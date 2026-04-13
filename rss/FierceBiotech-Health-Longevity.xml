@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 17:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 19:38:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 17:19:14 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 19:38:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Kailera outlines plans for $528.5M IPO to support quartet of Chinese obesity assets]]></title>
+            <description><![CDATA[Kailera is taking another step into the competitive obesity market by aiming to raise up to $528.5 million via a Nasdaq IPO, with proceeds intended to advance its GLP-1 assets through clinical development.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets</guid>
+        </item>
         <item>
             <title><![CDATA[Biotech Giants and Investors Gather to Solve the Commercialisation Puzzle This May in Hong Kong]]></title>
             <description><![CDATA[Join global leaders at ASGH 2026 to bridge the gap between lab breakthroughs and market execution while unlocking growth in Asia’s health economy.]]></description>
@@ -32,12 +38,6 @@
             <description><![CDATA[Gilead has tucked another drug candidate into a pipeline bulging from a recent deal flurry, paying $45 million to exercise its option on Kymera Therapeutics’ preclinical anticancer molecular glue degrader.]]></description>
             <link>https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline</guid>
-        </item>
-        <item>
-            <title><![CDATA[Judge rules that HHS must face states' lawsuit over RFK Jr.'s agency overhaul, massive layoffs]]></title>
-            <description><![CDATA[A federal judge rejected the Trump administration's bid to dismiss a group of states' lawsuit challenging Robert F. Kennedy Jr.'s restructuring of the Department of Health and Human Services.]]></description>
-            <link>https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/regulatory/judge-rules-hhs-must-face-states-lawsuit-over-rfk-jrs-agency-overhaul-massive-layoffs</guid>
         </item>
     </channel>
 </rss>

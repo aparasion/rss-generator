@@ -1769,6 +1769,10 @@
     "https://www.nature.com/articles/d41586-026-00744-0": {
       "relevant": false,
       "checkedAt": "2026-04-13T14:08:52.637Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01211-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T19:38:22.295Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2287,6 +2291,14 @@
     "https://www.fiercebiotech.com/medtech/retractable-technologies-trims-staff-save-22m-annually-tarriffs-bite": {
       "relevant": false,
       "checkedAt": "2026-04-13T17:19:14.059Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fda-urges-clinical-trial-sponsors-report-results-their-studies": {
+      "relevant": false,
+      "checkedAt": "2026-04-13T19:38:22.319Z"
+    },
+    "https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets": {
+      "relevant": true,
+      "checkedAt": "2026-04-13T19:38:22.319Z"
     }
   },
   "OpenAI-News-L10N": {
