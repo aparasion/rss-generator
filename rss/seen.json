@@ -1773,6 +1773,34 @@
     "https://www.nature.com/articles/d41586-026-01211-6": {
       "relevant": false,
       "checkedAt": "2026-04-13T19:38:22.295Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01217-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01215-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01218-z": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01216-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01099-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01232-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01219-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-14T11:19:25.964Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2299,6 +2327,10 @@
     "https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets": {
       "relevant": true,
       "checkedAt": "2026-04-13T19:38:22.319Z"
+    },
+    "https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests": {
+      "relevant": true,
+      "checkedAt": "2026-04-14T11:19:25.985Z"
     }
   },
   "OpenAI-News-L10N": {

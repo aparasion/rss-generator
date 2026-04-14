@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 09:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 11:19:25 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 09:50:02 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 11:19:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Harbinger Health raises $100M for new suite of blood-based cancer detection tests]]></title>
+            <description><![CDATA[Harbinger Health has grabbed $100 million in its latest funding round as the company reveals a new Resolve in its cancer detection work.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests</guid>
+        </item>
         <item>
             <title><![CDATA[Kailera outlines plans for $528.5M IPO to support quartet of Chinese obesity assets]]></title>
             <description><![CDATA[Kailera is taking another step into the competitive obesity market by aiming to raise up to $528.5 million via a Nasdaq IPO, with proceeds intended to advance its GLP-1 assets through clinical development.]]></description>
