@@ -1801,6 +1801,58 @@
     "https://www.nature.com/articles/d41586-026-01219-y": {
       "relevant": false,
       "checkedAt": "2026-04-14T11:19:25.964Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10324-x": {
+      "relevant": true,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00697-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10493-9": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10482-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-00914-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01201-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-025-04132-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01196-2": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01194-4": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01119-1": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01225-0": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01058-x": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01044-3": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.686Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2331,6 +2383,46 @@
     "https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests": {
       "relevant": true,
       "checkedAt": "2026-04-14T11:19:25.985Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fda-official-plausible-mechanism-principles-not-exclusive-bespoke-gene-therapies": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.373Z"
+    },
+    "https://www.fiercebiotech.com/biotech/cell-therapy-biotech-obsidian-leverages-galera-reverse-merger-go-public": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/biotech/astellas-close-stem-cell-units-seattle-site-layoffs-incoming": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/medtech/click-hits-cut-workforce-after-commercial-deal-changeup": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/pharma/novo-taps-openai-deploy-ai-across-rd-manufacturing-and-corporate-functions": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug": {
+      "relevant": true,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/biotech/takeda-terminates-mrna-research-pact-japanese-drug-discovery-specialist": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/medtech/stryker-makes-buy-avalon-go-private-spate-medtech-ma-deals": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/biotech/eli-lilly-lassoes-texas-adc-specialist-crossbridge-bio-300m": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
+    },
+    "https://www.fiercebiotech.com/medtech/alamar-biosciences-files-ipo-amid-opening-life-sciences-funding-window": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.374Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -6077,6 +6169,10 @@
     "https://openai.com/index/cloudflare-openai-agent-cloud": {
       "relevant": false,
       "checkedAt": "2026-04-13T14:08:52.826Z"
+    },
+    "https://openai.com/index/scaling-trusted-access-for-cyber-defense": {
+      "relevant": false,
+      "checkedAt": "2026-04-15T08:21:21.841Z"
     }
   }
 }

@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 11:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 08:21:21 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 11:19:25 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 08:21:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Australia’s Kazia pays research institute $1.4M for epigenetic platform, preclinical drug]]></title>
+            <description><![CDATA[Kazia Therapeutics is paying $1.4 million upfront to secure a platform for generating epigenetic drugs from an Australian research institute.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</guid>
+        </item>
         <item>
             <title><![CDATA[Harbinger Health raises $100M for new suite of blood-based cancer detection tests]]></title>
             <description><![CDATA[Harbinger Health has grabbed $100 million in its latest funding round as the company reveals a new Resolve in its cancer detection work.]]></description>
@@ -32,18 +38,6 @@
             <description><![CDATA[With its latest obesity play appearing to pay off, Regeneron has turned its attention to radiopharmaceuticals.]]></description>
             <link>https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</guid>
-        </item>
-        <item>
-            <title><![CDATA[In a first, a CAR-T cell therapy drives 3 autoimmune diseases into remission in a single patient]]></title>
-            <description><![CDATA[A CAR-T cell therapy has successfully treated not one, not two, but three different autoimmune diseases at once in a patient, providing further proof of the modality’s promise in the disease area as a likely first approval fast approaches.]]></description>
-            <link>https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/research/first-car-t-cell-therapy-drives-3-autoimmune-diseases-remission-once</guid>
-        </item>
-        <item>
-            <title><![CDATA[Gilead pays Kymera $45M to glue preclinical protein degrader onto burgeoning oncology pipeline]]></title>
-            <description><![CDATA[Gilead has tucked another drug candidate into a pipeline bulging from a recent deal flurry, paying $45 million to exercise its option on Kymera Therapeutics’ preclinical anticancer molecular glue degrader.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/gilead-pays-kymera-45m-glue-preclinical-protein-degrader-burgeoning-oncology-pipeline</guid>
         </item>
     </channel>
 </rss>
