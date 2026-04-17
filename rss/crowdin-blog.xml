@@ -4,15 +4,29 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:36:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 08:21:21 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 10:36:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[Crowdin Dreams]]></title>
+            <description><![CDATA[Every night, while you sleep, your brain does something remarkable. It replays the day to extract signal from noise and form long-term memory. Raw sensory data gets compressed into patterns. Patterns become rules. Rules become the intuition you wake up with. Neuroscientists call this memory consolidation. We call it dreams. Crowdin has been observing recent developments in AI coding tools and we figured out that the very same principle might work for Crowdin. Every time a human editor corrects…]]></description>
+            <link>https://crowdin.com/blog/crowdin-dreams</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/crowdin-dreams</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Scalable Language Operations: A Framework for Global Communication Success]]></title>
+            <description><![CDATA[Today more than ever, businesses must communicate across borders and languages to engage diverse audiences. As companies expand into new regions, the need for efficient and scalable language solutions becomes more critical than ever. However, achieving effective multilingual communication isn’t as simple as just translating content. It requires an integrated, strategic approach: Language Operations (LangOps). LangOps goes beyond mere translation – it is a comprehensive framework for managing…]]></description>
+            <link>https://crowdin.com/blog/scalable-language-operations-strategy</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/scalable-language-operations-strategy</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Hypixel Studios Localizes Hytale with Its Players]]></title>
@@ -90,20 +104,6 @@
             <link>https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</link>
             <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</guid>
             <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's New at Crowdin: February 2026]]></title>
-            <description><![CDATA[Our release announcements are getting a makeover. Starting now, we’ll be highlighting some features in "What’s New" summaries, while major updates will now have their own separate posts. This shift ensures we can give you more depth and share important updates the moment they drop. Expect the first of these separate announcements to arrive in just a few days! This February, we released Crowdin CLI 4.14.0, which uses AI and our new Crowdin Skills to pull context directly from your code. This…]]></description>
-            <link>https://crowdin.com/blog/whats-new-at-crowdin-february-2026</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-february-2026</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 Pillars of a Scalable B2B SaaS Localization Program]]></title>
-            <description><![CDATA[When B2B SaaS companies talk about going global, what they often mean is: send content in, get translations out, and hope for the best. In reality, that approach breaks the moment you try to scale. In this episode of The Agile Localization Podcast, host Stefan Huyghe is joined by Nicola Calabrese, the Founder of Undertow, to dive into how B2B SaaS companies can build structured, scalable localization programs powered by AI. With more than a decade in software localization, SEO, and process…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-nicola-calabrese</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-nicola-calabrese</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

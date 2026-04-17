@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:36:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 08:21:21 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 10:36:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The leadership gap holding back enterprise AI]]></title>
+            <description><![CDATA[Enterprise AI is advancing fast, but many organizations are failing to translate experimentation into real advantage. Alvarez & Marsal’s Raf Postepski explains why success depends on leadership, strategy, and redesigning…Read more]]></description>
+            <link>https://phrase.com/blog/posts/leadership-gap-enterprise-ai-transformation/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/leadership-gap-enterprise-ai-transformation/</guid>
+        </item>
         <item>
             <title><![CDATA[Loc360°: What global content leaders are talking about in 2026]]></title>
             <description><![CDATA[Across five global cities, content and localization leaders are rethinking how their work drives business impact. From shifting perceptions of value to navigating AI and data challenges, these are the…Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[Subtitles are more than text on screen. Explore why segmentation, typography, and AI make automatic subtitling far more complex than it first appears.Read more]]></description>
             <link>https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Build or buy? You’re probably asking the wrong question]]></title>
-            <description><![CDATA[Building a translation prototype is easy. Making it work at scale is another story. This article explores why most organizations succeed with a hybrid approach: buy the infrastructure and build…Read more]]></description>
-            <link>https://phrase.com/blog/posts/build-vs-buy-translation-platform/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/build-vs-buy-translation-platform/</guid>
         </item>
     </channel>
 </rss>

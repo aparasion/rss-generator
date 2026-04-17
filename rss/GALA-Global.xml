@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:36:47 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 08:21:22 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 10:36:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Creative Words and Webvisibility partner to support multilingual GEO strategies]]></title>
+            <description><![CDATA[Creative Words is pleased to announce its partnership with Webvisibility, an Italian search and web analytics agency specializing in digital visibility strategies, search marketing, and AI-powered search optimization. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/creative-words-and-webvisibility-partner-to-support-multilingual-geo-strategies</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/creative-words-and-webvisibility-partner-to-support-multilingual-geo-strategies</guid>
+        </item>
         <item>
             <title><![CDATA[LEO's 13th International Virtual Conference]]></title>
             <description><![CDATA[Register for the upcoming conference on 25-26 June. This year’s theme, “We Are Here To Stay: The Irreplaceable Language Industry,” reflects the critical and evolving role of interpreters, translators, and all language professionals in today’s dynamic landscape. Early bird closes 30 April. Continue Reading]]></description>
@@ -62,12 +68,6 @@
             <description><![CDATA[The Think Global Awards has announced the 2026 honorees, recognizing outstanding global achievement across leadership, language, and artificial intelligence. Their work highlights the importance of international collaboration, cultural understanding, and responsible innovation. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/think-global-awards-announces-2026-honorees-in-leadership-language-and-ai-impact</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/think-global-awards-announces-2026-honorees-in-leadership-language-and-ai-impact</guid>
-        </item>
-        <item>
-            <title><![CDATA[Ciklopea Achieves ISO 13485 Certification]]></title>
-            <description><![CDATA[Ciklopea, a distinguished European provider of translation and localization services, has just received a globally recognised quality standard for the medical device industry - ISO 13485 certification. The company has also passed expert audits for ISO 9001, ISO 17100, and ISO 18587. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/ciklopea-achieves-iso-13485-certification</guid>
         </item>
         <item>
             <title><![CDATA[GALA Annual Survey 2026 Findings]]></title>

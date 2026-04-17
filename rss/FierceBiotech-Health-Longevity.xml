@@ -4,40 +4,40 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 08:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 10:36:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 08:21:21 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 10:36:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[A new benchmark for biotech IPOs? Kailera raises $625M to fund obesity pipeline]]></title>
+            <description><![CDATA[Kailera Therapeutics appears to have set a new benchmark for biotech IPOs with an upsized $625 million offering to fund its pipeline of obesity therapies.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</guid>
+        </item>
+        <item>
+            <title><![CDATA['Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again]]></title>
+            <description><![CDATA[The anti-amyloid drug class has yielded some FDA approvals and plenty of failed candidates. Now, researchers are looking at the overall track record of the group and painting an unpleasant picture about the efficacy of these drugs.]]></description>
+            <link>https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question</guid>
+        </item>
+        <item>
+            <title><![CDATA[Rare Disease Research, myTomorrows team up to help patients access trials]]></title>
+            <description><![CDATA[Clinical trial site network Rare Disease Research (RDR) is partnering with health tech company myTomorrows to increase trial visibility and support more referrals from community and specialist care settings for rare disease trials.]]></description>
+            <link>https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access</guid>
+        </item>
+        <item>
+            <title><![CDATA[Labcorp launches rapid fentanyl test with 48-hour detection window]]></title>
+            <description><![CDATA[While fentanyl overdose deaths have been falling in recent years, use of the drug remains a major public health crisis in the U.S., and now Labcorp is launching a new test designed to detect the drug’s use for up to 48 hours after exposure.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</guid>
+        </item>
         <item>
             <title><![CDATA[Australia’s Kazia pays research institute $1.4M for epigenetic platform, preclinical drug]]></title>
             <description><![CDATA[Kazia Therapeutics is paying $1.4 million upfront to secure a platform for generating epigenetic drugs from an Australian research institute.]]></description>
             <link>https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</guid>
-        </item>
-        <item>
-            <title><![CDATA[Harbinger Health raises $100M for new suite of blood-based cancer detection tests]]></title>
-            <description><![CDATA[Harbinger Health has grabbed $100 million in its latest funding round as the company reveals a new Resolve in its cancer detection work.]]></description>
-            <link>https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/harbinger-health-raises-100m-new-suite-blood-based-cancer-detection-tests</guid>
-        </item>
-        <item>
-            <title><![CDATA[Kailera outlines plans for $528.5M IPO to support quartet of Chinese obesity assets]]></title>
-            <description><![CDATA[Kailera is taking another step into the competitive obesity market by aiming to raise up to $528.5 million via a Nasdaq IPO, with proceeds intended to advance its GLP-1 assets through clinical development.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-shares-details-5285-million-ipo-support-quartet-chinese-obesity-assets</guid>
-        </item>
-        <item>
-            <title><![CDATA[Biotech Giants and Investors Gather to Solve the Commercialisation Puzzle This May in Hong Kong]]></title>
-            <description><![CDATA[Join global leaders at ASGH 2026 to bridge the gap between lab breakthroughs and market execution while unlocking growth in Asia’s health economy.]]></description>
-            <link>https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/sponsored/biotech-giants-and-investors-gather-solve-commercialisation-puzzle-may-hong-kong</guid>
-        </item>
-        <item>
-            <title><![CDATA[Regeneron rides into radiopharma via $2.1B biobucks pact with Australia’s Telix]]></title>
-            <description><![CDATA[With its latest obesity play appearing to pay off, Regeneron has turned its attention to radiopharmaceuticals.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/regeneron-rides-radiopharma-21b-biobucks-pact-australias-telix</guid>
         </item>
     </channel>
 </rss>
