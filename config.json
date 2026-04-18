@@ -35,15 +35,20 @@
     "descriptionSelector": "p.lok-text-body-regular-medium",
     "dateSelector": ".lok-text-body-small"
   },
-   {
+  {
     "name": "multilingual_com",
     "url": "https://multilingual.com/news/",
     "articleSelector": ".td_module_2.td_module_wrap.td-animation-stack",
     "titleSelector": ".entry-title.td-module-title",
     "linkSelector": "a.entry-title.td-module-title",
-    "descriptionSelector": ".td_module_2.td_module_wrap.td-animation-stack.td-excerpt",
-    "dateSelector": ".entry-date.updated.td-module-date"
-    },
+    "descriptionSelector": ".td-excerpt",
+    "dateSelector": ".entry-date.updated.td-module-date",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.9"
+    }
+  },
   {
     "name": "crowdin-blog",
     "url": "https://crowdin.com/blog",
