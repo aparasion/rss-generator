@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T13:41:55.228Z",
+  "generatedAt": "2026-04-18T13:46:49.169Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -20,6 +20,11 @@
       "name": "lokalise-blog",
       "sourceUrl": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml"
+    },
+    {
+      "name": "multilingual_com",
+      "sourceUrl": "https://multilingual.com/news/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/multilingual_com.xml"
     },
     {
       "name": "crowdin-blog",
@@ -55,11 +60,6 @@
       "name": "OpenAI-News-L10N",
       "sourceUrl": "https://openai.com/news/rss.xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml"
-    },
-    {
-      "name": "Multilingual_com",
-      "sourceUrl": "https://multilingual.com/news/",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/Multilingual_com.xml"
     }
   ]
 }
