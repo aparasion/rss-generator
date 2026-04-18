@@ -164,12 +164,13 @@ function saveSeenCache(cache) {
  * or { html: string } on success.
  * Throws on permanent failure.
  */
-async function fetchPage(url, httpCache) {
+async function fetchPage(url, httpCache, extraHeaders = {}) {
   const cached = httpCache[url] || {};
   const reqHeaders = {
     "User-Agent": getRandomUserAgent(),
     Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
+    ...extraHeaders,
   };
   if (cached.etag) reqHeaders["If-None-Match"] = cached.etag;
   if (cached.lastModified) reqHeaders["If-Modified-Since"] = cached.lastModified;
@@ -504,7 +505,7 @@ async function processRssFeed(site, httpCache, seenCache) {
 
   if (site.contentFilter && !seenCache[site.name]) seenCache[site.name] = {};
 
-  let fetchResult = await fetchPage(site.url, httpCache);
+  let fetchResult = await fetchPage(site.url, httpCache, site.headers);
 
   if (fetchResult.notModified) {
     const outputPath = path.join(rssDir, `${site.name}.xml`);
@@ -524,7 +525,7 @@ async function processRssFeed(site, httpCache, seenCache) {
       delete httpCache[site.url].etag;
       delete httpCache[site.url].lastModified;
     }
-    fetchResult = await fetchPage(site.url, httpCache);
+    fetchResult = await fetchPage(site.url, httpCache, site.headers);
   }
 
   const $ = cheerio.load(fetchResult.html, { xmlMode: true });
@@ -640,7 +641,7 @@ async function processSite(site, httpCache, seenCache) {
   // Per-site seen map — mutated in place and persisted by the caller.
   if (site.contentFilter && !seenCache[site.name]) seenCache[site.name] = {};
 
-  let fetchResult = await fetchPage(site.url, httpCache);
+  let fetchResult = await fetchPage(site.url, httpCache, site.headers);
 
   if (fetchResult.notModified) {
     const outputPath = path.join(rssDir, `${site.name}.xml`);
@@ -661,7 +662,7 @@ async function processSite(site, httpCache, seenCache) {
       delete httpCache[site.url].etag;
       delete httpCache[site.url].lastModified;
     }
-    fetchResult = await fetchPage(site.url, httpCache);
+    fetchResult = await fetchPage(site.url, httpCache, site.headers);
   }
 
   const $ = cheerio.load(fetchResult.html);
