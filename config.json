@@ -235,5 +235,14 @@
       "checkFullContent": false,
       "maxScan": 100
     }
-  }
+  },
+    {
+    "name": "Multilingual_com",
+    "url": "https://multilingual.com/news/",
+    "articleSelector": ".td_module_2.td_module_wrap.td-animation-stack",
+    "titleSelector": ".entry-title.td-module-title",
+    "linkSelector": "a.entry-title.td-module-title",
+    "descriptionSelector": ".td_module_2.td_module_wrap.td-animation-stack.td-excerpt",
+    "dateSelector": ".entry-date.updated.td-module-date"
+    }
 ]
