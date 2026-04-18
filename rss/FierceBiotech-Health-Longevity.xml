@@ -4,13 +4,25 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 10:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:41:44 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 10:36:45 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:41:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[A new benchmark for biotech IPOs? Kailera raises $625M to fund obesity pipeline]]></title>
+            <title><![CDATA[Chutes & Ladders—Metsera acquisition architect swings to Structure]]></title>
+            <description><![CDATA[After helping guide Metsera through its high-profile, $10 billion acquisition by Pfizer last year, Matthew Lang is swinging over to a different obesity biotech as chief operating officer and general counsel at Structure Therapeutics.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure</guid>
+        </item>
+        <item>
+            <title><![CDATA[Roivant’s CEO thinks China is a ‘red herring’]]></title>
+            <description><![CDATA[China’s biotech rise has been a persistent concern for federal health leaders, Congress, and many biopharma executives. But to Roivant CEO Matt Gline, the country is nothing more than a red herring.&nbsp;]]></description>
+            <link>https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring</guid>
+        </item>
+        <item>
+            <title><![CDATA[Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO]]></title>
             <description><![CDATA[Kailera Therapeutics appears to have set a new benchmark for biotech IPOs with an upsized $625 million offering to fund its pipeline of obesity therapies.]]></description>
             <link>https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</guid>
@@ -32,12 +44,6 @@
             <description><![CDATA[While fentanyl overdose deaths have been falling in recent years, use of the drug remains a major public health crisis in the U.S., and now Labcorp is launching a new test designed to detect the drug’s use for up to 48 hours after exposure.]]></description>
             <link>https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</guid>
-        </item>
-        <item>
-            <title><![CDATA[Australia’s Kazia pays research institute $1.4M for epigenetic platform, preclinical drug]]></title>
-            <description><![CDATA[Kazia Therapeutics is paying $1.4 million upfront to secure a platform for generating epigenetic drugs from an Australian research institute.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/australias-kazia-pays-research-institute-14m-epigenetic-platform-preclinical-drug</guid>
         </item>
     </channel>
 </rss>

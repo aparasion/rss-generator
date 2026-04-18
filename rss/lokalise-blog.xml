@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 10:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:41:46 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 10:36:46 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:41:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The Localization Mistakes Marketers Wish They Could Take Back]]></title>
+            <description><![CDATA[Your campaign killed it at home. Then you launched it in Brazil, and the tagline became a punchline. Sound familiar? Nearly 3 in 10 marketing and company leaders say it's happened to them, and the cleanup cost thousands of dollars. Lokalise surveyed 392 marketing and sales leaders who localize content across multiple countries and languages to find out what actually goes wrong, and what they'd do differently. What came back wasn't a polished post-mortem. It was an honest reckoning from]]></description>
+            <link>https://lokalise.com/blog/localization-regrets-and-best-practices/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/localization-regrets-and-best-practices/</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Localized Brands Are Winning AI Search]]></title>
             <description><![CDATA[You're optimizing for AI search. But are you doing it in every language that matters? We surveyed 1,000 global marketing, SEO, and localization leaders and found that brands investing in localized content are already seeing stronger AI search visibility. Meanwhile, companies that haven't started optimizing say budget is the biggest thing holding them back. Here's what the data shows. Key takeaways 63% of global companies a]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/best-translation-memory-tools/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/best-translation-memory-tools/</guid>
             <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fine-tuning trap in AI translation]]></title>
-            <description><![CDATA[Fine-tuning sounds like the clean way to improve AI translation quality. You train the model on your content with the expectation it’ll learn your style. In practice, generic fine-tuning is where enterprise translation programs get stuck. The issue is, the model absorbs everything in the training mix. This includes old releases, mixed brands, and inconsistent phrasing, which means you end up with contextual contamination. That’s when the model starts making confident ch]]></description>
-            <link>https://lokalise.com/blog/fine-tuning-trap-ai-translation-context/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/fine-tuning-trap-ai-translation-context/</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T10:36:54.811Z",
+  "generatedAt": "2026-04-18T13:41:55.228Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -55,6 +55,11 @@
       "name": "OpenAI-News-L10N",
       "sourceUrl": "https://openai.com/news/rss.xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml"
+    },
+    {
+      "name": "Multilingual_com",
+      "sourceUrl": "https://multilingual.com/news/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/Multilingual_com.xml"
     }
   ]
 }

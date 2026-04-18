@@ -2089,6 +2089,22 @@
     "https://www.nature.com/articles/d41586-026-01238-9": {
       "relevant": false,
       "checkedAt": "2026-04-17T10:36:45.702Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01263-8": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.865Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01245-w": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.865Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01251-y": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.865Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01265-6": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.865Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -2731,6 +2747,34 @@
     "https://www.fiercebiotech.com/biotech/bain-backed-beeline-medicines-buzzes-out-stealth-300m-and-5-programs-bms": {
       "relevant": false,
       "checkedAt": "2026-04-17T10:36:45.714Z"
+    },
+    "https://www.fiercebiotech.com/biotech/fda-veteran-pazdur-bemoans-state-agency-warns-political-influence": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.824Z"
+    },
+    "https://www.fiercebiotech.com/biotech/merck-debuts-pd-1xvegf-bispecific-data-nsclc-remains-tight-lipped-phase-3-plans": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
+    },
+    "https://www.fiercebiotech.com/biotech/ucbs-115b-deal-neurona-touches-several-ambitions-including-strategic-expansion-advanced": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
+    },
+    "https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure": {
+      "relevant": true,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
+    },
+    "https://www.fiercebiotech.com/biotech/openai-launches-biotech-specific-ai-model-gpt-rosalind": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
+    },
+    "https://www.fiercebiotech.com/medtech/abbott-lowers-eps-guidance-exact-sciences-buy-shares-slide": {
+      "relevant": false,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
+    },
+    "https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring": {
+      "relevant": true,
+      "checkedAt": "2026-04-18T13:41:44.825Z"
     }
   },
   "OpenAI-News-L10N": {

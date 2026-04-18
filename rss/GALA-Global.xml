@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 10:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:41:46 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 10:36:47 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:41:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -46,12 +46,6 @@
             <guid isPermaLink="true">https://www.gala-global.org/news/bridging-linguistic-accuracy-and-technical-precision-in-subtitling-and-dubbing</guid>
         </item>
         <item>
-            <title><![CDATA[The BerlinReady Guide for the WorldReady Conference]]></title>
-            <description><![CDATA[Berlin-based GALA member Plunet prepared a guide for the WorldReady Conference attendees. Discover local foods and sites, learn local customs, and plan your sightseeing around the event. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/berlinready-guide-for-the-worldready-conference</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/berlinready-guide-for-the-worldready-conference</guid>
-        </item>
-        <item>
             <title><![CDATA[Wessence Language Lab Launches as a Language & Multimedia Partner for Life Sciences and Gaming]]></title>
             <description><![CDATA[Launched in January 2026, Wessence Language Lab enters the global market with a differentiated model: delivering compliance-driven language solutions integrated with in-house multimedia production — from translation and localization through final digital media output. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/wessence-language-lab-launches-as-an-end-to-end-language-and-multimedia-partner</link>
@@ -80,6 +74,12 @@
             <description><![CDATA[AsLing invites submissions for the 47th edition of the Translating and the Computer Conference (TC47), to be held from 8 to 10 December 2026 in Luxembourg. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/call-for-presentations-for-the-translating-and-the-computer-conference</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/call-for-presentations-for-the-translating-and-the-computer-conference</guid>
+        </item>
+        <item>
+            <title><![CDATA[Digitaldrop and Adept Complete Merger to Accelerate "Borderless Digital Shift" in Global Marketing]]></title>
+            <description><![CDATA[We are pleased to announce that Digitaldrop Inc, and Adept Corporation have integrated our management resources to strengthen our business foundation and expand our service capabilities. We have re-started operations as the new “Digitaldrop Inc,". Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/digitaldrop-and-adept-complete-merger-to-accelerate-borderless-digital-shift-in-global-marketing</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/digitaldrop-and-adept-complete-merger-to-accelerate-borderless-digital-shift-in-global-marketing</guid>
         </item>
     </channel>
 </rss>
