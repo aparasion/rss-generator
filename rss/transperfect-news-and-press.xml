@@ -4,24 +4,61 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:07:09 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[International Search Summit]]></title>
-            <description><![CDATA[3 tracks packed full of the latest trends, tactics and strategies for international SEO, PPC and content marketing.]]></description>
-            <link>https://www.transperfect.com/blog/international-search-summit</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/international-search-summit</guid>
-            <pubDate>Thu, 13 Nov 2025 12:00:00 GMT</pubDate>
+            <title><![CDATA[Webinar: Rethinking Data Collection in AI]]></title>
+            <description><![CDATA[Join Alexandros Poulis and Radosław Jeż for a DataForce Live session on how leading teams are rethinking their approach to data, and why it’s becoming a competitive advantage.]]></description>
+            <link>https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</guid>
+            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LegalNEXT in NYC 2025]]></title>
-            <description><![CDATA[LegalNEXT is TransPerfect Legal’s premier one-day conference bringing together the brightest minds in the legal industry across function and practice area.]]></description>
-            <link>https://www.transperfect.com/blog/legalnext</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/legalnext</guid>
-            <pubDate>Wed, 22 Oct 2025 12:00:00 GMT</pubDate>
+            <title><![CDATA[C3 Summit London]]></title>
+            <description><![CDATA[C3 Summit (Conversations on Clinical Content) is part of a series of events that offers sponsors, CROs, and biotech professionals opportunities to share knowledge, gain industry insights, and network.]]></description>
+            <link>https://www.transperfect.com/blog/c3-summit-london</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/c3-summit-london</guid>
+            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Mountain Challenge]]></title>
+            <description><![CDATA[The TransPerfect Mountain Challenge is an initiative dedicated to supporting AFANOC, a nonprofit organization that provides comprehensive psychosocial care to families with children or adolescents battling cancer.]]></description>
+            <link>https://www.transperfect.com/blog/transperfect-mountain-challenge</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/transperfect-mountain-challenge</guid>
+            <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Returns as Official Partner of the Cannes Film Festival]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-returns-official-partner-cannes-film-festival</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-returns-official-partner-cannes-film-festival</guid>
+            <pubDate>Thu, 07 May 2026 16:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Releases 2026 Business Outlook Report: AI Is Now the Standard for Global Content Operations]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-releases-2026-business-outlook-report-ai-now-standard-global-content</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-releases-2026-business-outlook-report-ai-now-standard-global-content</guid>
+            <pubDate>Tue, 05 May 2026 14:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Legal Expands Construction Disputes Practice Group in Asia-Pacific]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-legal-expands-construction-disputes-practice-group-asia-pacific</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-expands-construction-disputes-practice-group-asia-pacific</guid>
+            <pubDate>Thu, 30 Apr 2026 16:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haas Automation Selects TransPerfect’s GlobalLink Connector for HubSpot]]></title>
+            <link>https://www.transperfect.com/about/press/haas-automation-selects-transperfects-globallink-connector-hubspot</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/haas-automation-selects-transperfects-globallink-connector-hubspot</guid>
+            <pubDate>Wed, 29 Apr 2026 13:11:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MPC Paris Delivers VFX and Image Post-Production for STUDIOCANAL’S Cold Storage]]></title>
+            <link>https://www.transperfect.com/about/press/mpc-paris-delivers-vfx-and-image-post-production-studiocanals-cold-storage</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/mpc-paris-delivers-vfx-and-image-post-production-studiocanals-cold-storage</guid>
+            <pubDate>Thu, 23 Apr 2026 13:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TransPerfect Acquires Studio Emme]]></title>
@@ -94,42 +131,6 @@
             <link>https://www.transperfect.com/about/press/transperfect-legal-strengthens-global-team-new-key-hires-seattle-and-dubai</link>
             <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-strengthens-global-team-new-key-hires-seattle-and-dubai</guid>
             <pubDate>Mon, 01 Dec 2025 20:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MPC Paris Oversees VFX and Picture Post-Production for Netflix’s Néro the Assassin]]></title>
-            <link>https://www.transperfect.com/about/press/mpc-paris-oversees-vfx-and-picture-post-production-netflixs-nero-assassin</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/mpc-paris-oversees-vfx-and-picture-post-production-netflixs-nero-assassin</guid>
-            <pubDate>Mon, 01 Dec 2025 20:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Legal Earns Top eDiscovery Recognition by Australasian Lawyer for Fourth Consecutive Year]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-legal-earns-top-ediscovery-recognition-australasian-lawyer-fourth</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-earns-top-ediscovery-recognition-australasian-lawyer-fourth</guid>
-            <pubDate>Tue, 18 Nov 2025 19:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Launches Operations in Saudi Arabia]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-launches-operations-saudi-arabia</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-launches-operations-saudi-arabia</guid>
-            <pubDate>Mon, 10 Nov 2025 15:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adweek: The Mill Returns Under New Owner With Global Expansion Plans]]></title>
-            <link>https://www.transperfect.com/about/news/adweek-mill-returns-under-new-owner-global-expansion-plans</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/news/adweek-mill-returns-under-new-owner-global-expansion-plans</guid>
-            <pubDate>Thu, 30 Oct 2025 02:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Recognized for Automotive Marketing and Global Services at China’s Auto Digital Awards]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-recognized-automotive-marketing-and-global-services-chinas-auto-digital</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-recognized-automotive-marketing-and-global-services-chinas-auto-digital</guid>
-            <pubDate>Thu, 16 Oct 2025 14:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Digital Wins 2025 Drum Award]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-digital-wins-2025-drum-award</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-digital-wins-2025-drum-award</guid>
-            <pubDate>Thu, 09 Oct 2025 13:13:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,46 +4,34 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 13:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 13:41:44 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Chutes & Ladders—Metsera acquisition architect swings to Structure]]></title>
-            <description><![CDATA[After helping guide Metsera through its high-profile, $10 billion acquisition by Pfizer last year, Matthew Lang is swinging over to a different obesity biotech as chief operating officer and general counsel at Structure Therapeutics.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/chutes-ladders-metsera-acquisition-architect-swings-structure</guid>
+            <title><![CDATA[Amid M&A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data]]></title>
+            <description><![CDATA[Adding Inhibrx Biosciences’ OX40 agonist to Keytruda doubled the response rate in a midphase clinical trial, encouraging the biotech to advance a program that reportedly attracted the interest of Merck &amp; Co.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data</guid>
         </item>
         <item>
-            <title><![CDATA[Roivant’s CEO thinks China is a ‘red herring’]]></title>
-            <description><![CDATA[China’s biotech rise has been a persistent concern for federal health leaders, Congress, and many biopharma executives. But to Roivant CEO Matt Gline, the country is nothing more than a red herring.&nbsp;]]></description>
-            <link>https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/roivants-ceo-thinks-china-red-herring</guid>
+            <title><![CDATA[New Hepta blood test could predict GLP-1 response]]></title>
+            <description><![CDATA[While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response</guid>
         </item>
         <item>
-            <title><![CDATA[Kailera CEO 'knew we were in a good spot' before obesity biotech's record-breaking $625M IPO]]></title>
-            <description><![CDATA[Kailera Therapeutics appears to have set a new benchmark for biotech IPOs with an upsized $625 million offering to fund its pipeline of obesity therapies.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kailera-raises-head-turning-625m-ipo-fund-obesity-pipeline</guid>
+            <title><![CDATA[A protective gene sent to the liver cleared amyloid from mouse brains, sparking hope for an Alzheimer’s gene therapy]]></title>
+            <description><![CDATA[The calling card of Alzheimer’s disease is a buildup of misfolded amyloid protein in the brain, but many medicines struggle to penetrate the barrier protecting the mind from outside interference. A new study suggests that crossing the blood-brain barrier might not be necessary at all to clear amyloid plaques—and that a one-time gene therapy could one day prove an effective treatment for the devastating neurodegenerative disease.]]></description>
+            <link>https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene</guid>
         </item>
         <item>
-            <title><![CDATA['Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again]]></title>
-            <description><![CDATA[The anti-amyloid drug class has yielded some FDA approvals and plenty of failed candidates. Now, researchers are looking at the overall track record of the group and painting an unpleasant picture about the efficacy of these drugs.]]></description>
-            <link>https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/pharma/absent-or-trivial-effects-anti-amyloid-alzheimers-drugs-called-question</guid>
-        </item>
-        <item>
-            <title><![CDATA[Rare Disease Research, myTomorrows team up to help patients access trials]]></title>
-            <description><![CDATA[Clinical trial site network Rare Disease Research (RDR) is partnering with health tech company myTomorrows to increase trial visibility and support more referrals from community and specialist care settings for rare disease trials.]]></description>
-            <link>https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/cro/rare-disease-research-and-mytomorrows-partner-rare-disease-clinical-trial-access</guid>
-        </item>
-        <item>
-            <title><![CDATA[Labcorp launches rapid fentanyl test with 48-hour detection window]]></title>
-            <description><![CDATA[While fentanyl overdose deaths have been falling in recent years, use of the drug remains a major public health crisis in the U.S., and now Labcorp is launching a new test designed to detect the drug’s use for up to 48 hours after exposure.]]></description>
-            <link>https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/labcorp-launches-speedy-new-fentanyl-test</guid>
+            <title><![CDATA[Antibodies that stop measles from stabbing cells could become new treatments for the surging virus, study suggests]]></title>
+            <description><![CDATA[Though a measles vaccine has existed for more than 60 years, much still remains unknown about how exactly the shot generates protection against the virus. Now, scientists have turned to the immune systems of vaccinated people to dig up answers—and their findings may lead to new medicines against the resurgent disease.]]></description>
+            <link>https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study</guid>
         </item>
     </channel>
 </rss>

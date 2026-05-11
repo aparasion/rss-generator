@@ -4,24 +4,45 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 13:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:23 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 13:41:46 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[The Localization Mistakes Marketers Wish They Could Take Back]]></title>
+            <title><![CDATA[7 AI tools your localization team needs to master in the GenAI era]]></title>
+            <description><![CDATA[GenAI isn’t just changing how translations are produced. It’s reshaping the entire localization workflow. Most teams didn’t build their workflows for this shift. They’re still relying on a mix of spreadsheets, standalone MT engines, and manual file handoffs. It’s familiar, and for a while, it worked. But it was never designed for the scale teams are dealing with now.]]></description>
+            <link>https://lokalise.com/blog/ai-tools-for-localization-teams/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/ai-tools-for-localization-teams/</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Localization audit trail: how to track, monitor, and govern translation changes]]></title>
+            <description><![CDATA[A translation changed, but no one knows who did it or when. The release is already live. What do you do? When multiple contributors work on the same project, there’s a good chance that strings get edited, approved, overwritten, or renamed. Without a clear localization audit trail, small changes turn into production issues, and tracking them down takes time you don’t have. This lack of visibility slows you down significantly. It makes troubleshooting harder, weakens accountability,]]></description>
+            <link>https://lokalise.com/blog/localization-key-governance-audit-trail/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/localization-key-governance-audit-trail/</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI translation with glossary support: Deterministic terminology for LLMs]]></title>
+            <description><![CDATA[LLMs are fluent in generating outputs, but they're not faithful to your brand. When a general-purpose LLM translates your product UI into 15 languages, it doesn't know which terms are trademarked, which phrases have legal restrictions, or which features are deprecated. It makes a statistical guess. At scale, this guesswork can lead to major inconsistencies, compliance risks, and a post-editing overload. The challenge: AI models’ probabilistic outputs are not ideal]]></description>
+            <link>https://lokalise.com/blog/ai-translation-glossary/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/ai-translation-glossary/</guid>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The localization mistakes marketers wish they could take back]]></title>
             <description><![CDATA[Your campaign killed it at home. Then you launched it in Brazil, and the tagline became a punchline. Sound familiar? Nearly 3 in 10 marketing and company leaders say it's happened to them, and the cleanup cost thousands of dollars. Lokalise surveyed 392 marketing and sales leaders who localize content across multiple countries and languages to find out what actually goes wrong, and what they'd do differently. What came back wasn't a polished post-mortem. It was an honest reckoning from]]></description>
             <link>https://lokalise.com/blog/localization-regrets-and-best-practices/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/localization-regrets-and-best-practices/</guid>
-            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Localized Brands Are Winning AI Search]]></title>
+            <title><![CDATA[Localized brands are winning AI search]]></title>
             <description><![CDATA[You're optimizing for AI search. But are you doing it in every language that matters? We surveyed 1,000 global marketing, SEO, and localization leaders and found that brands investing in localized content are already seeing stronger AI search visibility. Meanwhile, companies that haven't started optimizing say budget is the biggest thing holding them back. Here's what the data shows. Key takeaways 63% of global companies a]]></description>
             <link>https://lokalise.com/blog/localized-brands-ai-search-visibility/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/localized-brands-ai-search-visibility/</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Your AEO strategy is invisible to almost 80% of the world]]></title>
@@ -43,27 +64,6 @@
             <link>https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</guid>
             <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The global expansion reality check: Where localization is costing companies revenue]]></title>
-            <description><![CDATA[Global expansion is back on the table for 2026. But many teams are moving into new markets faster than their localization strategy can keep up. To see how companies are actually preparing for international growth, Lokalise surveyed 500 global business leaders. What we found was a gap between intention and execution, especially around translation quality, regional investment, and budget priorities. For product, marketing, and growth leaders, the takeaway is straightforward: localiz]]></description>
-            <link>https://lokalise.com/blog/global-expansion-localization-revenue-gap/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/global-expansion-localization-revenue-gap/</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Headless CMS localization tools: Build a hands-off translation workflow]]></title>
-            <description><![CDATA[Headless CMS platforms are built for speed. You publish once, every frontend updates. But then localization shows up, and the “fast” stack suddenly depends on a rather slow routine: export strings, email a file, chase approvals, import, fix broken formatting, repeat. If you’re a developer or content manager, you’ve felt the cost. Releases slip and translators work from stale content without even knowing it. Engineers get pulled into one-off fixes. Users end up seeing mixed terminology a]]></description>
-            <link>https://lokalise.com/blog/headless-cms-localization-tools/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/headless-cms-localization-tools/</guid>
-            <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 best translation memory software for every use case]]></title>
-            <description><![CDATA[Every time you launch a new campaign, you have to translate everything across multiple languages — product UI, marketing pages, help docs, and more. Without translation memory, translators start from scratch every time — even for content they've already translated. You pay full rates again. Every team uses its own terminology again. And your localization process delays market entry. Translation memory (TM) software stores every translated string as a reusable segment in a d]]></description>
-            <link>https://lokalise.com/blog/best-translation-memory-tools/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/best-translation-memory-tools/</guid>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

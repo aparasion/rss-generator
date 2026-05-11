@@ -4,11 +4,35 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:07:09 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why video localization belongs in your core workflow]]></title>
+            <description><![CDATA[For many localization teams, video still sits outside the system. Text moves through mature workflows, while audio and video rely on separate vendors, tools, and review processes. The next step…Read more]]></description>
+            <link>https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</guid>
+        </item>
+        <item>
+            <title><![CDATA[David Aaker: Why brand strength is being quietly eroded by short-term thinking]]></title>
+            <description><![CDATA[David Aaker, widely regarded as the Father of Modern Branding, explains why awareness is no longer the problem, relevance is, and why leaders who reduce brand to performance metrics are…Read more]]></description>
+            <link>https://phrase.com/blog/posts/https-phrase-com-blog-posts-auto-draft/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/https-phrase-com-blog-posts-auto-draft/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Is your content winning customers or just reaching them?]]></title>
+            <description><![CDATA[The assumption that content which reaches customers will also win them is costing global organizations more than most of their dashboards will ever show. Georg Ell, CEO of Phrase; Dr.…Read more]]></description>
+            <link>https://phrase.com/blog/posts/is-your-content-winning-customers-or-just-reaching-them/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/is-your-content-winning-customers-or-just-reaching-them/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Localization workflow automation: 10 ways modern teams scale global content]]></title>
+            <description><![CDATA[Discover ten practical localization workflow automations from CMS integration to custom MT training that reduce errors, streamline processes, and help teams scale effortlessly. Learn how automation can revolutionize your localization…Read more]]></description>
+            <link>https://phrase.com/blog/posts/localization-workflow-automations/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-workflow-automations/</guid>
+        </item>
         <item>
             <title><![CDATA[The leadership gap holding back enterprise AI]]></title>
             <description><![CDATA[Enterprise AI is advancing fast, but many organizations are failing to translate experimentation into real advantage. Alvarez & Marsal’s Raf Postepski explains why success depends on leadership, strategy, and redesigning…Read more]]></description>
@@ -38,30 +62,6 @@
             <description><![CDATA[Accessibility is shaping the future of translation tools. Learn how WCAG-aligned improvements in the Phrase CAT editor are helping linguists work faster, with greater clarity and fewer barriers.Read more]]></description>
             <link>https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Global retail challenges 2026: 7 hurdles and the strategies to overcome them]]></title>
-            <description><![CDATA[Retailers in 2026 face mounting pressure from economic uncertainty, fragile supply chains, cybersecurity threats, and rising competition from direct-to-consumer brands. This guide breaks down the key challenges shaping the global…Read more]]></description>
-            <link>https://phrase.com/blog/posts/global-retail-challenges-2026/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/global-retail-challenges-2026/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Localization and accessibility share the same mission]]></title>
-            <description><![CDATA[Localization and accessibility share a common goal: making digital content usable for everyone, regardless of language or ability. As organizations scale globally, combining both disciplines is essential to delivering inclusive,…Read more]]></description>
-            <link>https://phrase.com/blog/posts/localization-and-accessibility-global-content/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-and-accessibility-global-content/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Chris Dell: Former Booking.com exec on the hidden operating system behind global scale]]></title>
-            <description><![CDATA[Chris Dell spent 14 years building content at Booking.com, but his perspective goes far beyond volume. In this episode, he explores why content is the hidden operating system behind global…Read more]]></description>
-            <link>https://phrase.com/blog/posts/chris-dell-booking-content-global-scale-operating-system/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/chris-dell-booking-content-global-scale-operating-system/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why high-quality automatic subtitling is harder than it looks]]></title>
-            <description><![CDATA[Subtitles are more than text on screen. Explore why segmentation, typography, and AI make automatic subtitling far more complex than it first appears.Read more]]></description>
-            <link>https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/why-high-quality-automatic-subtitling-is-harder-than-it-looks/</guid>
         </item>
     </channel>
 </rss>

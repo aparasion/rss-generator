@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-18T14:07:27.483Z",
+  "generatedAt": "2026-05-11T21:15:27.609Z",
   "feeds": [
     {
       "name": "GALA-Global",
       "sourceUrl": "https://www.gala-global.org/news/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml"
+    },
+    {
+      "name": "CSA-blog",
+      "sourceUrl": "https://csa-research.com/l/blog",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/CSA-blog.xml"
     },
     {
       "name": "XTM-Blog",
@@ -20,11 +25,6 @@
       "name": "lokalise-blog",
       "sourceUrl": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml"
-    },
-    {
-      "name": "multilingual_com",
-      "sourceUrl": "https://multilingual.com/news/",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/multilingual_com.xml"
     },
     {
       "name": "crowdin-blog",

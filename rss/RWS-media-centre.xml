@@ -4,11 +4,16 @@
         <description><![CDATA[RSS feed generated for RWS-media-centre]]></description>
         <link>https://www.rws.com/about/media-centre/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:07:09 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Get started]]></title>
+            <link>https://www.rws.com/intellectual-property-solutions/obviously/</link>
+            <guid isPermaLink="true">https://www.rws.com/intellectual-property-solutions/obviously/</guid>
+        </item>
         <item>
             <title><![CDATA[Generate]]></title>
             <link>https://www.rws.com/generate/</link>
@@ -103,11 +108,6 @@
             <title><![CDATA[Legal and compliance leaders]]></title>
             <link>https://www.rws.com/roles/legal-and-compliance/</link>
             <guid isPermaLink="true">https://www.rws.com/roles/legal-and-compliance/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Marketers]]></title>
-            <link>https://www.rws.com/roles/marketing/</link>
-            <guid isPermaLink="true">https://www.rws.com/roles/marketing/</guid>
         </item>
     </channel>
 </rss>

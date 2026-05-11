@@ -4,15 +4,57 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:07:08 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[New at Crowdin: April 2026]]></title>
+            <description><![CDATA[The headline updates are custom instructions and additional context for AI pre-translation, AI Pipeline presets to help you deploy complex workflows in seconds and major enhancements to our Crowdin plugin for Figma. Beyond this, we’re excited to announce that Crowdin Enterprise is now available on the AWS Marketplace. We’ve also added category-based proofreading rates for better budget control and a highly requested auto-save feature in the Editor. Here’s a closer look at everything we shipped…]]></description>
+            <link>https://crowdin.com/blog/whats-new-at-crowdin-april-2026</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-april-2026</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Scalable Localization for Technical Documentation]]></title>
+            <description><![CDATA[Expanding technical documentation into new markets sounds straightforward. In practice, it breaks down fast when technical documentation teams treat localization as an afterthought, tacking it onto the end of a content workflow. When content is written, approved, and then handed off for translation, it creates duplicate effort, inconsistent terminology, and increases translation costs. The more technical content you produce, the harder it is to keep content aligned across languages. If you are…]]></description>
+            <link>https://crowdin.com/blog/technical-documentation-localization</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/technical-documentation-localization</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cult Connector: Fixing the Workflow Behind After Effects Localization]]></title>
+            <description><![CDATA[Translation for video is a special case: the audience doesn’t just read the words – they read them while the image moves. Titles, supers, on-screen text, end cards, trailer lines, in-game cinematics, marketing spots – if it appears in the frame, in time, the rules change. That’s a different job than localizing a website. In a video, even a good translation can still be wrong on screen – because the problem isn’t just the wording. It’s keeping language locked to the edit as motion changes,…]]></description>
+            <link>https://crowdin.com/blog/after-effects-localization-cult-connector</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/after-effects-localization-cult-connector</guid>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Snov.io Manages Localization for 3M+ Users]]></title>
+            <description><![CDATA[Snov.io is a sales automation platform used by over 3 million users to find, verify, and engage with leads. Snov.io currently supports 9 languages on its website and 5 languages within its platform, with some high-traffic pages translated into as many as 14 languages. Behind this massive operation is Olena Holovach, Snov.io’s Localization Manager. Starting 6 years ago as a localization pioneer, Olena has transformed the company’s approach to localization into a highly structured, AI-driven…]]></description>
+            <link>https://crowdin.com/blog/snovio-localization-with-crowdin</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/snovio-localization-with-crowdin</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Killing the Per-Word Model: Diego Cresceri on Reinventing Localization Value]]></title>
+            <description><![CDATA[For as long as most of us can remember, the localization industry has run on a single, stubborn unit of measurement: the words. You count them, you price them, you invoice them. Simple. But what happens when a large language model can draft thousands of those words in seconds, and a post-editor can process them by the hour? That’s the uncomfortable question at the heart of a recent conversation on The Agile Localization Podcast, where host Stefan Huyghe sat down with Diego Cresceri, Founder and…]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-diego-cresceri</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-diego-cresceri</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gap Between Localization Deployment and Conversion and How to Close It]]></title>
+            <description><![CDATA[Most teams hit the same wall when expanding to new markets. The content strategy is ready. Translations are in progress. But every new locale requires engineering work to set up, deploy, and maintain. Add five markets, and you've added five times the coordination overhead. The problem isn't translation. It's the gap between translated content and live pages. This post covers how product and engineering teams can close that gap using Builder.io and Crowdin together, so marketing and content…]]></description>
+            <link>https://crowdin.com/blog/scalable-localization-workflow-cms</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/scalable-localization-workflow-cms</guid>
+            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crowdin Dreams]]></title>
@@ -62,48 +104,6 @@
             <link>https://crowdin.com/blog/turo-localization-with-crowdin</link>
             <guid isPermaLink="true">https://crowdin.com/blog/turo-localization-with-crowdin</guid>
             <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crowdin Style Guides for Consistent AI Translations]]></title>
-            <description><![CDATA[There’s a running joke in the translation industry: two linguists can’t agree on whether a translation is correct. At Crowdin, we don’t think the problem is the linguists – it’s that different humans (and AIs) have different quality standards by default. If requirements are communicated clearly enough, two people and an AI should arrive at the same conclusion. We also see this reflected in the data: the same LLM model, on very similar content, produces wildly different post-edit distances…]]></description>
-            <link>https://crowdin.com/blog/localization-style-guides</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/localization-style-guides</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moving from Feature-First to Workflow-First: Rethinking Your TMS Strategy]]></title>
-            <description><![CDATA[Translation management systems used to be the center of everything in localization. If you wanted to translate, review, manage, or ship content, you went through your TMS. However, in The Agile Localization Podcast, Jourik Ciesielski, CTO at ELAN Languages, makes it clear that this model is starting to break. AI hasn’t just added new capabilities. It’s exposed deeper limitations in how TMS platforms are designed and how teams think about them.]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-jourik-ciesielski</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-jourik-ciesielski</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[152 Enterprise Teams, 95% Use AI Translation. Here's Why the Model Is the Least Important Part.]]></title>
-            <description><![CDATA[Based on original research combining a B2B survey of localization, engineering, product, and security professionals, Reddit community discussions, and publicly available industry data. The question is no longer "whether" but "how". AI translation is no longer an experiment. It has become an operational baseline for enterprise teams managing multilingual content at scale. Based on our original survey of 152 B2B professionals across the US and Canada, roughly 95% of respondents already use AI or…]]></description>
-            <link>https://crowdin.com/blog/ai-translation-enterprise-survey-2026</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/ai-translation-enterprise-survey-2026</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CMS translation: A developer’s guide to scalable localization]]></title>
-            <description><![CDATA[If you’ve ever managed multilingual content, you know what a grind it can be. It’s tedious, time-intensive work that’s prone to errors and ultimately isn't scalable unless it's automated. Traditional content management system (CMS) platforms haven’t helped. Because of their architecture, content often gets tangled up in templates or the presentation layer, making it hard to extract. Headless CMS architecture is different. Content lives in structured, API-accessible fields, which means…]]></description>
-            <link>https://crowdin.com/blog/cms-translation</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/cms-translation</guid>
-            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New at Crowdin: March 2026]]></title>
-            <description><![CDATA[To work well, AI shouldn't guess; it should gather context. This month, we’re presenting a combination of our already released (AI Pipeline) and new tools (Crowdin Copilot) to eliminate repetitive manual tasks for managers, and provide production-ready translations. The highlight is our new Crowdin Copilot. One of its key use cases is analyzing hundreds of translation issues and synthesizing them into a few high-level questions for you to answer. We’re also debuting Dual Preview mode in the…]]></description>
-            <link>https://crowdin.com/blog/new-at-crowdin-march-2026</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/new-at-crowdin-march-2026</guid>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI-First Localization in a Regulated Business]]></title>
-            <description><![CDATA[Shipping multilingual content is rarely ‘translate and done’. Pages change, UI space is tight, legal terms must be exact, and markets never sleep. In The Agile Localization Podcast, host Stefan Huyghe talks with Putri Kumala (AI Localization Operations Team Lead) and Arshaad Mohiadeen (Senior AI Engineer) from Deriv about how they run 20+ languages with automated, AI-driven workflows while staying in control of quality, brand, and compliance.]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-putri-kumala-and-arshaad-mohiadeen</guid>
-            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
