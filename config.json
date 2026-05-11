@@ -9,15 +9,6 @@
     "dateSelector": ".c-article-list__date"
   },
   {
-    "name": "CSA-blog",
-    "url": "https://csa-research.com/l/blog",
-    "articleSelector": "a.blog-info",
-    "titleSelector": "a.text-heading",
-    "linkSelector": "a",
-    "descriptionSelector": "a.description",
-    "dateSelector": "a blog-date"
-  },
-  {
     "name": "XTM-Blog",
     "url": "https://xtm.cloud/blog/",
     "articleSelector": ".post-card.cpt-listing-single",
