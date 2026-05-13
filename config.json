@@ -20,7 +20,7 @@
 {
   "name": "LingopalAI",
   "url": "https://lingopal.ai/industrynews-blog",
-  "articleSelector": "div.grid a.card-link",
+  "articleSelector": "main section a.card-link, a[href^='/industrynews-blog/article/']",
   "titleSelector": "h2.card-title",
   "linkSelector": "self",
   "descriptionSelector": "p.card-desc",
