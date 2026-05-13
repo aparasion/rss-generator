@@ -4,34 +4,52 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:58:54 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 21:58:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[With $1B Novo deal and diabetes ambitions undimmed, Lexicon is in ‘good shape to go crazy’]]></title>
+            <description><![CDATA[Lexicon CEO Michael Exton told Fierce how he set the company's development and financial pathway "on a very different trajectory."]]></description>
+            <link>https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/1b-novo-deal-and-diabetes-ambitions-undimmed-lexicon-good-shape-go-crazy</guid>
+        </item>
+        <item>
+            <title><![CDATA[Fosun pays $60M for option on AriBio’s phase 3 Alzheimer’s asset]]></title>
+            <description><![CDATA[Fosun Pharma has paid $60 million for an option on AriBio’s late-phase Alzheimer’s disease program, securing the chance to expand its rights to the asset in exchange for a further $80 million.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/fosun-pays-60m-option-aribios-phase-3-alzheimers-asset</guid>
+        </item>
+        <item>
+            <title><![CDATA[Medtronic to shutter Santa Rosa plant as it restructures cardiovascular unit]]></title>
+            <description><![CDATA[Medtronic will shutter its Santa Rosa facility that produces coronary stents and other heart-related products over the next two years as the device maker also looks to restructure its cardio business.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/medtronic-shutter-santa-rosa-plant-it-restructures-cardio-vascular-unit</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/medtronic-shutter-santa-rosa-plant-it-restructures-cardio-vascular-unit</guid>
+        </item>
+        <item>
+            <title><![CDATA[Kyverna begins rolling submission for autoimmune CAR-T as FDA requests more natural history analysis]]></title>
+            <description><![CDATA[Kyverna Therapeutics has officially started a rolling submission to the FDA for miv-cel as the company conducts additional natural history analysis at the agency's request, keeping the candidate on track to be the first autoimmune CAR-T to reach the market.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/kyverna-begins-rolling-submission-autoimmune-car-t-sps-amid-fda-request-more-natural</guid>
+        </item>
+        <item>
+            <title><![CDATA[Boehringer furthers inflammatory expansion with €407M biobucks bet on Immunitas asset]]></title>
+            <description><![CDATA[Boehringer Ingelheim has put up 407.5 million euros in biobucks to secure global rights to a first‑in‑class antibody Immunitas Therapeutics is developing for chronic inflammatory and autoimmune diseases.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/boehringer-furthers-inflammatory-expansion-eu407m-biobuck-bet-immunitas-asset</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/boehringer-furthers-inflammatory-expansion-eu407m-biobuck-bet-immunitas-asset</guid>
+        </item>
+        <item>
+            <title><![CDATA[Roche nabs European approval for second Eli Lilly-partnered Alzheimer’s test]]></title>
+            <description><![CDATA[Roche has secured a European CE mark for its second Alzheimer’s test that can both help confirm the disease and rule it out.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/roche-nabs-european-approval-second-eli-lilly-partnered-alzheimers-test</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/roche-nabs-european-approval-second-eli-lilly-partnered-alzheimers-test</guid>
+        </item>
         <item>
             <title><![CDATA[Amid M&A buzz, Inhibrx's OX40-Keytruda combo shows promise in early look at midphase data]]></title>
             <description><![CDATA[Adding Inhibrx Biosciences’ OX40 agonist to Keytruda doubled the response rate in a midphase clinical trial, encouraging the biotech to advance a program that reportedly attracted the interest of Merck &amp; Co.]]></description>
             <link>https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ox40-drug-inhibrx-mooted-ma-target-tops-keytruda-early-look-midphase-data</guid>
-        </item>
-        <item>
-            <title><![CDATA[New Hepta blood test could predict GLP-1 response]]></title>
-            <description><![CDATA[While GLP-1s like Ozempic and Wegovy are being widely prescribed for weight loss, doctors currently do not have a way to predict if a patient will successfully respond to the drugs.]]></description>
-            <link>https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/new-hepta-blood-test-could-predict-glp-1-response</guid>
-        </item>
-        <item>
-            <title><![CDATA[A protective gene sent to the liver cleared amyloid from mouse brains, sparking hope for an Alzheimer’s gene therapy]]></title>
-            <description><![CDATA[The calling card of Alzheimer’s disease is a buildup of misfolded amyloid protein in the brain, but many medicines struggle to penetrate the barrier protecting the mind from outside interference. A new study suggests that crossing the blood-brain barrier might not be necessary at all to clear amyloid plaques—and that a one-time gene therapy could one day prove an effective treatment for the devastating neurodegenerative disease.]]></description>
-            <link>https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/research/protective-gene-sent-liver-cleared-amyloid-mouse-brains-sparking-hope-alzheimers-gene</guid>
-        </item>
-        <item>
-            <title><![CDATA[Antibodies that stop measles from stabbing cells could become new treatments for the surging virus, study suggests]]></title>
-            <description><![CDATA[Though a measles vaccine has existed for more than 60 years, much still remains unknown about how exactly the shot generates protection against the virus. Now, scientists have turned to the immune systems of vaccinated people to dig up answers—and their findings may lead to new medicines against the resurgent disease.]]></description>
-            <link>https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/research/antibodies-stop-measles-stabbing-cells-could-become-new-treatments-surging-virus-study</guid>
         </item>
     </channel>
 </rss>

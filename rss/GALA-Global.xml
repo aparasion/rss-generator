@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:58:55 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 21:58:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Call for Sessions Now Open! Unicode Technology Workshop 2026]]></title>
+            <description><![CDATA[The call for session and tutorial proposals is now open for UTW 2026! Organizations and individuals wishing to demonstrate leadership in global software, multilingual UX, internationalization, and cultural preservation are invited to participate as session hosts and tutors. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/call-for-sessions-now-open-unicode-technology-workshop-2026</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/call-for-sessions-now-open-unicode-technology-workshop-2026</guid>
+        </item>
         <item>
             <title><![CDATA[WorldSpeak 2026: Ignite Your Language Business at a Virtual Conference With a Great Speaker Lineup]]></title>
             <description><![CDATA[Get ready to be part of the most dynamic gathering for companies in the Canadian language industry! WorldSpeak 2026, proudly hosted by the Canadian Language Industry Association (CLIA). Virtual conference discount available for GALA users inside. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[An update from Allison Ferch, GALA's Executive Director, on how GALA is evolving to meet the needs of our members and the localization industry. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/meeting-the-moment</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/meeting-the-moment</guid>
-        </item>
-        <item>
-            <title><![CDATA[Bylaws Amendments Approved by GALA Members]]></title>
-            <description><![CDATA[GALA members recently voted on four proposed amendments to the association’s bylaws. Each measure passed with strong support, receiving less than 10% opposition. A full report of the results is available here. The amendments were designed to streamline operations, strengthen governance, and... Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/bylaws-amendments-approved-by-gala-members</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/bylaws-amendments-approved-by-gala-members</guid>
         </item>
     </channel>
 </rss>

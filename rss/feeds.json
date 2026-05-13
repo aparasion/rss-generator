@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T21:15:27.609Z",
+  "generatedAt": "2026-05-13T21:59:02.855Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -7,14 +7,14 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml"
     },
     {
-      "name": "CSA-blog",
-      "sourceUrl": "https://csa-research.com/l/blog",
-      "feedUrl": "https://aparasion.github.io/rss-generator/rss/CSA-blog.xml"
-    },
-    {
       "name": "XTM-Blog",
       "sourceUrl": "https://xtm.cloud/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml"
+    },
+    {
+      "name": "LingopalAI",
+      "sourceUrl": "https://lingopal.ai/industrynews-blog",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/LingopalAI.xml"
     },
     {
       "name": "phrase-blog",

@@ -4,15 +4,29 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:58:54 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 21:58:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[How Turo Embeds Localization Inside Product Ops with Gideon Hod]]></title>
+            <description><![CDATA[When most companies think about localization, they picture a translation team tucked away in a corner, handling strings after the real product work is done. Gideon Hod sees it completely differently. At Turo, the peer-to-peer car-sharing platform operating across five markets and three languages (with more on the way), localization is a product operations competency that keeps engineering moving fast and users happy worldwide.]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-gideon-hod</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-gideon-hod</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Content modeling: The foundation of future-ready content]]></title>
+            <description><![CDATA[The web was built page by page. A homepage, a product page, a blog post — each designed, written, and published individually to one primary channel: the website. And for a long time, that worked. But the digital world has changed: it's faster, it’s multi-channel, and now it’s AI-search driven. Content doesn't live in one place anymore. It's distributed across websites, apps, social media, AI search engines, and more. The brands showing up well across those channels aren't just publishing more —…]]></description>
+            <link>https://crowdin.com/blog/content-modeling-in-cms-localization</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/content-modeling-in-cms-localization</guid>
+            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New at Crowdin: April 2026]]></title>
@@ -90,20 +104,6 @@
             <link>https://crowdin.com/blog/localization-deployment-vs-performance-conversion</link>
             <guid isPermaLink="true">https://crowdin.com/blog/localization-deployment-vs-performance-conversion</guid>
             <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From AI translation to localization project management – Meet Crowdin Copilot]]></title>
-            <description><![CDATA[Last year, we introduced Agentic AI to the localization world. It was a milestone designed with a singular focus: mastering linguistic tasks and assisting linguists within the Editor. But the vision was always bigger. Now, we are excited to introduce Crowdin Copilot – a new generation of AI that doesn't just translate your strings but helps you manage your entire localization ecosystem. By bridging the gap between LLMs and the Crowdin API, Crowdin Copilot can execute complex workflows that…]]></description>
-            <link>https://crowdin.com/blog/meet-crowdin-copilot</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/meet-crowdin-copilot</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Turo Localized an Entire Ecosystem into Spanish in One Week]]></title>
-            <description><![CDATA[Turo is the car rental marketplace that is reinventing rental to unlock independence for all. But unlike booking a room, car sharing requires a unique layer of confidence. Guests aren't just looking for a place to stay; they are trusting a vehicle to move them safely through the world. This focus on reliability has fueled Turo's massive growth into a $1 billion business. Today, the company successfully operates across the US, Canada, the UK, France, and Australia. For Turo, localization is the…]]></description>
-            <link>https://crowdin.com/blog/turo-localization-with-crowdin</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/turo-localization-with-crowdin</guid>
-            <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:58:54 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:14:22 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 21:58:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -29,6 +29,12 @@
             <link>https://www.transperfect.com/blog/transperfect-mountain-challenge</link>
             <guid isPermaLink="true">https://www.transperfect.com/blog/transperfect-mountain-challenge</guid>
             <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect’s GlobalLink Technology Honored by G2 with 24 Awards Across 12 Categories]]></title>
+            <link>https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-g2-24-awards-across-12-categories</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-g2-24-awards-across-12-categories</guid>
+            <pubDate>Tue, 12 May 2026 13:12:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TransPerfect Returns as Official Partner of the Cannes Film Festival]]></title>
@@ -125,12 +131,6 @@
             <link>https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-13-categories-g2s-winter-2026-report</link>
             <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-13-categories-g2s-winter-2026-report</guid>
             <pubDate>Tue, 06 Jan 2026 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Legal Strengthens Global Team with New Key Hires in Seattle and Dubai]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-legal-strengthens-global-team-new-key-hires-seattle-and-dubai</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-strengthens-global-team-new-key-hires-seattle-and-dubai</guid>
-            <pubDate>Mon, 01 Dec 2025 20:40:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

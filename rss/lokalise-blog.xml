@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 21:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 21:58:55 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 21:14:23 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 21:58:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Which Brands Are Localizing Best?]]></title>
+            <description><![CDATA[You'd think speaking the same language would be enough. But when Apple—one of the most recognized brands on the planet—ranks dead last for localization in the UK, a native English-speaking market, it's clear that "going global" takes a lot more than translation. Lokalise surveyed 1,000 consumers across eight countries to find out which brands actually feel local, and here's what we found. Key takeaways McDonald's ran]]></description>
+            <link>https://lokalise.com/blog/which-brands-are-localizing-best/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/which-brands-are-localizing-best/</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 AI tools your localization team needs to master in the GenAI era]]></title>
             <description><![CDATA[GenAI isn’t just changing how translations are produced. It’s reshaping the entire localization workflow. Most teams didn’t build their workflows for this shift. They’re still relying on a mix of spreadsheets, standalone MT engines, and manual file handoffs. It’s familiar, and for a while, it worked. But it was never designed for the scale teams are dealing with now.]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/top-mtpe-tools/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/top-mtpe-tools/</guid>
             <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI vs human translation cost: How to cut localization costs by up to 97%]]></title>
-            <description><![CDATA[As of 2026, the Total Cost of Ownership (TCO) for enterprise localization has shifted from a per-word human model (~$0.20/word) to an orchestrated AI model (~$0.002/word). This 100x efficiency is driven by AI Orchestration, which automates context retrieval (RAG) and eliminates manual project management overhead. This shift comes from AI orchestration. These systems combine large language models with retrieval-augmented context, terminology databases, translation memory, and automated q]]></description>
-            <link>https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/translation-cost-human-vs-ai-orchestration/</guid>
-            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
