@@ -32,11 +32,5 @@
   "https://www.fiercebiotech.com/rss/xml": {
     "etag": "W/\"1778706382\"",
     "lastModified": "Wed, 13 May 2026 21:06:22 GMT"
-  },
-  "https://csa-research.com/l/blog": {},
-  "https://openai.com/news/rss.xml": {},
-  "https://lingopal.ai/industrynews-blog": {
-    "etag": "W/\"b40a4cacf54bbd12dd31dfa38d927046\"",
-    "lastModified": "Wed, 13 May 2026 19:04:46 GMT"
   }
 }
