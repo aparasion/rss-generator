@@ -17,13 +17,13 @@
     "descriptionSelector": ".post-card-caption",
     "dateSelector": ""
   },
-  {
+{
   "name": "LingopalAI",
   "url": "https://lingopal.ai/industrynews-blog",
-  "articleSelector": ".grid > a.card-link",
-  "titleSelector": "h2.card-title",
+  "articleSelector": "a[href^='/industrynews-blog/article/']",
+  "titleSelector": "h2",
   "linkSelector": "self",
-  "descriptionSelector": ".card-desc",
+  "descriptionSelector": "p",
   "dateSelector": "time",
   "dateAttribute": "datetime"
 },
