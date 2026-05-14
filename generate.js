@@ -692,8 +692,11 @@ async function processSite(site, httpCache, seenCache) {
     const $el = $(el);
     const title = getPrimaryTitle($el, site);
 
-    const $linkEl = $el.find(site.linkSelector);
-    const linkRaw = ($linkEl.attr("href") || "").trim();
+    const linkRaw = (
+      site.linkSelector === "self"
+        ? ($el.attr("href") || "")
+        : ($el.find(site.linkSelector).attr("href") || "")
+    ).trim();
 
     if (!title || !linkRaw) return;
 
