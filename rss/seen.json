@@ -7517,6 +7517,10 @@
     "https://openai.com/signals/research/2026q1-update": {
       "relevant": false,
       "checkedAt": "2026-05-13T21:58:54.946Z"
+    },
+    "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+      "relevant": false,
+      "checkedAt": "2026-05-14T08:50:24.622Z"
     }
   }
 }
