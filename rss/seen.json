@@ -2977,6 +2977,10 @@
     "https://www.nature.com/articles/d41586-026-01461-4": {
       "relevant": false,
       "checkedAt": "2026-06-02T15:26:27.976Z"
+    },
+    "https://www.nature.com/articles/d41586-026-01766-4": {
+      "relevant": false,
+      "checkedAt": "2026-06-02T16:50:40.261Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -3923,6 +3927,10 @@
     "https://www.fiercebiotech.com/biotech/astrazeneca-after-phase-3-miss-posts-subgroup-data-behind-pitch-rare-disease-approval": {
       "relevant": false,
       "checkedAt": "2026-06-02T15:26:28.057Z"
+    },
+    "https://www.fiercebiotech.com/biotech/roche-details-oral-serd-giredestrant-first-line-flop-breast-cancer-head-held-high": {
+      "relevant": false,
+      "checkedAt": "2026-06-02T16:50:40.276Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -8065,6 +8073,10 @@
     "https://openai.com/academy/how-to-use-codex-for-everyday-work": {
       "relevant": false,
       "checkedAt": "2026-06-02T15:26:28.708Z"
+    },
+    "https://openai.com/index/codex-for-every-role-tool-workflow": {
+      "relevant": false,
+      "checkedAt": "2026-06-02T16:50:40.648Z"
     }
   },
   "Cohere-Newsroom-L10N": {
