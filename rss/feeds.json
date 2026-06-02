@@ -1,6 +1,11 @@
 {
-  "generatedAt": "2026-06-02T15:55:56.423Z",
+  "generatedAt": "2026-06-02T16:56:52.869Z",
   "feeds": [
+    {
+      "name": "DATAmundi-Newsroom",
+      "sourceUrl": "https://datamundi.ai/newsroom/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/DATAmundi-Newsroom.xml"
+    },
     {
       "name": "GALA-Global",
       "sourceUrl": "https://www.gala-global.org/news/",

@@ -1,110 +1,131 @@
 {
-  "generatedAt": "2026-06-02T15:55:56.423Z",
-  "durationMs": 8836,
+  "generatedAt": "2026-06-02T16:56:52.869Z",
+  "durationMs": 6771,
   "feeds": [
+    {
+      "name": "DATAmundi-Newsroom",
+      "url": "https://datamundi.ai/newsroom/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/DATAmundi-Newsroom.xml",
+      "status": "success",
+      "items": 10,
+      "durationMs": 4
+    },
     {
       "name": "GALA-Global",
       "url": "https://www.gala-global.org/news/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
-      "status": "success",
-      "items": 12,
-      "durationMs": 1978
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "XTM-Blog",
       "url": "https://xtm.cloud/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
-      "status": "success",
-      "items": 15,
-      "durationMs": 8800
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "LingopalAI",
       "url": "https://lingopal.ai/industrynews-blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/LingopalAI.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 272
+      "durationMs": 0
     },
     {
       "name": "phrase-blog",
       "url": "https://phrase.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
-      "status": "success",
-      "items": 9,
-      "durationMs": 841
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "lokalise-blog",
       "url": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 731
+      "durationMs": 0
     },
     {
       "name": "crowdin-blog",
       "url": "https://crowdin.com/blog",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
-      "status": "success",
-      "items": 14,
-      "durationMs": 538
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "PRNewswire-L10N",
       "url": "https://www.prnewswire.com/news-releases/news-releases-list/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
-      "status": "success",
-      "items": 0,
-      "durationMs": 266
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "RWS-media-centre",
       "url": "https://www.rws.com/about/media-centre/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
-      "status": "success",
-      "items": 20,
-      "durationMs": 499
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "transperfect-news-and-press",
       "url": "https://www.transperfect.com/about/news-and-press/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
-      "status": "success",
-      "items": 20,
-      "durationMs": 460
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "FierceBiotech-Health-Longevity",
       "url": "https://www.fiercebiotech.com/rss/xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 131
+      "durationMs": 0
     },
     {
       "name": "Nature-Aging-Longevity",
       "url": "https://www.nature.com/nature.rss",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
-      "status": "not_modified",
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
       "items": null,
-      "durationMs": 1372
+      "durationMs": 0
     },
     {
       "name": "Cohere-Newsroom-L10N",
       "url": "https://cohere.com/newsroom/articles",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Cohere-Newsroom-L10N.xml",
-      "status": "success",
-      "items": 0,
-      "durationMs": 771
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     },
     {
       "name": "OpenAI-News-L10N",
       "url": "https://openai.com/news/rss.xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml",
-      "status": "success",
-      "items": 6,
-      "durationMs": 716
+      "status": "error",
+      "error": "HTTP 403 Forbidden",
+      "items": null,
+      "durationMs": 0
     }
   ]
 }
