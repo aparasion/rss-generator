@@ -230,6 +230,31 @@
     }
   },
   {
+    "name": "Cohere-Newsroom-L10N",
+    "url": "https://cohere.com/newsroom/articles",
+    "articleSelector": "a[href*='/newsroom/articles/']",
+    "titleSelector": "h2, h3, h4",
+    "linkSelector": "self",
+    "descriptionSelector": "p",
+    "dateSelector": "time",
+    "linkPattern": "/newsroom/articles/",
+    "feedTitle": "Cohere Newsroom — Language & Translation",
+    "feedDescription": "Cohere newsroom articles filtered for language, translation, and linguistics topics",
+    "contentFilter": {
+      "keywords": [
+        "language",
+        "languages",
+        "linguist",
+        "translate",
+        "translation",
+        "translations"
+      ],
+      "minMatches": 1,
+      "checkFullContent": false,
+      "maxScan": 50
+    }
+  },
+  {
     "name": "OpenAI-News-L10N",
     "type": "rss",
     "url": "https://openai.com/news/rss.xml",
