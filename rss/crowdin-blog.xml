@@ -4,15 +4,50 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:50:23 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[How Technical Writers and Translators Build Better Global Products Together with Rutva Safi]]></title>
+            <description><![CDATA[When we think about shipping a product, documentation often gets treated like an afterthought, something tacked on right before the release, or worse, weeks after it. But what if the docs are the product? And what if the moment you start writing them is already too late for localization? In a recent episode of The Agile Localization Podcast, host Stefan Huyghe sat down with Rutva Safi, Senior Technical Writer at Gantner India, to explore exactly this. Rutva brings a unique lens to the…]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-rutva-safi</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-rutva-safi</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Effective content governance for multilingual websites]]></title>
+            <description><![CDATA[Multilingual websites are no longer optional. For most organizations, expanding into new markets means delivering content in multiple languages from day one. The initial focus is often on translation, getting content into new languages as quickly as possible. That approach works at first. But as content volume grows and more teams get involved, problems begin to surface. Updates fall out of sync, messaging diverges, and workflows slow down. What starts as a translation task quickly becomes a…]]></description>
+            <link>https://crowdin.com/blog/content-governance-for-multilingual-websites</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/content-governance-for-multilingual-websites</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100,000 installations: How teams orchestrate localization via the Crowdin Store]]></title>
+            <description><![CDATA[We have a milestone to celebrate: the Crowdin Store has surpassed 100,000 application installations! What began as a directory of handy integration scripts has matured into a thriving, multi-category marketplace. Today, over 40 000 unique localization managers, developers, and translators, along with 3 000+ global companies, rely on the Crowdin Store to customize and automate their translation pipelines. This milestone proves one thing: there is no single 'right' way to translate anymore.…]]></description>
+            <link>https://crowdin.com/blog/crowdin-store-hits-100k-app-installations</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/crowdin-store-hits-100k-app-installations</guid>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nordic Trap, Part 2: From Detection to Prevention with Crowdin's AI Pipeline]]></title>
+            <description><![CDATA[By Dr. Nadja Ruhl, LangOps Architect at Chainels Earlier this year, I wrote about what I called the Nordic-language trap: a specific, well-documented failure mode that happens when you use AI for pre-translation into a lower-resource Nordic language. The short version: large language models are trained on vastly more Swedish data than Danish or Norwegian data. When they're uncertain, they gravitate toward the better-resourced neighbor. The output looks plausible. The sentence structure holds.…]]></description>
+            <link>https://crowdin.com/blog/translating-nordic-languages-with-ai</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/translating-nordic-languages-with-ai</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mastering Localization with Crowdin’s AI Pipelines]]></title>
+            <description><![CDATA[For years, the promise of AI in localization has been shadowed by a frustrating reality: unpredictability. Traditional monolithic prompts often ignore carefully curated glossaries, hallucinate technical tags, or lose a brand’s established voice. At Crowdin, we are moving away from the take what you get approach of raw LLM outputs. Instead, we are introducing AI Pipelines – modular, multi-stage workflows that provide the guardrails and predictability needed for production-ready content.]]></description>
+            <link>https://crowdin.com/blog/mastering-ai-localization-pipelines</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/mastering-ai-localization-pipelines</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Turo Embeds Localization Inside Product Ops with Gideon Hod]]></title>
@@ -64,46 +99,11 @@
             <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Gap Between Localization Deployment and Conversion and How to Close It]]></title>
+            <title><![CDATA[How to Localize at Scale Without Multiplying Engineering Work]]></title>
             <description><![CDATA[Most teams hit the same wall when expanding to new markets. The content strategy is ready. Translations are in progress. But every new locale requires engineering work to set up, deploy, and maintain. Add five markets, and you've added five times the coordination overhead. The problem isn't translation. It's the gap between translated content and live pages. This post covers how product and engineering teams can close that gap using Builder.io and Crowdin together, so marketing and content…]]></description>
             <link>https://crowdin.com/blog/scalable-localization-workflow-cms</link>
             <guid isPermaLink="true">https://crowdin.com/blog/scalable-localization-workflow-cms</guid>
             <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crowdin Dreams]]></title>
-            <description><![CDATA[Every night, while you sleep, your brain does something remarkable. It replays the day to extract signal from noise and form long-term memory. Raw sensory data gets compressed into patterns. Patterns become rules. Rules become the intuition you wake up with. Neuroscientists call this memory consolidation. We call it dreams. Crowdin has been observing recent developments in AI coding tools and we figured out that the very same principle might work for Crowdin. Every time a human editor corrects…]]></description>
-            <link>https://crowdin.com/blog/crowdin-dreams</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/crowdin-dreams</guid>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building Scalable Language Operations: A Framework for Global Communication Success]]></title>
-            <description><![CDATA[Today more than ever, businesses must communicate across borders and languages to engage diverse audiences. As companies expand into new regions, the need for efficient and scalable language solutions becomes more critical than ever. However, achieving effective multilingual communication isn’t as simple as just translating content. It requires an integrated, strategic approach: Language Operations (LangOps). LangOps goes beyond mere translation – it is a comprehensive framework for managing…]]></description>
-            <link>https://crowdin.com/blog/scalable-language-operations-strategy</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/scalable-language-operations-strategy</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Hypixel Studios Localizes Hytale with Its Players]]></title>
-            <description><![CDATA[Every week, Hypixel Studios pushes new content to its player base across nine different languages (now even more). Not once, but every single week. For most game studios, this would be a logistical nightmare: a cascade of translation delays, quality inconsistencies, and frustrated international players waiting weeks for localized content. However, Mewen Page, the Lead Gameplay Programmer at Hypixel Studios, has built a localization system that doesn’t just keep pace with weekly releases but…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-hytale</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-hytale</guid>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bitrefill Scaled to Serve Users Worldwide with AI-Powered Localization]]></title>
-            <description><![CDATA[Bitrefill is the world's largest crypto-only store. Launched in 2014, Bitrefill provides digital gift cards & mobile airtime refills using the Lightning Network technology. Their mission is to turn crypto into everyday purchases. Bitrefill’s products serve people all around the world, and they want everyone to be able to use their services in their native language. Sam Kuritzén, Bitrefill’s Localization Manager, was responsible for modernizing how the company handles translations.]]></description>
-            <link>https://crowdin.com/blog/bitrefill-localization-with-crowdin</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/bitrefill-localization-with-crowdin</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gap Between Localization Deployment and Conversion and How to Close It]]></title>
-            <description><![CDATA[A Crowdin project at 100% looks the same whether the translations are excellent or just functional. Strings are filled. The release ships on time. RTL renders correctly in Arabic. From a pipeline perspective, the job is done. From a user perspective, that's only half the story. There's a category of localization problem that doesn't show up in the workflow at all. It shows up three months later, in market performance data. Conversion in the UAE is lower than expected. Engagement in Korea is…]]></description>
-            <link>https://crowdin.com/blog/localization-deployment-vs-performance-conversion</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/localization-deployment-vs-performance-conversion</guid>
-            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,32 @@
         <description><![CDATA[RSS feed generated for LingopalAI]]></description>
         <link>https://lingopal.ai/industrynews-blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/LingopalAI.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:50:24 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Global Accessibility Awareness Day (GAAD): Why Multilingual AI Communication Is Becoming Essential for Digital Accessibility]]></title>
+            <description><![CDATA[Every year, Global Accessibility Awareness Day reminds organizations of a growing reality: Digital accessibility is no longer just a compliance requirement. It is becoming a core business, communication, and inclusion strategy.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/global-accessibility-awareness</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/global-accessibility-awareness</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Dubbing & Live Translation: The New Language Layer]]></title>
+            <description><![CDATA[The internet is global. Speech is not. More than 6.12 billion people were online at the start of April 2026, equal to 73.8% of the global population.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/ai-dubbing-and-live-translation-the-new-language-layer</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/ai-dubbing-and-live-translation-the-new-language-layer</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Translation vs. Traditional Methods: Why Live News Needs Real-Time Multilingual Processing]]></title>
+            <description><![CDATA[Live news has always been a race against time. A storm changes direction. A minister resigns. A court ruling lands. A goal is scored in extra time. A breaking story unfolds on camera before the newsroom has time to package it.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/ai-translation-vs-traditional-methods-why-live-news-needs-real-time-multilingual-processing</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/ai-translation-vs-traditional-methods-why-live-news-needs-real-time-multilingual-processing</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breaking Language Barriers in Education: From Access to Understanding with Real-Time AI Translation]]></title>
             <description><![CDATA[Education is only effective when it's understood. Yet for hundreds of millions of learners worldwide, language remains the first and most persistent barrier.]]></description>

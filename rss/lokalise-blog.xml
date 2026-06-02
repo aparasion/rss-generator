@@ -4,17 +4,24 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 21:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 21:58:55 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Which Brands Are Localizing Best?]]></title>
+            <title><![CDATA[Localization ROI: how to build the business case]]></title>
+            <description><![CDATA[How to build the business case that turns localization from a line item into your highest-return growth lever. Your board wants growth from global markets. Your competitors are already there. And your localization team has the tools to deliver. So why is localization still stuck in the "cost center" conversation? It's a familiar tension. The data overwhelmingly shows that localization drives revenue — through discoverability, conversion, and loyalty. Yet in too many organization]]></description>
+            <link>https://lokalise.com/blog/localization-roi-how-to-build-the-business-case/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/localization-roi-how-to-build-the-business-case/</guid>
+            <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which brands are localizing best?]]></title>
             <description><![CDATA[You'd think speaking the same language would be enough. But when Apple—one of the most recognized brands on the planet—ranks dead last for localization in the UK, a native English-speaking market, it's clear that "going global" takes a lot more than translation. Lokalise surveyed 1,000 consumers across eight countries to find out which brands actually feel local, and here's what we found. Key takeaways McDonald's ran]]></description>
             <link>https://lokalise.com/blog/which-brands-are-localizing-best/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/which-brands-are-localizing-best/</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 AI tools your localization team needs to master in the GenAI era]]></title>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/localization-and-aeo/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/localization-and-aeo/</guid>
             <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 5 best tools for AI translation post-editing (MTPE)]]></title>
-            <description><![CDATA[AI translation post-editing tools promise 40-60% cost savings. In practice, you only get those savings when AI output is controlled. This means your terminology is enforced, risky segments are flagged before they go live, and linguists only touch what truly needs human attention. That’s why the best MTPE tools today aren’t standalone CAT tools or MT engines. They’re actually translation management systems (TMS) that orchestrate AI, terminology, and quality assurance in one place.]]></description>
-            <link>https://lokalise.com/blog/top-mtpe-tools/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/top-mtpe-tools/</guid>
-            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

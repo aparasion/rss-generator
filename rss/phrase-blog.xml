@@ -4,64 +4,64 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:50:24 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[How AI and hyper-localization are changing international growth]]></title>
+            <description><![CDATA[The real opportunity in AI isn’t faster output — it’s reaching audiences that were previously too niche or too expensive to serve. Kevin O’Donnell explains why hyper-localization is becoming a…Read more]]></description>
+            <link>https://phrase.com/blog/posts/ai-hyper-localization-international-growth/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-hyper-localization-international-growth/</guid>
+        </item>
+        <item>
+            <title><![CDATA[A model that generated billions in Europe didn’t survive the US market]]></title>
+            <description><![CDATA[The companies capturing real value from AI aren’t the ones with the biggest budgets or the most sophisticated tooling. They’re the ones that understood early that the technology was never…Read more]]></description>
+            <link>https://phrase.com/blog/posts/ai-transformation-operating-model-adoption/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-transformation-operating-model-adoption/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Why most companies don’t have an international dashboard, and what it’s costing them]]></title>
+            <description><![CDATA[When you break global revenue down by individual market, patterns emerge that should be driving strategic decisions. Most companies don’t have the reporting infrastructure to see them.Read more]]></description>
+            <link>https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Who should own international growth?]]></title>
+            <description><![CDATA[When no single leader owns international performance, investment scatters, team priorities diverge, and the signals that would tell leadership where to act never surface in a coherent way.Read more]]></description>
+            <link>https://phrase.com/blog/posts/international-growth-accountability-saas/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/international-growth-accountability-saas/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Why the post-editing paradigm is breaking down in the age of LLMs]]></title>
+            <description><![CDATA[Progress in translation quality is no longer driven primarily by better models. It’s driven by how those models are orchestrated, and the gap between a well-orchestrated system and a one-shot…Read more]]></description>
+            <link>https://phrase.com/blog/posts/llm-translation-orchestration-quality-workflows/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/llm-translation-orchestration-quality-workflows/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Who’s accountable for what AI says to your customers?]]></title>
+            <description><![CDATA[When AI generates and adapts messaging across dozens of markets at a scale no human team can review in full, the failures are rarely dramatic. They show up quietly, as…Read more]]></description>
+            <link>https://phrase.com/blog/posts/ai-content-governance-enterprise-global/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-content-governance-enterprise-global/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Why treating international growth as a bolt-on keeps failing, and what shifting left fixes]]></title>
+            <description><![CDATA[Shifting left means bringing localization expertise into product and go-to-market decisions at the planning stage, not at launch. Here’s what that looks like in practice.Read more]]></description>
+            <link>https://phrase.com/blog/posts/shift-left-localization-international-growth/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/shift-left-localization-international-growth/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Global by design, not by default]]></title>
+            <description><![CDATA[International growth fails when it is treated as a bolt-on. Kevin O’Donnell explains why SaaS companies need global-first operating models, dedicated accountability, market-level dashboards, and localization infrastructure built for scale.Read more]]></description>
+            <link>https://phrase.com/blog/posts/global-saas-growth-international-expansion/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/global-saas-growth-international-expansion/</guid>
+        </item>
         <item>
             <title><![CDATA[Why video localization belongs in your core workflow]]></title>
             <description><![CDATA[For many localization teams, video still sits outside the system. Text moves through mature workflows, while audio and video rely on separate vendors, tools, and review processes. The next step…Read more]]></description>
             <link>https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</guid>
-        </item>
-        <item>
-            <title><![CDATA[David Aaker: Why brand strength is being quietly eroded by short-term thinking]]></title>
-            <description><![CDATA[David Aaker, widely regarded as the Father of Modern Branding, explains why awareness is no longer the problem, relevance is, and why leaders who reduce brand to performance metrics are…Read more]]></description>
-            <link>https://phrase.com/blog/posts/https-phrase-com-blog-posts-auto-draft/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/https-phrase-com-blog-posts-auto-draft/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Is your content winning customers or just reaching them?]]></title>
-            <description><![CDATA[The assumption that content which reaches customers will also win them is costing global organizations more than most of their dashboards will ever show. Georg Ell, CEO of Phrase; Dr.…Read more]]></description>
-            <link>https://phrase.com/blog/posts/is-your-content-winning-customers-or-just-reaching-them/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/is-your-content-winning-customers-or-just-reaching-them/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Localization workflow automation: 10 ways modern teams scale global content]]></title>
-            <description><![CDATA[Discover ten practical localization workflow automations from CMS integration to custom MT training that reduce errors, streamline processes, and help teams scale effortlessly. Learn how automation can revolutionize your localization…Read more]]></description>
-            <link>https://phrase.com/blog/posts/localization-workflow-automations/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/localization-workflow-automations/</guid>
-        </item>
-        <item>
-            <title><![CDATA[The leadership gap holding back enterprise AI]]></title>
-            <description><![CDATA[Enterprise AI is advancing fast, but many organizations are failing to translate experimentation into real advantage. Alvarez & Marsal’s Raf Postepski explains why success depends on leadership, strategy, and redesigning…Read more]]></description>
-            <link>https://phrase.com/blog/posts/leadership-gap-enterprise-ai-transformation/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/leadership-gap-enterprise-ai-transformation/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Loc360°: What global content leaders are talking about in 2026]]></title>
-            <description><![CDATA[Across five global cities, content and localization leaders are rethinking how their work drives business impact. From shifting perceptions of value to navigating AI and data challenges, these are the…Read more]]></description>
-            <link>https://phrase.com/blog/posts/loc360-global-content-leaders-insights/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/loc360-global-content-leaders-insights/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Navigating regulation, compliance, and antitrust in gaming]]></title>
-            <description><![CDATA[Gaming companies that integrate compliance into product design, localization workflows, and go-to-market planning can reduce launch delays, avoid regulatory penalties, and access more markets simultaneously. Rather than treating legal alignment…Read more]]></description>
-            <link>https://phrase.com/blog/posts/gaming-regulation-compliance-antitrust-strategy/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/gaming-regulation-compliance-antitrust-strategy/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Aarron Spinley: Why customer experience is built on flawed assumptions (and what leaders should do instead).]]></title>
-            <description><![CDATA[Service failure costs businesses over $10 trillion globally, yet most organizations are still relying on shortcuts and surface-level metrics to manage their customers. Aarron Spinley, author of The Customering Method,…Read more]]></description>
-            <link>https://phrase.com/blog/posts/aarron-spinley-why-customer-experience-is-built-on-flawed-assumptions-and-what-leaders-should-do-instead/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/aarron-spinley-why-customer-experience-is-built-on-flawed-assumptions-and-what-leaders-should-do-instead/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why accessibility matters in translation tools: Improving our CAT editor]]></title>
-            <description><![CDATA[Accessibility is shaping the future of translation tools. Learn how WCAG-aligned improvements in the Phrase CAT editor are helping linguists work faster, with greater clarity and fewer barriers.Read more]]></description>
-            <link>https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/why-accessibility-matters-translation-tools/</guid>
         </item>
     </channel>
 </rss>

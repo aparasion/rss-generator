@@ -4,17 +4,24 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:50:24 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[International Search Summit: New York]]></title>
+            <description><![CDATA[Discover the International Search Summit New York, a single-track conference dedicated to scaling global websites and navigating AI's impact across channels. Gain practical insights from real-life case studies and network with peers to drive revenue and hit your international growth targets.]]></description>
+            <link>https://www.transperfect.com/blog/international-search-summit-new-york</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/international-search-summit-new-york</guid>
+            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Webinar: Rethinking Data Collection in AI]]></title>
             <description><![CDATA[Join Alexandros Poulis and Radosław Jeż for a DataForce Live session on how leading teams are rethinking their approach to data, and why it’s becoming a competitive advantage.]]></description>
             <link>https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</link>
             <guid isPermaLink="true">https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</guid>
-            <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[C3 Summit London]]></title>
@@ -22,13 +29,6 @@
             <link>https://www.transperfect.com/blog/c3-summit-london</link>
             <guid isPermaLink="true">https://www.transperfect.com/blog/c3-summit-london</guid>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Mountain Challenge]]></title>
-            <description><![CDATA[The TransPerfect Mountain Challenge is an initiative dedicated to supporting AFANOC, a nonprofit organization that provides comprehensive psychosocial care to families with children or adolescents battling cancer.]]></description>
-            <link>https://www.transperfect.com/blog/transperfect-mountain-challenge</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/transperfect-mountain-challenge</guid>
-            <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TransPerfect’s GlobalLink Technology Honored by G2 with 24 Awards Across 12 Categories]]></title>

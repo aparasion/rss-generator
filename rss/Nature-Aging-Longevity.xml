@@ -4,28 +4,40 @@
         <description><![CDATA[Nature articles filtered for aging, healthspan, and longevity research]]></description>
         <link>http://feeds.nature.com/nature/rss/current</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 15:26:27 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:50:24 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 15:26:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Sleep chart of biological ageing clocks in middle and late life]]></title>
-            <link>https://www.nature.com/articles/s41586-026-10524-5</link>
-            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10524-5</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10728-9</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10728-9</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[White matter micro- and macrostructure brain charts for the human lifespan]]></title>
-            <link>https://www.nature.com/articles/s41586-026-10454-2</link>
-            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10454-2</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Publisher Correction: White matter micro- and macrostructure brain charts for the human lifespan]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10693-3</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10693-3</guid>
+            <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sleep linked to slower ageing: huge study pinpoints the right amount]]></title>
-            <link>https://www.nature.com/articles/d41586-026-01506-8</link>
-            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01506-8</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Daily briefing: Gene-activity ‘clock’ predicts biological ageing]]></title>
+            <link>https://www.nature.com/articles/d41586-026-01734-y</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01734-y</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Universal transcriptomic hallmarks of mammalian ageing and mortality]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10542-3</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10542-3</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mechanism of age-related accumulation of mtDNA mutations in human blood]]></title>
+            <link>https://www.nature.com/articles/s41586-026-10569-6</link>
+            <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10569-6</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

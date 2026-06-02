@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:50:31.889Z",
+  "generatedAt": "2026-06-02T15:26:36.579Z",
   "feeds": [
     {
       "name": "GALA-Global",
@@ -55,6 +55,11 @@
       "name": "Nature-Aging-Longevity",
       "sourceUrl": "https://www.nature.com/nature.rss",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml"
+    },
+    {
+      "name": "Cohere-Newsroom-L10N",
+      "sourceUrl": "https://cohere.com/newsroom/articles",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/Cohere-Newsroom-L10N.xml"
     },
     {
       "name": "OpenAI-News-L10N",
