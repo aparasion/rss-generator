@@ -96,14 +96,17 @@ function validateConfig(sites) {
     } catch {
       throw new Error(`config[${i}].url is not a valid URL: "${site.url}"`);
     }
-    // RSS-type feeds only need name + url; HTML-scrape feeds need selectors.
-    if (site.type !== "rss") {
+    // RSS-type and static-type feeds only need name + url; HTML-scrape feeds need selectors.
+    if (site.type !== "rss" && site.type !== "static") {
       const required = ["articleSelector", "titleSelector", "linkSelector"];
       for (const field of required) {
         if (site[field] == null) {
           throw new Error(`config[${i}] is missing required field "${field}"`);
         }
       }
+    }
+    if (site.type === "static" && !Array.isArray(site.items)) {
+      throw new Error(`config[${i}] with type "static" must have an "items" array`);
     }
   });
 }
@@ -795,6 +798,47 @@ async function processSite(site, httpCache, seenCache) {
   };
 }
 
+// ─── Static feed (no HTTP fetch — articles baked into config) ────────────────
+
+async function processStaticFeed(site) {
+  const t0 = Date.now();
+  const feedUrl = `${FEED_BASE_URL}/rss/${site.name}.xml`;
+  const feed = new RSS({
+    title: site.feedTitle || `${site.name} Feed`,
+    description: site.feedDescription || `RSS feed generated for ${site.name}`,
+    feed_url: feedUrl,
+    site_url: site.url,
+    language: "en",
+    ttl: 60,
+  });
+
+  for (const article of site.items) {
+    const date = article.date ? parseArticleDate(article.date) : null;
+    const item = {
+      title: article.title,
+      url: article.link,
+      description: truncate(stripHtml(article.description || ""), MAX_DESCRIPTION_LENGTH),
+    };
+    if (date) item.date = date;
+    feed.item(item);
+  }
+
+  const outputPath = path.join(rssDir, `${site.name}.xml`);
+  fs.writeFileSync(outputPath, feed.xml({ indent: true }));
+
+  const count = site.items.length;
+  console.log(`  Done: ${site.name} — ${count} static item(s) in ${Date.now() - t0}ms`);
+
+  return {
+    name: site.name,
+    url: site.url,
+    feedUrl,
+    status: "success",
+    items: count,
+    durationMs: Date.now() - t0,
+  };
+}
+
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 (async () => {
@@ -813,6 +857,9 @@ async function processSite(site, httpCache, seenCache) {
         try {
           if (site.type === "rss") {
             return await processRssFeed(site, httpCache, seenCache);
+          }
+          if (site.type === "static") {
+            return await processStaticFeed(site);
           }
           return await processSite(site, httpCache, seenCache);
         } catch (err) {
