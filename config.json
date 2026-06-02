@@ -1,5 +1,14 @@
 [
   {
+    "name": "DATAmundi-Newsroom",
+    "url": "https://datamundi.ai/newsroom/",
+    "articleSelector": ".e-loop-item",
+    "titleSelector": ".elementor-widget-theme-post-title h3 a",
+    "linkSelector": ".elementor-widget-theme-post-title h3 a",
+    "descriptionSelector": "",
+    "dateSelector": ""
+  },
+  {
     "name": "GALA-Global",
     "url": "https://www.gala-global.org/news/",
     "articleSelector": ".articles .article",
