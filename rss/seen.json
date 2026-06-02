@@ -8067,5 +8067,10 @@
       "checkedAt": "2026-06-02T15:26:28.708Z"
     }
   },
-  "Cohere-Newsroom-L10N": {}
+  "Cohere-Newsroom-L10N": {
+    "https://cohere.com/blog/command-a-plus": {
+      "relevant": false,
+      "checkedAt": "2026-06-02T15:42:42.105Z"
+    }
+  }
 }
