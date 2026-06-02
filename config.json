@@ -232,12 +232,12 @@
   {
     "name": "Cohere-Newsroom-L10N",
     "url": "https://cohere.com/newsroom/articles",
-    "articleSelector": "a[href*='/newsroom/articles/']",
-    "titleSelector": "h2, h3, h4",
-    "linkSelector": "self",
-    "descriptionSelector": "p",
-    "dateSelector": "time",
-    "linkPattern": "/newsroom/articles/",
+    "articleSelector": "div[class*='grid-cols-5']",
+    "titleSelector": "h2",
+    "linkSelector": "a[href^='/blog/']",
+    "descriptionSelector": "",
+    "dateSelector": "> p",
+    "linkPattern": "/blog/",
     "feedTitle": "Cohere Newsroom — Language & Translation",
     "feedDescription": "Cohere newsroom articles filtered for language, translation, and linguistics topics",
     "contentFilter": {
