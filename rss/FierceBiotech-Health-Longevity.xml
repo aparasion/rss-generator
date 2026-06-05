@@ -4,10 +4,28 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 16:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 11:05:01 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 16:50:40 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 11:05:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Lilly, Boehringer to slash at least $1B each from planned investments in Germany]]></title>
+            <description><![CDATA[In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.]]></description>
+            <link>https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report</guid>
+        </item>
+        <item>
+            <title><![CDATA[IMU Biosciences nabs $53M funding round to ‘decode’ the immune system]]></title>
+            <description><![CDATA[British medtech startup IMU Biosciences has landed a £40 million ($53 million) series A as it looks to move immune system analysis from analog to “high definition.”]]></description>
+            <link>https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system</guid>
+        </item>
+        <item>
+            <title><![CDATA[New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells]]></title>
+            <description><![CDATA[Anti-aging startup NewLimit is back with a fresh fundraise of $435 million after landing on its first clinic-ready candidate years earlier than expected.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells</guid>
+        </item>
     </channel>
 </rss>

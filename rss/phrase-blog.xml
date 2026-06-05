@@ -4,11 +4,41 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 16:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 11:05:01 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 16:50:40 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 11:05:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Forcing the fit: MQM in the age of automated evaluation]]></title>
+            <description><![CDATA[MQM was the most robust answer we had for human evaluation. Automated evaluation is a different problem, and the seams are starting to show.Read more]]></description>
+            <link>https://phrase.com/blog/posts/mqm-automated-translation-evaluation/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/mqm-automated-translation-evaluation/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Multilingual video localization, with the assets you’ve already built]]></title>
+            <description><![CDATA[When AV runs outside your TMS, terminology drifts and consistency breaks down. Phrase Studio closes that gap by running subtitling, dubbing, and voice-over inside the same workflow your text content…Read more]]></description>
+            <link>https://phrase.com/blog/posts/multilingual-video-localization-phrase-studio/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/multilingual-video-localization-phrase-studio/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Every market is a new market]]></title>
+            <description><![CDATA[Your brand and your existing playbook will earn you a foothold in a new market. What they won’t do is carry you to sustained growth. Kevin O’Donnell on why international…Read more]]></description>
+            <link>https://phrase.com/blog/posts/international-expansion-go-to-market-strategy/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/international-expansion-go-to-market-strategy/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Phrase is the Language Intelligence Platform.]]></title>
+            <description><![CDATA[Most announcements work like this. A company describes what it intends to build, frames it as a vision, and asks you to believe the future they’re describing. This post is…Read more]]></description>
+            <link>https://phrase.com/blog/posts/phrase-language-intelligence-platform/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/phrase-language-intelligence-platform/</guid>
+        </item>
+        <item>
+            <title><![CDATA[Should you build or buy your localization infrastructure?]]></title>
+            <description><![CDATA[The instinct to build is strongest in engineering-led companies. But maintaining a localization platform over time is a different problem than building a proof of concept — and most organizations…Read more]]></description>
+            <link>https://phrase.com/blog/posts/build-vs-buy-localization-infrastructure/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/build-vs-buy-localization-infrastructure/</guid>
+        </item>
         <item>
             <title><![CDATA[How AI and hyper-localization are changing international growth]]></title>
             <description><![CDATA[The real opportunity in AI isn’t faster output — it’s reaching audiences that were previously too niche or too expensive to serve. Kevin O’Donnell explains why hyper-localization is becoming a…Read more]]></description>
@@ -32,36 +62,6 @@
             <description><![CDATA[When no single leader owns international performance, investment scatters, team priorities diverge, and the signals that would tell leadership where to act never surface in a coherent way.Read more]]></description>
             <link>https://phrase.com/blog/posts/international-growth-accountability-saas/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/international-growth-accountability-saas/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why the post-editing paradigm is breaking down in the age of LLMs]]></title>
-            <description><![CDATA[Progress in translation quality is no longer driven primarily by better models. It’s driven by how those models are orchestrated, and the gap between a well-orchestrated system and a one-shot…Read more]]></description>
-            <link>https://phrase.com/blog/posts/llm-translation-orchestration-quality-workflows/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/llm-translation-orchestration-quality-workflows/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Who’s accountable for what AI says to your customers?]]></title>
-            <description><![CDATA[When AI generates and adapts messaging across dozens of markets at a scale no human team can review in full, the failures are rarely dramatic. They show up quietly, as…Read more]]></description>
-            <link>https://phrase.com/blog/posts/ai-content-governance-enterprise-global/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-content-governance-enterprise-global/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why treating international growth as a bolt-on keeps failing, and what shifting left fixes]]></title>
-            <description><![CDATA[Shifting left means bringing localization expertise into product and go-to-market decisions at the planning stage, not at launch. Here’s what that looks like in practice.Read more]]></description>
-            <link>https://phrase.com/blog/posts/shift-left-localization-international-growth/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/shift-left-localization-international-growth/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Global by design, not by default]]></title>
-            <description><![CDATA[International growth fails when it is treated as a bolt-on. Kevin O’Donnell explains why SaaS companies need global-first operating models, dedicated accountability, market-level dashboards, and localization infrastructure built for scale.Read more]]></description>
-            <link>https://phrase.com/blog/posts/global-saas-growth-international-expansion/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/global-saas-growth-international-expansion/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why video localization belongs in your core workflow]]></title>
-            <description><![CDATA[For many localization teams, video still sits outside the system. Text moves through mature workflows, while audio and video rely on separate vendors, tools, and review processes. The next step…Read more]]></description>
-            <link>https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/video-localization-workflows-phrase-studio/</guid>
         </item>
     </channel>
 </rss>
