@@ -4,11 +4,39 @@
         <description><![CDATA[RSS feed generated for LingopalAI]]></description>
         <link>https://lingopal.ai/industrynews-blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 15:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 09:51:51 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/LingopalAI.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 15:26:28 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 09:51:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[What Comes After AI Translation in Sports Broadcasting?]]></title>
+            <description><![CDATA[The next evolution of fan engagement is personalized commentary. Lingopal CEO Casey Schneider explores what comes after real-time AI translation at IBM's Sports Tech Founder Showcase during NY Tech Week.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/what-comes-after-ai-translation-in-sports-broadcasting</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/what-comes-after-ai-translation-in-sports-broadcasting</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Sports Jargon Translation Accuracy 2026]]></title>
+            <description><![CDATA[Explore the accuracy of AI translation for technical sports broadcast jargon in 2026. Discover Lingopal's insights and improve your understanding. Learn more!]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/ai-sports-jargon-translation-accuracy</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/ai-sports-jargon-translation-accuracy</guid>
+            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Facts News Media Leaders Can't Ignore About AI Translation in 2026]]></title>
+            <description><![CDATA[The future of news isn't just faster. It's multilingual, accessible, and global by default.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/news-media-ai-translation</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/news-media-ai-translation</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Sports Fan Experience Is Multilingual]]></title>
+            <description><![CDATA[This week at SBJ Tech Week, one of the most interesting conversations happening across the sports industry wasn’t only about streaming quality, AI analytics, or immersive stadium technology.]]></description>
+            <link>https://lingopal.ai/industrynews-blog/article/sports-fan-experience-is-multilingual</link>
+            <guid isPermaLink="true">https://lingopal.ai/industrynews-blog/article/sports-fan-experience-is-multilingual</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global Accessibility Awareness Day (GAAD): Why Multilingual AI Communication Is Becoming Essential for Digital Accessibility]]></title>
             <description><![CDATA[Every year, Global Accessibility Awareness Day reminds organizations of a growing reality: Digital accessibility is no longer just a compliance requirement. It is becoming a core business, communication, and inclusion strategy.]]></description>

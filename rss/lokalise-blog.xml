@@ -4,11 +4,18 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 11:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 09:51:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 11:05:02 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 09:51:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[MCP vs REST API for Localization: When to Use Each]]></title>
+            <description><![CDATA[Lokalise gives developers two programmatic ways to manage localization workflows: the REST API and the MCP Server. In any MCP vs API localization decision, the key point is that one does not replace the other. The REST API is built for scripted, repeatable, deterministic automation, such as CI/CD pipelines, batch imports, and webhook-driven deployments.]]></description>
+            <link>https://lokalise.com/blog/mcp-vs-api-localization/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/mcp-vs-api-localization/</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Localization ROI: how to build the business case]]></title>
             <description><![CDATA[How to build the business case that turns localization from a line item into your highest-return growth lever. Your board wants growth from global markets. Your competitors are already there. And your localization team has the tools to deliver. So why is localization still stuck in the "cost center" conversation? It's a familiar tension. The data overwhelmingly shows that localization drives revenue — through discoverability, conversion, and loyalty. Yet in too many organization]]></description>
@@ -57,13 +64,6 @@
             <link>https://lokalise.com/blog/localized-brands-ai-search-visibility/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/localized-brands-ai-search-visibility/</guid>
             <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your AEO strategy is invisible to almost 80% of the world]]></title>
-            <description><![CDATA[What you'll learn in this article: Why AI answer engines have a built-in language bias — and what it means for your brand's global visibilityThe four signals that determine whether your brand gets cited in AI search resultsHow to build the content infrastructure that earns A]]></description>
-            <link>https://lokalise.com/blog/localization-and-aeo/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/localization-and-aeo/</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

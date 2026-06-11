@@ -4,15 +4,29 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 16:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 09:51:51 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 16:50:40 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 09:51:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[10 Million Words, Zero Escalations: Effective Retail Localization with Aydin Gür]]></title>
+            <description><![CDATA[When most of us think about localization, we picture someone quietly working through spreadsheets, swapping words from one language to another. Aydin Gür’s reality couldn’t be further from that image. As an Apple Retail Globalization Editor for the Turkish market, he’s reviewed and signed off on over 10 million words of customer-facing content, and his team hasn’t had a single escalation since 2018. In this episode of the Agile Localization Podcast, host Stefan Huyghe sat down with Aydin to…]]></description>
+            <link>https://crowdin.com/blog/agile-localization-podcast-with-aydin-gur</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-aydin-gur</guid>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s new at Crowdin: May 2026]]></title>
+            <description><![CDATA[When you are running dozens of localization projects, keeping track of every moving piece is hard. How do you ensure your AI engines always have enough context, your glossaries stay updated, and your published content doesn't go stale? This month, we are introducing automated guardrails to handle that operational maintenance for you. Crowdin Advisors: A background check for your project setup that automatically flags missing screenshots, thin glossaries, or unattached style guides, and many…]]></description>
+            <link>https://crowdin.com/blog/whats-new-at-crowdin-may-2026</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-may-2026</guid>
+            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Technical Writers and Translators Build Better Global Products Together with Rutva Safi]]></title>
@@ -90,20 +104,6 @@
             <link>https://crowdin.com/blog/snovio-localization-with-crowdin</link>
             <guid isPermaLink="true">https://crowdin.com/blog/snovio-localization-with-crowdin</guid>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Killing the Per-Word Model: Diego Cresceri on Reinventing Localization Value]]></title>
-            <description><![CDATA[For as long as most of us can remember, the localization industry has run on a single, stubborn unit of measurement: the words. You count them, you price them, you invoice them. Simple. But what happens when a large language model can draft thousands of those words in seconds, and a post-editor can process them by the hour? That’s the uncomfortable question at the heart of a recent conversation on The Agile Localization Podcast, where host Stefan Huyghe sat down with Diego Cresceri, Founder and…]]></description>
-            <link>https://crowdin.com/blog/agile-localization-podcast-with-diego-cresceri</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/agile-localization-podcast-with-diego-cresceri</guid>
-            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Localize at Scale Without Multiplying Engineering Work]]></title>
-            <description><![CDATA[Most teams hit the same wall when expanding to new markets. The content strategy is ready. Translations are in progress. But every new locale requires engineering work to set up, deploy, and maintain. Add five markets, and you've added five times the coordination overhead. The problem isn't translation. It's the gap between translated content and live pages. This post covers how product and engineering teams can close that gap using Builder.io and Crowdin together, so marketing and content…]]></description>
-            <link>https://crowdin.com/blog/scalable-localization-workflow-cms</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/scalable-localization-workflow-cms</guid>
-            <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

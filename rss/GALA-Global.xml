@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 11:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 09:51:52 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 11:05:02 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 09:51:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Phrase Expands Language Intelligence for Humans and AI Agents]]></title>
+            <description><![CDATA[New APIs, Style Guides, and agent-ready infrastructure make language intelligence accessible across enterprise workflows. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/phrase-expands-language-intelligence-for-humans-and-ai-agents</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/phrase-expands-language-intelligence-for-humans-and-ai-agents</guid>
+        </item>
         <item>
             <title><![CDATA[EX:CHANGE 2026: A new kind of conference for language professionals]]></title>
             <description><![CDATA[If you're ready to explore the potential for change, don't miss EX:CHANGE 2026. Organized by the Institute of Translation and Interpreting (ITI) and marking its 40th anniversary, this two-day event takes place 1–2 July 2026 in Milton Keynes, UK and is focused on participation, not... Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[Register for the upcoming conference on 25-26 June. This year’s theme, “We Are Here To Stay: The Irreplaceable Language Industry,” reflects the critical and evolving role of interpreters, translators, and all language professionals in today’s dynamic landscape. Early bird closes 30 April. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/leos-13th-international-virtual-conference</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/leos-13th-international-virtual-conference</guid>
-        </item>
-        <item>
-            <title><![CDATA[GALA Annual Survey 2026 Findings]]></title>
-            <description><![CDATA[Each year, GALA’s Annual Survey offers a candid look at how our community experiences the association. We find out what’s working well and where we must improve, and we gauge the community’s sentiments about the association and the value we create. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/gala-annual-survey-2026-findings</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/gala-annual-survey-2026-findings</guid>
         </item>
     </channel>
 </rss>

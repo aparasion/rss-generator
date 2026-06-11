@@ -4,28 +4,58 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 11:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 09:51:51 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 11:05:01 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 09:51:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Lilly, Boehringer to slash at least $1B each from planned investments in Germany]]></title>
-            <description><![CDATA[In response to a planned healthcare reform initiative in Germany that would reduce the prices of branded drugs, Eli Lilly and Boehringer Ingelheim have slashed their planned investments in the country, each by at least $1 billion.]]></description>
-            <link>https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/pharma/lilly-boehringer-plan-slash-investment-germany-report</guid>
+            <title><![CDATA[GLP-1s may combat depression by multiplying a mood-boosting gut microbe]]></title>
+            <description><![CDATA[Since GLP-1 drugs like Novo Nordisk’s semaglutide and Eli Lilly’s tirzepatide took the world by storm for their potent treatment of diabetes and obesity, they have also been plagued by a clinical conundrum. In some studies, the peptides seem to possess antidepressant effects, while in others they’ve been linked to worse mental health and even increased suicidality.]]></description>
+            <link>https://www.fiercebiotech.com/research/glp-1s-may-combat-depression-multiplying-mood-boosting-gut-microbe</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/research/glp-1s-may-combat-depression-multiplying-mood-boosting-gut-microbe</guid>
         </item>
         <item>
-            <title><![CDATA[IMU Biosciences nabs $53M funding round to ‘decode’ the immune system]]></title>
-            <description><![CDATA[British medtech startup IMU Biosciences has landed a £40 million ($53 million) series A as it looks to move immune system analysis from analog to “high definition.”]]></description>
-            <link>https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/imu-biosciences-nabs-53m-funding-round-decode-immune-system</guid>
+            <title><![CDATA[Sanofi halts phase 3 autoimmune trial early over insufficient efficacy as pipeline woes continue]]></title>
+            <description><![CDATA[Sanofi has stopped a phase 3 autoimmune clinical trial early after an interim analysis found the therapy was “unlikely to provide sufficient efficacy.” The setback eliminates one opportunity for a key late-phase program and continues the “bumpy ride” for Sanofi’s pipeline.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/sanofi-halts-phase-3-autoimmune-trial-early-over-lackluster-efficacy</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/sanofi-halts-phase-3-autoimmune-trial-early-over-lackluster-efficacy</guid>
         </item>
         <item>
-            <title><![CDATA[New heights for NewLimit as anti-aging biotech nabs $435M to rejuvenate old cells]]></title>
-            <description><![CDATA[Anti-aging startup NewLimit is back with a fresh fundraise of $435 million after landing on its first clinic-ready candidate years earlier than expected.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/new-heights-newlimit-anti-aging-biotech-nabs-435m-rejuvenate-old-cells</guid>
+            <title><![CDATA[Cancer biotech Parabilis ups IPO plans to potentially record-setting $637M]]></title>
+            <description><![CDATA[Mere months after obesity biotech Kailera Therapeutics netted the biggest initial public offering the sector has ever seen, with a whopping $625 million, Parabilis Medicines has upsized its own IPO plans with the potential to eclipse that record.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/cancer-biotech-parabilis-ups-ipo-plans-potentially-record-setting-637m</guid>
+        </item>
+        <item>
+            <title><![CDATA[Lilly moves deeper into Alzheimer’s research with AlzeCure licensing deal]]></title>
+            <description><![CDATA[Eli Lilly has signed a heavily backloaded agreement to license a gamma-secretase modulator treatment for Alzheimer's disease from AlzeCure Pharma for up to $1 billion biobucks.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/lilly-licenses-alzecure-alzheimers-asset-1b-biobucks</guid>
+        </item>
+        <item>
+            <title><![CDATA[CeQur nabs $100M series E to fuel insulin patch commercialization]]></title>
+            <description><![CDATA[Swiss medtech CeQur has raised $100 million in a series E funding round for what it called its “most ambitious phase of commercial growth.”]]></description>
+            <link>https://www.fiercebiotech.com/medtech/cequr-nabs-100m-series-e-boost-commercial-operations-its-insulin-delivery-patch</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/cequr-nabs-100m-series-e-boost-commercial-operations-its-insulin-delivery-patch</guid>
+        </item>
+        <item>
+            <title><![CDATA[With ADA in the books, analyst says Lilly is ‘widening its lead’ in the obesity race]]></title>
+            <description><![CDATA[Eli Lilly emerged as the “clear winner from ADA,” according to RBC Capital Markets analyst Trung Hyunh, who added that “the field is getting more crowded—but Lilly is widening its lead.”]]></description>
+            <link>https://www.fiercebiotech.com/pharma/ada-lilly-widening-its-lead-obesity-race-analyst</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/pharma/ada-lilly-widening-its-lead-obesity-race-analyst</guid>
+        </item>
+        <item>
+            <title><![CDATA[ADA: Dexcom CGM shows benefit in non-insulin diabetes patients]]></title>
+            <description><![CDATA[A Dexcom continuous glucose monitor helped adults with type 2 diabetes not using insulin improve blood sugar control in a randomized trial, adding new fuel to the industry’s push to bring CGMs into broader primary care use.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/ada-dexcom-cgm-shows-benefit-non-insulin-diabetes-patients</guid>
+        </item>
+        <item>
+            <title><![CDATA[ResMed snaps up Noctrix Health in $340M sleep tech deal]]></title>
+            <description><![CDATA[ResMed has closed its $340 million acquisition of Noctrix Health, picking up a wearable neuromodulation device that pushes the sleep tech giant beyond its core sleep apnea and respiratory care businesses.]]></description>
+            <link>https://www.fiercebiotech.com/medtech/resmed-snaps-noctrix-health-340m-sleep-tech-deal</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/resmed-snaps-noctrix-health-340m-sleep-tech-deal</guid>
         </item>
     </channel>
 </rss>
