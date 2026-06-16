@@ -2,11 +2,12 @@
   {
     "name": "TAUS-Blog",
     "url": "https://www.taus.net/resources/blog/",
-    "articleSelector": "article, .post, .blog-post, .entry, [class*='post-item'], [class*='blog-card']",
-    "titleSelector": "h2, h3, .entry-title, .post-title",
-    "linkSelector": "h2 a, h3 a, .entry-title a, .post-title a, a.read-more",
-    "descriptionSelector": ".entry-summary, .post-excerpt, .excerpt, p",
-    "dateSelector": "time, .entry-date, .post-date, .date"
+    "articleSelector": ".article-card",
+    "titleSelector": ".text-xl.font-semibold",
+    "linkSelector": "a[href*='/resources/blog/']:not([href*='/category/'])",
+    "descriptionSelector": ".line-clamp-5",
+    "dateSelector": ".text-xs.text-gray-950",
+    "linkPattern": "/resources/blog/"
   },
   {
     "name": "DATAmundi-Newsroom",
