@@ -1,5 +1,15 @@
 [
   {
+    "name": "TAUS-Blog",
+    "url": "https://www.taus.net/resources/blog/",
+    "articleSelector": ".article-card",
+    "titleSelector": ".text-xl.font-semibold",
+    "linkSelector": "a[href*='/resources/blog/']:not([href*='/category/'])",
+    "descriptionSelector": ".line-clamp-5",
+    "dateSelector": ".text-xs.text-gray-950",
+    "linkPattern": "/resources/blog/"
+  },
+  {
     "name": "DATAmundi-Newsroom",
     "url": "https://datamundi.ai/newsroom/",
     "articleSelector": ".e-loop-item",
