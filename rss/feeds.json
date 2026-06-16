@@ -1,6 +1,11 @@
 {
-  "generatedAt": "2026-06-11T09:52:00.745Z",
+  "generatedAt": "2026-06-16T13:07:25.137Z",
   "feeds": [
+    {
+      "name": "TAUS-Blog",
+      "sourceUrl": "https://www.taus.net/resources/blog/",
+      "feedUrl": "https://aparasion.github.io/rss-generator/rss/TAUS-Blog.xml"
+    },
     {
       "name": "DATAmundi-Newsroom",
       "sourceUrl": "https://datamundi.ai/newsroom/",

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TAUS-Blog Feed]]></title>
+        <description><![CDATA[RSS feed generated for TAUS-Blog]]></description>
+        <link>https://www.taus.net/resources/blog/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 16 Jun 2026 13:07:17 GMT</lastBuildDate>
+        <atom:link href="https://aparasion.github.io/rss-generator/rss/TAUS-Blog.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 16 Jun 2026 13:07:17 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why TMS is No Longer Enough]]></title>
+            <description><![CDATA[The translation industry must evolve beyond traditional TMS to embrace AI and Quality Estimation technology, ensuring cultural intelligence and brand integrity.]]></description>
+            <link>https://www.taus.net/resources/blog/why-tms-is-no-longer-enough-by-jaap-van-der-meer</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/why-tms-is-no-longer-enough-by-jaap-van-der-meer</guid>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New TAUS EPIC Features for Scalable and Smarter Quality Estimation]]></title>
+            <description><![CDATA[Discover how all the new EPIC features give even more flexibility in handling Quality Estimation and Automated Post Editing on your content.]]></description>
+            <link>https://www.taus.net/resources/blog/new-taus-epic-features-for-scalable-and-smarter-quality-estimation</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/new-taus-epic-features-for-scalable-and-smarter-quality-estimation</guid>
+            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Customized Quality Estimation models: Are you ready for them?]]></title>
+            <description><![CDATA[TAUS EPIC API's customizable Quality Estimation models can enhance translation workflows and meet specific needs without requiring in-house NLP expertise.]]></description>
+            <link>https://www.taus.net/resources/blog/customized-quality-estimation-models-are-you-ready-for-them</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/customized-quality-estimation-models-are-you-ready-for-them</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Case for Launching Your Own AI Quality Companion]]></title>
+            <description><![CDATA[Explore how TAUS EPIC API's Quality Estimation can revolutionize translation workflows, that offer scalable, domain-specific solutions for Language Service Providers without the need for in-house NLP experts.]]></description>
+            <link>https://www.taus.net/resources/blog/a-case-for-launching-your-own-ai-quality-companion</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/a-case-for-launching-your-own-ai-quality-companion</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TRSB Joins TAUS EPIC Partner Program]]></title>
+            <description><![CDATA[TRSB partners with TAUS to develop a specialized Canadian French Quality Estimation model, enhancing multilingual content quality scalability in Canada.]]></description>
+            <link>https://www.taus.net/resources/blog/trsb-joins-taus-epic-partner-program</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/trsb-joins-taus-epic-partner-program</guid>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EPIC in Numbers: See How Much You Can Save with Quality Estimation and Automated Post Editing]]></title>
+            <description><![CDATA[See your translation ROI with Quality Estimation (QE) and Automatic Post-Editing (APE). Find out how EPIC can reduce post-editing costs by up to 70% while improving efficiency.]]></description>
+            <link>https://www.taus.net/resources/blog/epic-in-numbers-see-how-much-you-can-save-with-quality-estimation-and-automated-post-editing</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/epic-in-numbers-see-how-much-you-can-save-with-quality-estimation-and-automated-post-editing</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Using LLMs for Quality Estimation Is Challenging and Complex]]></title>
+            <description><![CDATA[LLMs' limitations on QE tasks versus more specific solutions like TAUS EPIC]]></description>
+            <link>https://www.taus.net/resources/blog/why-using-llms-for-quality-estimation-is-challenging-and-complex</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/why-using-llms-for-quality-estimation-is-challenging-and-complex</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TAUS Offers Real-World Data for AI Training through Partnership with Library of Business]]></title>
+            <description><![CDATA[TAUS partners with Library of Business to provide industry-specific datasets for AI training, enhancing the performance of small language models and addressing evolving data needs.]]></description>
+            <link>https://www.taus.net/resources/blog/taus-offers-real-world-data-for-ai-training-through-partnership-with-library-of-business</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/taus-offers-real-world-data-for-ai-training-through-partnership-with-library-of-business</guid>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

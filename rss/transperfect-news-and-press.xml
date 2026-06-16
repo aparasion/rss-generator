@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 09:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 13:07:18 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 09:51:52 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 13:07:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -29,6 +29,12 @@
             <link>https://www.transperfect.com/blog/c3-summit-london</link>
             <guid isPermaLink="true">https://www.transperfect.com/blog/c3-summit-london</guid>
             <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MPC and The Mill Join Forces Under One Brand in New Era of Creative Production]]></title>
+            <link>https://www.transperfect.com/about/press/mpc-and-mill-join-forces-under-one-brand-new-era-creative-production</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/mpc-and-mill-join-forces-under-one-brand-new-era-creative-production</guid>
+            <pubDate>Tue, 16 Jun 2026 04:39:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TransPerfect’s GlobalLink Technology Honored by G2 with 24 Awards Across 12 Categories]]></title>
@@ -125,12 +131,6 @@
             <link>https://www.transperfect.com/about/press/transperfect-raises-more-90k-toys-tots</link>
             <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-raises-more-90k-toys-tots</guid>
             <pubDate>Wed, 14 Jan 2026 21:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect’s GlobalLink Technology Honored in 13 Categories of G2’s Winter 2026 Report]]></title>
-            <link>https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-13-categories-g2s-winter-2026-report</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfects-globallink-technology-honored-13-categories-g2s-winter-2026-report</guid>
-            <pubDate>Tue, 06 Jan 2026 14:13:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

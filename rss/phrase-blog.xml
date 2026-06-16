@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 09:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 13:07:18 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 09:51:51 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 13:07:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[You Built It. Now Who Owns It?]]></title>
+            <description><![CDATA[Most organizations plan carefully for what they are building. Almost none plan for what maintaining it will cost them. Drawing on insights from Elaine Barsoom, who built Nike’s first AI…Read more]]></description>
+            <link>https://phrase.com/blog/posts/enterprise-ai-build-vs-buy-ownership/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/enterprise-ai-build-vs-buy-ownership/</guid>
+        </item>
         <item>
             <title><![CDATA[Forcing the fit: MQM in the age of automated evaluation]]></title>
             <description><![CDATA[MQM was the most robust answer we had for human evaluation. Automated evaluation is a different problem, and the seams are starting to show.Read more]]></description>
@@ -56,12 +62,6 @@
             <description><![CDATA[When you break global revenue down by individual market, patterns emerge that should be driving strategic decisions. Most companies don’t have the reporting infrastructure to see them.Read more]]></description>
             <link>https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</link>
             <guid isPermaLink="true">https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</guid>
-        </item>
-        <item>
-            <title><![CDATA[Who should own international growth?]]></title>
-            <description><![CDATA[When no single leader owns international performance, investment scatters, team priorities diverge, and the signals that would tell leadership where to act never surface in a coherent way.Read more]]></description>
-            <link>https://phrase.com/blog/posts/international-growth-accountability-saas/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/international-growth-accountability-saas/</guid>
         </item>
     </channel>
 </rss>
