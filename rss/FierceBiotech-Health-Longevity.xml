@@ -4,28 +4,46 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 13:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:46:44 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 13:07:17 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 12:46:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones]]></title>
-            <description><![CDATA[Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&amp;D, sits down with Fierce Healthcare &amp; Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/ipsen-rd-chief-pipeline-discipline-partnerships-and-2026-milestones</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ipsen-rd-chief-pipeline-discipline-partnerships-and-2026-milestones</guid>
+            <title><![CDATA[From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple]]></title>
+            <description><![CDATA[The overwhelming demand for GLP-1 weight loss drugs has reshaped the drug market, empowering consumers to take charge of their own health and removing barriers between their wallets and their medicine cabinets.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/his-parents-basement-your-medicine-cabinet-absci-ceo-endeavors-create-biotechs-apple</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/his-parents-basement-your-medicine-cabinet-absci-ceo-endeavors-create-biotechs-apple</guid>
         </item>
         <item>
-            <title><![CDATA[Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug]]></title>
-            <description><![CDATA[Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.]]></description>
-            <link>https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/medtech/guardant-health-nabs-fda-test-approval-find-patients-boehringers-new-cancer-drug</guid>
+            <title><![CDATA[Alumis crushed by midstage lupus flop but plots path to phase 3 for TYK2 inhibitor]]></title>
+            <description><![CDATA[A phase 2b lupus trial of Alumis’ envudeucitinib has missed its primary and secondary endpoints. But the biotech is still moving the TYK2 inhibitor into phase 3 in the autoimmune disease, pointing to evidence of efficacy in a prespecified subgroup of patients to support its decision.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor</guid>
         </item>
         <item>
-            <title><![CDATA[Cardiovascular-focused Kardigan plans to bring in cozy $320M haul from upcoming IPO]]></title>
-            <description><![CDATA[Kardigan has sewn up its IPO plans, with the cardiovascular biotech expecting to bring in a cozy $320 million from its planned Nasdaq listing.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/cardiovascular-focused-kardigan-plans-bring-cozy-320m-haul-upcoming-ipo</guid>
+            <title><![CDATA[GSK catches phase 3 fever after mRNA flu vaccine beats standard shots]]></title>
+            <description><![CDATA[GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots</guid>
+        </item>
+        <item>
+            <title><![CDATA[UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies]]></title>
+            <description><![CDATA[Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</guid>
+        </item>
+        <item>
+            <title><![CDATA[ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial]]></title>
+            <description><![CDATA[AstraZeneca’s oral relaxin agonist delivered encouraging phase 2b results in chronic heart failure, improving measures of cardiac function across two patient groups.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial</guid>
+        </item>
+        <item>
+            <title><![CDATA[Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies]]></title>
+            <description><![CDATA[Eli Lilly has struck a deal to acquire Merida Biosciences for up to $2.875 billion, establishing a beachhead in efforts to treat disease through the selective degradation of pathogenic autoantibodies.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies</guid>
         </item>
     </channel>
 </rss>

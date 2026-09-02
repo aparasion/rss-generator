@@ -4,31 +4,55 @@
         <description><![CDATA[RSS feed generated for transperfect-news-and-press]]></description>
         <link>https://www.transperfect.com/about/news-and-press/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 13:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:46:44 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 13:07:18 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 12:46:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[International Search Summit: New York]]></title>
-            <description><![CDATA[Discover the International Search Summit New York, a single-track conference dedicated to scaling global websites and navigating AI's impact across channels. Gain practical insights from real-life case studies and network with peers to drive revenue and hit your international growth targets.]]></description>
-            <link>https://www.transperfect.com/blog/international-search-summit-new-york</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/international-search-summit-new-york</guid>
-            <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[AI in Global Patent Prosecution]]></title>
+            <description><![CDATA[Governance, Quality Controls, and Confidentiality Across BordersThis CLE webinar offers practical strategies, governance frameworks, and ethical guidelines for safely integrating AI into global patent prosecution workflows.]]></description>
+            <link>https://www.transperfect.com/blog/ai-global-patent-prosecution</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/ai-global-patent-prosecution</guid>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Webinar: Rethinking Data Collection in AI]]></title>
-            <description><![CDATA[Join Alexandros Poulis and Radosław Jeż for a DataForce Live session on how leading teams are rethinking their approach to data, and why it’s becoming a competitive advantage.]]></description>
-            <link>https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/webinar-rethinking-data-collection-ai</guid>
-            <pubDate>Tue, 26 May 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[GlobalLink NEXT - London]]></title>
+            <description><![CDATA[Join us in London from September 24-25 to hear industry professionals, leading companies and brands, inspiring speakers, technology, and solutions experts.]]></description>
+            <link>https://www.transperfect.com/blog/globallink-next</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/globallink-next</guid>
+            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[C3 Summit London]]></title>
-            <description><![CDATA[C3 Summit (Conversations on Clinical Content) is part of a series of events that offers sponsors, CROs, and biotech professionals opportunities to share knowledge, gain industry insights, and network.]]></description>
-            <link>https://www.transperfect.com/blog/c3-summit-london</link>
-            <guid isPermaLink="true">https://www.transperfect.com/blog/c3-summit-london</guid>
-            <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+            <title><![CDATA[Healthcare Accessibility in 2026]]></title>
+            <description><![CDATA[U.S. Regulations, Litigation Risk, and What Healthcare Organizations Need to Do NowJoin for a discussion on the key trends, challenges, and practical steps organizations can take to strengthen their accessibility programs and improve compliance readiness.]]></description>
+            <link>https://www.transperfect.com/blog/healthcare-accessibility-2026</link>
+            <guid isPermaLink="true">https://www.transperfect.com/blog/healthcare-accessibility-2026</guid>
+            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Appoints Mark Lawyer to Head Global Consulting Practice]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-appoints-mark-lawyer-head-global-consulting-practice</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-appoints-mark-lawyer-head-global-consulting-practice</guid>
+            <pubDate>Mon, 24 Aug 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Honored as BPO of the Year Finalist at Customer Contact Week Excellence Awards]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-honored-bpo-year-finalist-customer-contact-week-excellence-awards</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-honored-bpo-year-finalist-customer-contact-week-excellence-awards</guid>
+            <pubDate>Fri, 14 Aug 2026 15:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect’s Trial Interactive Partners with Virtual Data Corp to Bring Predictive Compliance Intelligence to Trial Interactive]]></title>
+            <link>https://www.transperfect.com/about/press/transperfects-trial-interactive-partners-virtual-data-corp-bring-predictive-compliance</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfects-trial-interactive-partners-virtual-data-corp-bring-predictive-compliance</guid>
+            <pubDate>Fri, 14 Aug 2026 01:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TransPerfect Legal Receives Band 1 Rankings and New Individual Distinctions in Chambers and Partners 2026 Guide]]></title>
+            <link>https://www.transperfect.com/about/press/transperfect-legal-receives-band-1-rankings-and-new-individual-distinctions-chambers</link>
+            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legal-receives-band-1-rankings-and-new-individual-distinctions-chambers</guid>
+            <pubDate>Thu, 25 Jun 2026 16:10:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MPC and The Mill Join Forces Under One Brand in New Era of Creative Production]]></title>
@@ -107,30 +131,6 @@
             <link>https://www.transperfect.com/about/press/slator-transperfect-posts-7-growth-in-2025</link>
             <guid isPermaLink="true">https://www.transperfect.com/about/press/slator-transperfect-posts-7-growth-in-2025</guid>
             <pubDate>Wed, 04 Mar 2026 15:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NAMMBA Selects TransPerfect as Preferred Language Partner]]></title>
-            <link>https://www.transperfect.com/about/press/nammba-selects-transperfect-preferred-language-partner</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/nammba-selects-transperfect-preferred-language-partner</guid>
-            <pubDate>Wed, 25 Feb 2026 14:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Acquires German Post-Production Studio Omnimago]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-acquires-german-post-production-studio-omnimago</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-acquires-german-post-production-studio-omnimago</guid>
-            <pubDate>Tue, 10 Feb 2026 20:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Legal's Michael Kriegal Named Excellence in eDiscovery Award Finalist]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-legals-michael-kriegal-named-excellence-ediscovery-award-finalist</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-legals-michael-kriegal-named-excellence-ediscovery-award-finalist</guid>
-            <pubDate>Thu, 05 Feb 2026 14:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TransPerfect Raises More Than $90K for Toys for Tots]]></title>
-            <link>https://www.transperfect.com/about/press/transperfect-raises-more-90k-toys-tots</link>
-            <guid isPermaLink="true">https://www.transperfect.com/about/press/transperfect-raises-more-90k-toys-tots</guid>
-            <pubDate>Wed, 14 Jan 2026 21:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

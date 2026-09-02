@@ -4,11 +4,46 @@
         <description><![CDATA[RSS feed generated for lokalise-blog]]></description>
         <link>https://lokalise.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 13:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:46:45 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 13:07:18 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 12:46:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[AI translation quality evaluation: Looking beyond human review]]></title>
+            <description><![CDATA[The meeting is going well. Translation costs are down, turnaround times are shorter, and AI is taking on more of the work. Then your VP asks a question: “How do you know the quality of AI translations is good enough?” Most localization teams can confidently measure speed and cost, but measuring quality is far less straightforward. Reviews, spot checks, and a handful of examples help, but they don't provide a consistent basis for deciding where]]></description>
+            <link>https://lokalise.com/blog/ai-translation-quality-evaluation/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/ai-translation-quality-evaluation/</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to localize Figma designs using Figma's AI agent and Lokalise MCP]]></title>
+            <description><![CDATA[Figma Config changed the localization game for designers. Here&rsquo;s how to connect Figma&rsquo;s native AI agent to Lokalise via MCP &mdash; and manage translations without leaving your canvas. Something significant shifted at Figma Config. Figma introduced a native AI agent built directly into the app &mdash; and it can connect to external tools through MCP (Model Context Protocol, an open standard that lets AI assistants talk to other software). For designers who localize]]></description>
+            <link>https://lokalise.com/blog/figma-ai-agent-lokalise-mcp/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/figma-ai-agent-lokalise-mcp/</guid>
+            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Lokalise integrates with your enterprise tech stack: Salesforce, CMS, DAM, and API]]></title>
+            <description><![CDATA[Enterprise localization doesn't fail because of bad translations. It fails because tools don't talk to each other. Content sits in a CMS. Code lives in GitHub. Sales teams work in Salesforce. Support runs on Zendesk. Designers are in Figma. When the localization platform can't connect to all of them, someone ends up exporting files, emailing them around, and importing them back. That's where errors, delays, and missed launches come from. Lokalise]]></description>
+            <link>https://lokalise.com/blog/enterprise-localization-integrations/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/enterprise-localization-integrations/</guid>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best TMS platforms for developers: API, CLI, and SDK support compared]]></title>
+            <description><![CDATA[Developer-focused translation management systems (TMS) are designed to fit into existing engineering workflows. Instead of relying on manual exports, imports, and handoffs, they help teams automate localization through APIs, version control, CI/CD pipelines, and SDKs. This guide compares the best TMS platforms for developers, based on what actually matters in practice:]]></description>
+            <link>https://lokalise.com/blog/best-tms-for-developers/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/best-tms-for-developers/</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MCP for localization: How to connect AI agents to your translation workflow]]></title>
+            <description><![CDATA[You're in Cursor, working on a new feature, and you need to add a localization key. That means leaving your IDE, opening your TMS, navigating to the right project, making the change, and coming back. Then, doing this all over again the next time you need to check untranslated strings, create a task, or touch anything localization-related. Model Context Protocol (MCP) removes this context-switching loop entirely. Instead of bouncing between tools, your AI coding assistant can inter]]></description>
+            <link>https://lokalise.com/blog/mcp-for-localization/</link>
+            <guid isPermaLink="true">https://lokalise.com/blog/mcp-for-localization/</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MCP vs REST API for Localization: When to Use Each]]></title>
             <description><![CDATA[Lokalise gives developers two programmatic ways to manage localization workflows: the REST API and the MCP Server. In any MCP vs API localization decision, the key point is that one does not replace the other. The REST API is built for scripted, repeatable, deterministic automation, such as CI/CD pipelines, batch imports, and webhook-driven deployments.]]></description>
@@ -29,41 +64,6 @@
             <link>https://lokalise.com/blog/which-brands-are-localizing-best/</link>
             <guid isPermaLink="true">https://lokalise.com/blog/which-brands-are-localizing-best/</guid>
             <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 AI tools your localization team needs to master in the GenAI era]]></title>
-            <description><![CDATA[GenAI isn’t just changing how translations are produced. It’s reshaping the entire localization workflow. Most teams didn’t build their workflows for this shift. They’re still relying on a mix of spreadsheets, standalone MT engines, and manual file handoffs. It’s familiar, and for a while, it worked. But it was never designed for the scale teams are dealing with now.]]></description>
-            <link>https://lokalise.com/blog/ai-tools-for-localization-teams/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/ai-tools-for-localization-teams/</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Localization audit trail: how to track, monitor, and govern translation changes]]></title>
-            <description><![CDATA[A translation changed, but no one knows who did it or when. The release is already live. What do you do? When multiple contributors work on the same project, there’s a good chance that strings get edited, approved, overwritten, or renamed. Without a clear localization audit trail, small changes turn into production issues, and tracking them down takes time you don’t have. This lack of visibility slows you down significantly. It makes troubleshooting harder, weakens accountability,]]></description>
-            <link>https://lokalise.com/blog/localization-key-governance-audit-trail/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/localization-key-governance-audit-trail/</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI translation with glossary support: Deterministic terminology for LLMs]]></title>
-            <description><![CDATA[LLMs are fluent in generating outputs, but they're not faithful to your brand. When a general-purpose LLM translates your product UI into 15 languages, it doesn't know which terms are trademarked, which phrases have legal restrictions, or which features are deprecated. It makes a statistical guess. At scale, this guesswork can lead to major inconsistencies, compliance risks, and a post-editing overload. The challenge: AI models’ probabilistic outputs are not ideal]]></description>
-            <link>https://lokalise.com/blog/ai-translation-glossary/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/ai-translation-glossary/</guid>
-            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The localization mistakes marketers wish they could take back]]></title>
-            <description><![CDATA[Your campaign killed it at home. Then you launched it in Brazil, and the tagline became a punchline. Sound familiar? Nearly 3 in 10 marketing and company leaders say it's happened to them, and the cleanup cost thousands of dollars. Lokalise surveyed 392 marketing and sales leaders who localize content across multiple countries and languages to find out what actually goes wrong, and what they'd do differently. What came back wasn't a polished post-mortem. It was an honest reckoning from]]></description>
-            <link>https://lokalise.com/blog/localization-regrets-and-best-practices/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/localization-regrets-and-best-practices/</guid>
-            <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Localized brands are winning AI search]]></title>
-            <description><![CDATA[You're optimizing for AI search. But are you doing it in every language that matters? We surveyed 1,000 global marketing, SEO, and localization leaders and found that brands investing in localized content are already seeing stronger AI search visibility. Meanwhile, companies that haven't started optimizing say budget is the biggest thing holding them back. Here's what the data shows. Key takeaways 63% of global companies a]]></description>
-            <link>https://lokalise.com/blog/localized-brands-ai-search-visibility/</link>
-            <guid isPermaLink="true">https://lokalise.com/blog/localized-brands-ai-search-visibility/</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

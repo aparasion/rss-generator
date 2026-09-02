@@ -4,64 +4,64 @@
         <description><![CDATA[RSS feed generated for phrase-blog]]></description>
         <link>https://phrase.com/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 13:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:46:44 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/phrase-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 13:07:18 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 12:46:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[You Built It. Now Who Owns It?]]></title>
-            <description><![CDATA[Most organizations plan carefully for what they are building. Almost none plan for what maintaining it will cost them. Drawing on insights from Elaine Barsoom, who built Nike’s first AI…Read more]]></description>
-            <link>https://phrase.com/blog/posts/enterprise-ai-build-vs-buy-ownership/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/enterprise-ai-build-vs-buy-ownership/</guid>
+            <title><![CDATA[The $549 Billion Industry Where Content Is Clinical Infrastructure]]></title>
+            <description><![CDATA[A physician choosing a medical device is making a decision with consequences far beyond the brand. After more than 40 product launches across 135 countries, Cordis marketing leader Terrence Wiggins…Read more]]></description>
+            <link>https://phrase.com/blog/posts/the-549-billion-industry-where-content-is-clinical-infrastructure/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/the-549-billion-industry-where-content-is-clinical-infrastructure/</guid>
         </item>
         <item>
-            <title><![CDATA[Forcing the fit: MQM in the age of automated evaluation]]></title>
-            <description><![CDATA[MQM was the most robust answer we had for human evaluation. Automated evaluation is a different problem, and the seams are starting to show.Read more]]></description>
-            <link>https://phrase.com/blog/posts/mqm-automated-translation-evaluation/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/mqm-automated-translation-evaluation/</guid>
+            <title><![CDATA[The localization work you never signed up for (and how continuous localization takes it back)]]></title>
+            <description><![CDATA[Long before I’d ever heard the term ‘continuous localization’ I was already very familiar with the problem it’s meant to solve. I spent years working as an iOS developer before…Read more]]></description>
+            <link>https://phrase.com/blog/posts/the-localization-work-you-never-signed-up-for/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/the-localization-work-you-never-signed-up-for/</guid>
         </item>
         <item>
-            <title><![CDATA[Multilingual video localization, with the assets you’ve already built]]></title>
-            <description><![CDATA[When AV runs outside your TMS, terminology drifts and consistency breaks down. Phrase Studio closes that gap by running subtitling, dubbing, and voice-over inside the same workflow your text content…Read more]]></description>
-            <link>https://phrase.com/blog/posts/multilingual-video-localization-phrase-studio/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/multilingual-video-localization-phrase-studio/</guid>
+            <title><![CDATA[The problem with scaling AI is that it knows everything except your customers]]></title>
+            <description><![CDATA[AI models are rapidly becoming easier for every enterprise to access. The harder advantage to replicate is what your business already knows about its customers and markets. Georg Ell examines…Read more]]></description>
+            <link>https://phrase.com/blog/posts/the-problem-with-scaling-ai-is-that-it-knows-everything-except-your-customers/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/the-problem-with-scaling-ai-is-that-it-knows-everything-except-your-customers/</guid>
         </item>
         <item>
-            <title><![CDATA[Every market is a new market]]></title>
-            <description><![CDATA[Your brand and your existing playbook will earn you a foothold in a new market. What they won’t do is carry you to sustained growth. Kevin O’Donnell on why international…Read more]]></description>
-            <link>https://phrase.com/blog/posts/international-expansion-go-to-market-strategy/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/international-expansion-go-to-market-strategy/</guid>
+            <title><![CDATA[Phrase Data: Understand the business impact behind your localization costs]]></title>
+            <description><![CDATA[How well can you map your MT and AI spend to the value it’s creating? You already know what that spend costs. What’s harder is connecting it to what your…Read more]]></description>
+            <link>https://phrase.com/blog/posts/phrase-data-understand-the-business-impact-behind-your-localization-costs/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/phrase-data-understand-the-business-impact-behind-your-localization-costs/</guid>
         </item>
         <item>
-            <title><![CDATA[Phrase is the Language Intelligence Platform.]]></title>
-            <description><![CDATA[Most announcements work like this. A company describes what it intends to build, frames it as a vision, and asks you to believe the future they’re describing. This post is…Read more]]></description>
-            <link>https://phrase.com/blog/posts/phrase-language-intelligence-platform/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/phrase-language-intelligence-platform/</guid>
+            <title><![CDATA[The judgment layer]]></title>
+            <description><![CDATA[At the 2025 Indie Game Awards, two prizes were withdrawn over AI use that never appeared in the finished product. This article examines the question that controversy exposed, and proposes…Read more]]></description>
+            <link>https://phrase.com/blog/posts/the-judgment-layer/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/the-judgment-layer/</guid>
         </item>
         <item>
-            <title><![CDATA[Should you build or buy your localization infrastructure?]]></title>
-            <description><![CDATA[The instinct to build is strongest in engineering-led companies. But maintaining a localization platform over time is a different problem than building a proof of concept — and most organizations…Read more]]></description>
-            <link>https://phrase.com/blog/posts/build-vs-buy-localization-infrastructure/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/build-vs-buy-localization-infrastructure/</guid>
+            <title><![CDATA[The 2-hour economy]]></title>
+            <description><![CDATA[Something has quietly changed in the relationship between businesses and their customers over the past few years. Businesses could once assume that the friction of switching providers and the effort…Read more]]></description>
+            <link>https://phrase.com/blog/posts/the-2-hour-economy/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/the-2-hour-economy/</guid>
         </item>
         <item>
-            <title><![CDATA[How AI and hyper-localization are changing international growth]]></title>
-            <description><![CDATA[The real opportunity in AI isn’t faster output — it’s reaching audiences that were previously too niche or too expensive to serve. Kevin O’Donnell explains why hyper-localization is becoming a…Read more]]></description>
-            <link>https://phrase.com/blog/posts/ai-hyper-localization-international-growth/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-hyper-localization-international-growth/</guid>
+            <title><![CDATA[If your competitors use the same AI, what makes you different?]]></title>
+            <description><![CDATA[As access to the same AI models becomes widespread, production capability becomes less distinctive. Drawing on insights from Tamara Tirják, former localization leader at Frontier Developments, this article examines what…Read more]]></description>
+            <link>https://phrase.com/blog/posts/if-your-competitors-use-the-same-ai-what-makes-you-different/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/if-your-competitors-use-the-same-ai-what-makes-you-different/</guid>
         </item>
         <item>
-            <title><![CDATA[A model that generated billions in Europe didn’t survive the US market]]></title>
-            <description><![CDATA[The companies capturing real value from AI aren’t the ones with the biggest budgets or the most sophisticated tooling. They’re the ones that understood early that the technology was never…Read more]]></description>
-            <link>https://phrase.com/blog/posts/ai-transformation-operating-model-adoption/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/ai-transformation-operating-model-adoption/</guid>
+            <title><![CDATA[When revenue pressure overrides AI governance]]></title>
+            <description><![CDATA[More than 70% of governance leaders said they would keep unaudited AI running if revenue depended on it. Drawing on insights from Dr. Eva-Marie Muller-Stuler on the In Other Words…Read more]]></description>
+            <link>https://phrase.com/blog/posts/when-revenue-pressure-overrides-ai-governance/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/when-revenue-pressure-overrides-ai-governance/</guid>
         </item>
         <item>
-            <title><![CDATA[Why most companies don’t have an international dashboard, and what it’s costing them]]></title>
-            <description><![CDATA[When you break global revenue down by individual market, patterns emerge that should be driving strategic decisions. Most companies don’t have the reporting infrastructure to see them.Read more]]></description>
-            <link>https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</link>
-            <guid isPermaLink="true">https://phrase.com/blog/posts/international-dashboard-global-revenue-reporting/</guid>
+            <title><![CDATA[When translation costs hit zero]]></title>
+            <description><![CDATA[AI is rapidly reducing the cost of producing multilingual content, forcing business leaders to reconsider where lasting value now sits. Georg Ell argues that the advantage lies in the context…Read more]]></description>
+            <link>https://phrase.com/blog/posts/when-translation-costs-hit-zero/</link>
+            <guid isPermaLink="true">https://phrase.com/blog/posts/when-translation-costs-hit-zero/</guid>
         </item>
     </channel>
 </rss>
