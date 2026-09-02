@@ -4053,6 +4053,14 @@
     "https://www.nature.com/articles/d41586-026-02729-5": {
       "relevant": false,
       "checkedAt": "2026-09-02T17:10:02.990Z"
+    },
+    "https://www.nature.com/articles/s41586-026-10982-x": {
+      "relevant": false,
+      "checkedAt": "2026-09-02T19:47:42.330Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02761-5": {
+      "relevant": false,
+      "checkedAt": "2026-09-02T19:47:42.330Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -5367,6 +5375,14 @@
     "https://www.fiercebiotech.com/biotech/sec-fda-sign-info-sharing-agreement-signal-market-insider-trading": {
       "relevant": false,
       "checkedAt": "2026-09-02T17:10:01.759Z"
+    },
+    "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition": {
+      "relevant": false,
+      "checkedAt": "2026-09-02T19:47:42.264Z"
+    },
+    "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland": {
+      "relevant": false,
+      "checkedAt": "2026-09-02T19:47:42.264Z"
     }
   },
   "OpenAI-News-L10N": {
