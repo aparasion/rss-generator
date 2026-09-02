@@ -4,9 +4,9 @@
         <description><![CDATA[OpenAI news posts filtered for translation, linguistics, and localization topics]]></description>
         <link>https://openai.com/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 12:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 17:10:02 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 12:46:44 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 17:10:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -31,11 +31,60 @@
             <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scam operations: Online fraud networks]]></title>
+            <description><![CDATA[OpenAI banned accounts tied to online fraud networks using AI to support scam scripts, impersonation, translation, and victim engagement.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vixen and Keyhole Panda: China-linked cyber operations]]></title>
+            <description><![CDATA[OpenAI banned accounts associated with threat actors publicly attributed to the PRC, using AI to support vulnerability research, scripting, translation, and operational troubleshooting.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Task scam: AI-assisted fake review jobs]]></title>
+            <description><![CDATA[OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate messages for fake-review job scams that asked victims to pay fees.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-task-scam</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-task-scam</guid>
+            <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Romance-baiting scam: AI-assisted pig butchering workflows]]></title>
+            <description><![CDATA[OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate and generate romance, investment scam conversations.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam</guid>
+            <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[STORM-0817: Iran-linked malware and scraping activity]]></title>
+            <description><![CDATA[OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps]]></title>
             <description><![CDATA[Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps]]></description>
             <link>https://openai.com/index/state-of-minnesota</link>
             <guid isPermaLink="true">https://openai.com/index/state-of-minnesota</guid>
             <pubDate>Thu, 26 Sep 2024 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Operation "Doppelganger": Russian influence activity targeting Ukraine]]></title>
+            <description><![CDATA[OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to generate anti-Ukraine social media comments, translations, and website copy across several languages.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger</guid>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IUVM: Iran-linked influence content network]]></title>
+            <description><![CDATA[OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate and translate pro-Iran, anti-Israel and anti-US website content.]]></description>
+            <link>https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm</link>
+            <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm</guid>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI Codex]]></title>
