@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 22:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:13:02 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 22:38:17 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 11:13:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’]]></title>
+            <description><![CDATA[Ultragenyx had been flying high after its recent FDA approval for Genglycos—but the company has been brought back down to earth with a damaging phase 3 flop.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction</guid>
+        </item>
         <item>
             <title><![CDATA[Teva autoimmune antibody notches ph. 2 win in celiac disease]]></title>
             <description><![CDATA[Teva Pharmaceutical's dreams of a first-in-class autoimmune blockbuster are being kept alive after the Israeli outfit’s anti-interleukin-15 antibody scored a midstage win in celiac disease.]]></description>
