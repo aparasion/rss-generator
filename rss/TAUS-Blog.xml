@@ -4,66 +4,15 @@
         <description><![CDATA[RSS feed generated for TAUS-Blog]]></description>
         <link>https://www.taus.net/resources/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 12:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:56:31 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/TAUS-Blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 12:46:45 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 14:56:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
-            <title><![CDATA[Why Choose Between Conferences? TAUS & LocWorld ComboPass now available]]></title>
-            <description><![CDATA[Join TAUS and LocWorld for Vancouver Localization Week 2026, combining two essential conferences for a unique, cost-effective learning experience in localization.]]></description>
-            <link>https://www.taus.net/resources/blog/why-choose-between-conferences-taus-locworld-combopass-now-available</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/why-choose-between-conferences-taus-locworld-combopass-now-available</guid>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry-First Specialized Quality Estimation Model for Canadian French Now Live!]]></title>
-            <description><![CDATA[New AI model challenges the industry’s European French default, delivering a 3x leap in efficiency savings while ensuring strict Canadian compliance.]]></description>
-            <link>https://www.taus.net/resources/blog/industry-first-specialized-quality-estimation-model-for-canadian-french-now-live</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/industry-first-specialized-quality-estimation-model-for-canadian-french-now-live</guid>
-            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond the Colosseum: Meet the Pioneers of the 2026 TAUS EU Localization Championship]]></title>
-            <description><![CDATA[Discover the groundbreaking innovations from the 2026 TAUS EU Localization Championship, showcasing the future of multilingual communication and AI technology.]]></description>
-            <link>https://www.taus.net/resources/blog/meet-the-pioneers-of-the-2026-taus-eu-localization-championship-winners</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/meet-the-pioneers-of-the-2026-taus-eu-localization-championship-winners</guid>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quality Estimation is not solved. It’s just… included.]]></title>
-            <description><![CDATA[Quality Estimation in machine translation may be standard, but it often lacks reliability. Discover how to evaluate its effectiveness and avoid false confidence.]]></description>
-            <link>https://www.taus.net/resources/blog/quality-estimation-is-not-solved-its-just-included</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/quality-estimation-is-not-solved-its-just-included</guid>
-            <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why TMS is No Longer Enough]]></title>
-            <description><![CDATA[The translation industry must evolve beyond traditional TMS to embrace AI and Quality Estimation technology, ensuring cultural intelligence and brand integrity.]]></description>
-            <link>https://www.taus.net/resources/blog/why-tms-is-no-longer-enough-by-jaap-van-der-meer</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/why-tms-is-no-longer-enough-by-jaap-van-der-meer</guid>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New TAUS EPIC Features for Scalable and Smarter Quality Estimation]]></title>
-            <description><![CDATA[Discover how all the new EPIC features give even more flexibility in handling Quality Estimation and Automated Post Editing on your content.]]></description>
-            <link>https://www.taus.net/resources/blog/new-taus-epic-features-for-scalable-and-smarter-quality-estimation</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/new-taus-epic-features-for-scalable-and-smarter-quality-estimation</guid>
-            <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customized Quality Estimation models: Are you ready for them?]]></title>
-            <description><![CDATA[TAUS EPIC API's customizable Quality Estimation models can enhance translation workflows and meet specific needs without requiring in-house NLP expertise.]]></description>
-            <link>https://www.taus.net/resources/blog/customized-quality-estimation-models-are-you-ready-for-them</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/customized-quality-estimation-models-are-you-ready-for-them</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Case for Launching Your Own AI Quality Companion]]></title>
-            <description><![CDATA[Explore how TAUS EPIC API's Quality Estimation can revolutionize translation workflows, that offer scalable, domain-specific solutions for Language Service Providers without the need for in-house NLP experts.]]></description>
-            <link>https://www.taus.net/resources/blog/a-case-for-launching-your-own-ai-quality-companion</link>
-            <guid isPermaLink="true">https://www.taus.net/resources/blog/a-case-for-launching-your-own-ai-quality-companion</guid>
-            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.taus.net/resources/blog/epic-qe-model-version-3-is-now-available</link>
+            <guid isPermaLink="true">https://www.taus.net/resources/blog/epic-qe-model-version-3-is-now-available</guid>
         </item>
     </channel>
 </rss>

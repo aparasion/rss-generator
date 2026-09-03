@@ -4065,6 +4065,14 @@
     "https://www.nature.com/articles/d41586-026-02745-5": {
       "relevant": false,
       "checkedAt": "2026-09-02T22:38:18.862Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02765-1": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T14:56:30.790Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02781-1": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T14:56:30.790Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -5391,6 +5399,18 @@
     "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction": {
       "relevant": true,
       "checkedAt": "2026-09-03T11:13:02.627Z"
+    },
+    "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data": {
+      "relevant": true,
+      "checkedAt": "2026-09-03T14:56:30.833Z"
+    },
+    "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T14:56:30.833Z"
+    },
+    "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T14:56:30.833Z"
     }
   },
   "OpenAI-News-L10N": {

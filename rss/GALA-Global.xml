@@ -4,11 +4,17 @@
         <description><![CDATA[RSS feed generated for GALA-Global]]></description>
         <link>https://www.gala-global.org/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 11:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:56:32 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/GALA-Global.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 11:13:03 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 14:56:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Ciklopea at Automechanika Frankfurt 2026]]></title>
+            <description><![CDATA[Ciklopea is heading to Automechanika 2026, taking place from September 8–12 at Messe Frankfurt, Germany. The event will bring together more than 4,400 exhibitors from over 80 countries, showcasing technologies and trends shaping the future of the automotive aftermarket. Continue Reading]]></description>
+            <link>https://www.gala-global.org/news/ciklopea-at-automechanika-frankfurt-2026</link>
+            <guid isPermaLink="true">https://www.gala-global.org/news/ciklopea-at-automechanika-frankfurt-2026</guid>
+        </item>
         <item>
             <title><![CDATA[Welo Global Shortlisted in Four Categories at the 2026 A.I. Awards]]></title>
             <description><![CDATA[Welo Global shortlisted in four categories at The 2026 A.I. Awards, with Opal and Park IP's Legal Studio recognized for agentic, multilingual, and legal AI. Continue Reading]]></description>
@@ -74,12 +80,6 @@
             <description><![CDATA[Self-evaluation (quality estimation) is now part of the training process, enabling the model to learn from its own work and reducing the need for more data and additional quality-estimation steps. Continue Reading]]></description>
             <link>https://www.gala-global.org/news/translated-introduces-lara-3-a-translation--specialized-llm-that-outperforms-frontier-systems-on-qu</link>
             <guid isPermaLink="true">https://www.gala-global.org/news/translated-introduces-lara-3-a-translation--specialized-llm-that-outperforms-frontier-systems-on-qu</guid>
-        </item>
-        <item>
-            <title><![CDATA[Why GALA, and Why Now]]></title>
-            <description><![CDATA[The language and localization industry moves quickly, and GALA membership is built to move with it. Membership means access to the knowledge and networks that help you stay ahead, and it means being part of an organization that keeps evolving alongside the industry it serves. Continue Reading]]></description>
-            <link>https://www.gala-global.org/news/why-gala-and-why-now</link>
-            <guid isPermaLink="true">https://www.gala-global.org/news/why-gala-and-why-now</guid>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 11:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 14:56:30 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 11:13:02 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 14:56:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data]]></title>
+            <description><![CDATA[Roche has decided to pay $190 million upfront for an unusual obesity mechanism after viewing preclinical data that “clearly suggests” the modality can reduce weight while preserving lean muscle, Fierce has learned.]]></description>
+            <link>https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data</guid>
+        </item>
         <item>
             <title><![CDATA[Ultragenyx fails phase 3 Angelman test, plots ‘significant expense reductions’]]></title>
             <description><![CDATA[Ultragenyx had been flying high after its recent FDA approval for Genglycos—but the company has been brought back down to earth with a damaging phase 3 flop.]]></description>
@@ -50,18 +56,6 @@
             <description><![CDATA[Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.]]></description>
             <link>https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</guid>
-        </item>
-        <item>
-            <title><![CDATA[ESC26: AstraZeneca's heart failure drug shows promise in ph. 2 trial]]></title>
-            <description><![CDATA[AstraZeneca’s oral relaxin agonist delivered encouraging phase 2b results in chronic heart failure, improving measures of cardiac function across two patient groups.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/esc26-astrazenecas-heart-failure-drug-shows-promise-ph-2-trial</guid>
-        </item>
-        <item>
-            <title><![CDATA[Eli Lilly inks $2.88B Merida buyout for autoimmune drugs against rogue antibodies]]></title>
-            <description><![CDATA[Eli Lilly has struck a deal to acquire Merida Biosciences for up to $2.875 billion, establishing a beachhead in efforts to treat disease through the selective degradation of pathogenic autoantibodies.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/eli-lilly-inks-29b-merida-buyout-autoimmune-drugs-against-rogue-antibodies</guid>
         </item>
     </channel>
 </rss>
