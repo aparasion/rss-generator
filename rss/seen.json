@@ -4073,6 +4073,22 @@
     "https://www.nature.com/articles/d41586-026-02781-1": {
       "relevant": false,
       "checkedAt": "2026-09-03T14:56:30.790Z"
+    },
+    "https://www.nature.com/articles/s41586-026-11091-5": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:02.740Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02744-6": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:02.740Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02650-x": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:02.740Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02517-1": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:02.740Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -5411,6 +5427,14 @@
     "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset": {
       "relevant": false,
       "checkedAt": "2026-09-03T14:56:30.833Z"
+    },
+    "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice": {
+      "relevant": true,
+      "checkedAt": "2026-09-03T18:38:02.665Z"
+    },
+    "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:02.665Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -10321,6 +10345,14 @@
     "https://openai.com/index/atv-big-air-tour": {
       "relevant": false,
       "checkedAt": "2026-09-03T01:06:54.186Z"
+    },
+    "https://openai.com/index/playco-game-prototyping-with-astra": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:03.101Z"
+    },
+    "https://openai.com/index/legora-financial-statement-review-with-astra": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T18:38:03.101Z"
     }
   },
   "Cohere-Newsroom-L10N": {

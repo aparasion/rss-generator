@@ -4,11 +4,17 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 14:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 18:38:02 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 14:56:30 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 18:38:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Psilocybin proves promising in neuropathic pain mouse study]]></title>
+            <description><![CDATA[Amid the rise of psychedelics in the mental health space, researchers have begun to explore psilocybin as a treatment for chemotherapy-induced peripheral neuropathy.]]></description>
+            <link>https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice</link>
+            <guid isPermaLink="true">https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice</guid>
+        </item>
         <item>
             <title><![CDATA[Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data]]></title>
             <description><![CDATA[Roche has decided to pay $190 million upfront for an unusual obesity mechanism after viewing preclinical data that “clearly suggests” the modality can reduce weight while preserving lean muscle, Fierce has learned.]]></description>
