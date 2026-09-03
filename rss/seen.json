@@ -10353,6 +10353,14 @@
     "https://openai.com/index/legora-financial-statement-review-with-astra": {
       "relevant": false,
       "checkedAt": "2026-09-03T18:38:03.101Z"
+    },
+    "https://openai.com/index/daybreak-for-frontline-defenders": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T21:42:22.811Z"
+    },
+    "https://openai.com/index/safety-overview-gpt-6-astra": {
+      "relevant": false,
+      "checkedAt": "2026-09-03T21:42:22.811Z"
     }
   },
   "Cohere-Newsroom-L10N": {
