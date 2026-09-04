@@ -4,9 +4,9 @@
         <description><![CDATA[RSS feed generated for TAUS-Blog]]></description>
         <link>https://www.taus.net/resources/blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 18:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 12:51:13 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/TAUS-Blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 18:38:02 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 12:51:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>

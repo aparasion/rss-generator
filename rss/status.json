@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T09:45:35.898Z",
-  "durationMs": 6325,
+  "generatedAt": "2026-09-04T12:51:18.698Z",
+  "durationMs": 6477,
   "feeds": [
     {
       "name": "TAUS-Blog",
       "url": "https://www.taus.net/resources/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/TAUS-Blog.xml",
-      "status": "not_modified",
-      "items": null,
-      "durationMs": 546
+      "status": "success",
+      "items": 8,
+      "durationMs": 929
     },
     {
       "name": "DATAmundi-Newsroom",
@@ -25,7 +25,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/GALA-Global.xml",
       "status": "success",
       "items": 12,
-      "durationMs": 1389
+      "durationMs": 2130
     },
     {
       "name": "XTM-Blog",
@@ -33,7 +33,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/XTM-Blog.xml",
       "status": "success",
       "items": 1,
-      "durationMs": 1356
+      "durationMs": 1333
     },
     {
       "name": "LingopalAI",
@@ -41,7 +41,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/LingopalAI.xml",
       "status": "not_modified",
       "items": null,
-      "durationMs": 510
+      "durationMs": 760
     },
     {
       "name": "phrase-blog",
@@ -49,15 +49,15 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/phrase-blog.xml",
       "status": "success",
       "items": 9,
-      "durationMs": 676
+      "durationMs": 1028
     },
     {
       "name": "lokalise-blog",
       "url": "https://lokalise.com/blog/",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/lokalise-blog.xml",
-      "status": "not_modified",
-      "items": null,
-      "durationMs": 955
+      "status": "success",
+      "items": 8,
+      "durationMs": 1442
     },
     {
       "name": "crowdin-blog",
@@ -65,7 +65,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml",
       "status": "success",
       "items": 14,
-      "durationMs": 563
+      "durationMs": 662
     },
     {
       "name": "PRNewswire-L10N",
@@ -73,7 +73,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/PRNewswire-L10N.xml",
       "status": "success",
       "items": 0,
-      "durationMs": 499
+      "durationMs": 595
     },
     {
       "name": "RWS-media-centre",
@@ -81,7 +81,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/RWS-media-centre.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 1003
+      "durationMs": 954
     },
     {
       "name": "transperfect-news-and-press",
@@ -89,23 +89,23 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/transperfect-news-and-press.xml",
       "status": "success",
       "items": 20,
-      "durationMs": 1582
+      "durationMs": 1118
     },
     {
       "name": "FierceBiotech-Health-Longevity",
       "url": "https://www.fiercebiotech.com/rss/xml",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml",
-      "status": "not_modified",
-      "items": null,
-      "durationMs": 602
+      "status": "success",
+      "items": 8,
+      "durationMs": 697
     },
     {
       "name": "Nature-Aging-Longevity",
       "url": "https://www.nature.com/nature.rss",
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Nature-Aging-Longevity.xml",
-      "status": "not_modified",
-      "items": null,
-      "durationMs": 1942
+      "status": "success",
+      "items": 4,
+      "durationMs": 753
     },
     {
       "name": "Cohere-Newsroom-L10N",
@@ -113,7 +113,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/Cohere-Newsroom-L10N.xml",
       "status": "success",
       "items": 1,
-      "durationMs": 1909
+      "durationMs": 1767
     },
     {
       "name": "OpenAI-News-L10N",
@@ -121,7 +121,7 @@
       "feedUrl": "https://aparasion.github.io/rss-generator/rss/OpenAI-News-L10N.xml",
       "status": "success",
       "items": 13,
-      "durationMs": 939
+      "durationMs": 868
     }
   ]
 }

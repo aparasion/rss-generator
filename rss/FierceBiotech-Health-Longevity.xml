@@ -4,9 +4,9 @@
         <description><![CDATA[FierceBiotech articles filtered for longevity, health, diet, and healthspan research]]></description>
         <link>https://www.fiercebiotech.com/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 21:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 12:51:12 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/FierceBiotech-Health-Longevity.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 21:42:22 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 12:51:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -56,12 +56,6 @@
             <description><![CDATA[GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month.]]></description>
             <link>https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots</link>
             <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots</guid>
-        </item>
-        <item>
-            <title><![CDATA[UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies]]></title>
-            <description><![CDATA[Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.]]></description>
-            <link>https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</link>
-            <guid isPermaLink="true">https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events</guid>
         </item>
     </channel>
 </rss>

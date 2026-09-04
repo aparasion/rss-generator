@@ -4093,6 +4093,10 @@
     "https://www.nature.com/articles/d41586-026-02739-3": {
       "relevant": false,
       "checkedAt": "2026-09-04T04:35:42.436Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02741-9": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T12:51:13.006Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -5439,6 +5443,14 @@
     "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal": {
       "relevant": false,
       "checkedAt": "2026-09-03T18:38:02.665Z"
+    },
+    "https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T12:51:12.950Z"
+    },
+    "https://www.fiercebiotech.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T12:51:12.950Z"
     }
   },
   "OpenAI-News-L10N": {
