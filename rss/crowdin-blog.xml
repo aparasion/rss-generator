@@ -4,15 +4,22 @@
         <description><![CDATA[RSS feed generated for crowdin-blog]]></description>
         <link>https://crowdin.com/blog</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 18:23:57 GMT</lastBuildDate>
         <atom:link href="https://aparasion.github.io/rss-generator/rss/crowdin-blog.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:21:10 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 18:23:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Engineering]]></title>
             <link>https://crowdin.com/blog/category/engineering-teams</link>
             <guid isPermaLink="true">https://crowdin.com/blog/category/engineering-teams</guid>
+        </item>
+        <item>
+            <title><![CDATA[What’s new at Crowdin: August 2026]]></title>
+            <description><![CDATA[This August was about giving your AI agent the whole Crowdin toolkit. The MCP Server already lets an agent access your projects, now it has the tools to work in your codebase too. Crowdin CLI 5.0 is a complete rewrite that starts in milliseconds and speaks JSON and TOON. Four new Crowdin Skills came with it, including i18n-setup, which takes an app from hardcoded strings to multilingual on its own. Copilot can now build an AI Pipeline from a plain-language description, and you can add to a…]]></description>
+            <link>https://crowdin.com/blog/whats-new-at-crowdin-august-2026</link>
+            <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-august-2026</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How MiQ Turned a 2-Week Localization Bottleneck into a 15-Minute Config Change]]></title>
@@ -97,13 +104,6 @@
             <link>https://crowdin.com/blog/whats-new-at-crowdin-june-2026</link>
             <guid isPermaLink="true">https://crowdin.com/blog/whats-new-at-crowdin-june-2026</guid>
             <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Crowdin Advisors: Background analyzer for your localization setup]]></title>
-            <description><![CDATA[When you manage multiple localization projects or work with always-changing content, keeping track of project health is difficult. Missing glossaries, unattached style guides, or strings without context lead directly to poor translation quality – whether you use human translators or AI. To fix this, we built Advisors. It works as a background analyzer for your localization configurations. It monitors your setup against quality standards and flags missing or under-configured resources before…]]></description>
-            <link>https://crowdin.com/blog/crowdin-advisors</link>
-            <guid isPermaLink="true">https://crowdin.com/blog/crowdin-advisors</guid>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

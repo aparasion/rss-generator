@@ -4097,6 +4097,26 @@
     "https://www.nature.com/articles/d41586-026-02741-9": {
       "relevant": false,
       "checkedAt": "2026-09-04T12:51:13.006Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02800-1": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.183Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02643-w": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.183Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02801-0": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.183Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02758-0": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.183Z"
+    },
+    "https://www.nature.com/articles/d41586-026-02740-w": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.184Z"
     }
   },
   "FierceBiotech-Health-Longevity": {
@@ -5451,6 +5471,14 @@
     "https://www.fiercebiotech.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed": {
       "relevant": false,
       "checkedAt": "2026-09-04T12:51:12.950Z"
+    },
+    "https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline": {
+      "relevant": false,
+      "checkedAt": "2026-09-04T18:23:58.214Z"
+    },
+    "https://www.fiercebiotech.com/biotech/menarini-group-signs-771m-deal-take-gan-lee-glp-1-european-market": {
+      "relevant": true,
+      "checkedAt": "2026-09-04T18:23:58.214Z"
     }
   },
   "OpenAI-News-L10N": {
