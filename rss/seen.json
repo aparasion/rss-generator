@@ -5483,6 +5483,10 @@
     "https://www.fiercebiotech.com/biotech/menarini-group-signs-771m-deal-take-gan-lee-glp-1-european-market": {
       "relevant": true,
       "checkedAt": "2026-09-04T18:23:58.214Z"
+    },
+    "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-fails-lower-cardiovascular-risk-closely-watched-ph-3-trial": {
+      "relevant": true,
+      "checkedAt": "2026-09-05T04:26:38.622Z"
     }
   },
   "OpenAI-News-L10N": {
@@ -10413,6 +10417,10 @@
     "https://openai.com/index/gpt-4": {
       "relevant": false,
       "checkedAt": "2026-09-04T00:09:52.780Z"
+    },
+    "https://openai.com/index/gpt-6-astra": {
+      "relevant": false,
+      "checkedAt": "2026-09-05T04:26:38.816Z"
     }
   },
   "Cohere-Newsroom-L10N": {
